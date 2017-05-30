@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/post/lets-get-started/</loc>
+    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/</loc>
+    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/post/</loc>
+    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/categories/preparation/</loc>
+    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/travel/</loc>
+    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

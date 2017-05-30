@@ -1,0 +1,4 @@
+baseURL = "http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-tranquilpeak-theme"
