@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Traveling bubbles! </title>
+    <link>https://www.traveling-bubbles.com/tags/</link>
     <language>en-us</language>
+    <author></author>
+    <rights>(C) 2017</rights>
+    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+
     
-	<atom:link href="http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Travel</title>
-      <link>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/travel/</link>
-      <pubDate>Tue, 30 May 2017 12:29:51 +0200</pubDate>
       
-      <guid>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/travel/</guid>
-      <description></description>
-    </item>
     
+
   </channel>
 </rss>

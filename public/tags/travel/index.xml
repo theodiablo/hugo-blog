@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on My New Hugo Site</title>
-    <link>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/travel/</link>
-    <description>Recent content in Travel on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Traveling bubbles! </title>
+    <link>https://www.traveling-bubbles.com/tags/travel/</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 12:29:51 +0200</lastBuildDate>
+    <author></author>
+    <rights>(C) 2017</rights>
+    <updated>2017-05-30 12:29:51 &#43;0200 CEST</updated>
+
     
-	<atom:link href="http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>lets get started</title>
-      <link>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/post/lets-get-started/</link>
-      <pubDate>Tue, 30 May 2017 12:29:51 +0200</pubDate>
       
-      <guid>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/post/lets-get-started/</guid>
-      <description> HERE WE AREEEE!!! </description>
-    </item>
+        <item>
+          <title>Let&#39;s get started!</title>
+          <link>https://www.traveling-bubbles.com/post/lets-get-started/</link>
+          <pubDate>Tue, 30 May 2017 12:29:51 CEST</pubDate>
+          <author></author>
+          <guid>https://www.traveling-bubbles.com/post/lets-get-started/</guid>
+          <description>
+
+&lt;h1 id=&#34;here-we-areeee&#34;&gt;HERE WE AREEEE!!!&lt;/h1&gt;
+
+&lt;p&gt;Sooo&amp;hellip; this is the first page of our amazing blog. Hope you&amp;rsquo;ll like it A LOT ;-)&lt;/p&gt;
+</description>
+        </item>
+      
     
+
   </channel>
 </rss>

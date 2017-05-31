@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/post/lets-get-started/</loc>
+    <loc>https://www.traveling-bubbles.com/post/lets-get-started/</loc>
     <lastmod>2017-05-30T12:29:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/categories/</loc>
+    <loc>https://www.traveling-bubbles.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/</loc>
-    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/post/</loc>
+    <loc>https://www.traveling-bubbles.com/post/</loc>
     <lastmod>2017-05-30T12:29:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/categories/preparation/</loc>
+    <loc>https://www.traveling-bubbles.com/categories/preparation/</loc>
     <lastmod>2017-05-30T12:29:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/</loc>
+    <loc>https://www.traveling-bubbles.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/tags/travel/</loc>
+    <loc>https://www.traveling-bubbles.com/tags/travel/</loc>
+    <lastmod>2017-05-30T12:29:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.traveling-bubbles.com/</loc>
     <lastmod>2017-05-30T12:29:51+02:00</lastmod>
     <priority>0</priority>
   </url>
