@@ -14,7 +14,7 @@ paginate = 3
   googleAnalyticsUserID = "UA-100203771-1"
   dateFormat = "2 January 2006"
   keywords = ["travel", "sightseeing", "backpacker"]
-  sidebarBehavior = 1
+  sidebarBehavior = 2
   thumbnailImage = true
   thumbnailImagePosition = "right"
   autoThumbnailImage = true
@@ -60,26 +60,6 @@ paginate = 3
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
-
-[[menu.links]]
-  weight = 0
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 1
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
-
-[[menu.misc]]
-  weight = 0
-  identifier = "rss"
-  name = "RSS"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
 
  [params.header.rightLink]
   class = "open-algolia-search"
