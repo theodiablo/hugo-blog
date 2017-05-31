@@ -1,9 +1,9 @@
 language: go
-cache: 
-  directories:
-  - $HOME/gopath/src/github.com/
-  - $HOME/gopath/src/golang.org/
-  - $HOME/gopath/src/gopkg.in/
+#cache: 
+#  directories:
+#  - $HOME/gopath/src/github.com/
+#  - $HOME/gopath/src/golang.org/
+#  - $HOME/gopath/src/gopkg.in/
 
 install: go get -v github.com/spf13/hugo
 script:
