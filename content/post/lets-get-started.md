@@ -11,3 +11,5 @@ image = "hapiness.jpg"
 # HERE WE AREEEE!!!
 
 Sooo... this is the first page of our amazing blog. Hope you'll like it A LOT ;-)
+
+## Incredible things ahead
