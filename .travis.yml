@@ -10,7 +10,7 @@ script:
   - hugo
   - python --version
   - sudo pip install s3cmd
-  - s3cmd sync --delete-removed -P -M -r public/* s3://theodiablo-travel-blog/
+  - s3cmd sync --delete-removed --check-md5 -P -M -r public/* s3://theodiablo-travel-blog/
 notifications:
     email:
         on_failure: always
