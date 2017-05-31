@@ -13,7 +13,7 @@ image = "hapiness.jpg"
 Sooo... this is the first page of our amazing blog. Hope you'll like it A LOT ;-)
 
 ## Incredible things ahead
-[Hah hahaah]({{< relref "blog/post.md" >}})
+But before this, [PACKING TIME!!!]({{< relref "post/bag-packing.md" >}})
 
 ## Hard to start
 
