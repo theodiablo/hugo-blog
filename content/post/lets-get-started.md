@@ -15,3 +15,5 @@ Sooo... this is the first page of our amazing blog. Hope you'll like it A LOT ;-
 ## Incredible things ahead
 
 ## Hard to start
+
+## Waiting to see high changes and amazing things!!
