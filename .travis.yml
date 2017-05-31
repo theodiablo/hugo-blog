@@ -1,7 +1,7 @@
 language: go
 cache: 
   directories:
-  - $HOME/go/github.com/spf13/hugo
+  - $HOME/gopath/src/github.com/
 install: go get -v github.com/spf13/hugo
 script:
   - hugo
