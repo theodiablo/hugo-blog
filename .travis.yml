@@ -1,12 +1,14 @@
 language: go
-#cache: 
-#  directories:
+cache: 
+  directories:
+   - $HOME/.cache/pip
 #  - $HOME/gopath/src/github.com/
 #  - $HOME/gopath/src/golang.org/
 #  - $HOME/gopath/src/gopkg.in/
 
 install: go get -v github.com/spf13/hugo
 script:
+  - hugo version
   - hugo
   - python --version
   - sudo pip install s3cmd
