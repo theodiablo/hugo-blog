@@ -2,11 +2,14 @@ baseURL = "https://www.traveling-bubbles.com/"
 defaultContentLanguage = "en"
 title = "Traveling bubbles!"
 theme = "hugo_theme_robust"
-author = "Theodiablo"
 copyright = "Copyright (c) 2017, Theodiablo. All rights reserved."
 canonifyurls = true
 paginate = 4
 
+
+[author]
+  name = "Theodiablo"
+  email = "admin@traveling-bubbles.com"
 
 [params]
   disqusShortname = "travel-bubbles" # optional

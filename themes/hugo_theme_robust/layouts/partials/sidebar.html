@@ -2,7 +2,7 @@
 
   {{ if and .IsPage (ne .Params.toc false) }}
   <div class="section">
-    <header><div class="title">TableOfContents</div></header>
+    <header><div class="title">{{ i18n "tableOfContents" }}</div></header>
     <div class="list-default">{{ .TableOfContents }}</div>
   </div>
   {{ end }}
@@ -34,7 +34,7 @@
   {{ end }}
 
   <div class="section">
-    <header><div class="title">LatestPosts</div></header>
+    <header><div class="title">{{ i18n "latestPosts" }}</div></header>
     <div class="content">
       {{ range first 10 .Site.Pages }}
       <div class="sm">{{ .Render "li" }}</div>
