@@ -13,3 +13,6 @@ slug = "visitar-colombo"
 
 # Colombo, ciudad impresionante...
 Pues si... Es verdad!
+
+
+[Como hemos llegado hasta alli?]({{< relref "post/preparation/lets-get-started.es.md" >}})
