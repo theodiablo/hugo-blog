@@ -1,12 +1,11 @@
 baseURL = "https://www.traveling-bubbles.com/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "en"
 title = "Traveling bubbles!"
 theme = "hugo_theme_robust"
 author = "Theodiablo"
-copyright = "Copyright (c) 2017, Theodiablo; all rights reserved."
+copyright = "Copyright (c) 2017, Theodiablo. All rights reserved."
 canonifyurls = true
-paginate = 3
+paginate = 4
 
 
 [params]
@@ -22,6 +21,28 @@ paginate = 3
   favicon = "favicon.png"
   imageGallery = true
   hierarchicalCategories = true
+
+[Languages]
+[Languages.en]
+weight = 1
+[Languages.en.params]
+
+[Languages.fr]
+title = "Bulles voyageuses !"
+weight = 2
+[Languages.fr.params]
+linkedin = "lien-francais"
+dateFormat = "2 January 2006"
+[Languages.fr.navigation]
+help  = "Aide"
+
+[Languages.es]
+title = "Bolitas viajeras!"
+weight = 2
+[Languages.es.params]
+dateFormat = "2 January 2006"
+[Languages.es.navigation]
+help  = "Aide"
 
 #[[menu.main]]
 #  weight = 0
