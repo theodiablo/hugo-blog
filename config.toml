@@ -31,7 +31,6 @@ weight = 1
 [Languages.en.params]
 
 [Languages.fr]
-title = "Bulles voyageuses !"
 weight = 2
 [Languages.fr.params]
 linkedin = "lien-francais"
@@ -40,7 +39,6 @@ dateFormat = "2 January 2006"
 help  = "Aide"
 
 [Languages.es]
-title = "Bolitas viajeras!"
 weight = 2
 [Languages.es.params]
 dateFormat = "2 January 2006"

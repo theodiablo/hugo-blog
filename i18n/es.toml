@@ -2,7 +2,19 @@
 other = "Tabla de contenido"
 
 [latestPosts]
-other = "Ultimos articulos"
+other = "Últimos articulos"
 
 [home]
 other = "Inicio"
+
+[inOtherLanguages]
+other = "En otros idiomas"
+
+[en]
+other = "Inglés"
+
+[es]
+other = "Español"
+
+[fr]
+other = "Francés"

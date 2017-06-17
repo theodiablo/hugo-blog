@@ -6,3 +6,15 @@ other = "Derniers articles"
 
 [home]
 other = "Accueil"
+
+[inOtherLanguages]
+other = "Dans d'autres langues"
+
+[en]
+other = "Anglais"
+
+[es]
+other = "Espagnol"
+
+[fr]
+other = "Français"

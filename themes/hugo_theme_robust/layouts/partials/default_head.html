@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/{{ with .Site.Params.SyntaxHighlightTheme }}{{ . }}{{ else  }}solarized_dark.min.css{{ end }}">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/flags32.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/flags16.css"/>
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .Site.BaseURL }}/index.xml">
 
     {{ if eq .URL "/" }}

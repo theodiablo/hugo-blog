@@ -6,3 +6,15 @@ other = "Latest Posts"
 
 [home]
 other = "Home"
+
+[inOtherLanguages]
+other = "In other languages"
+
+[en]
+other = "English"
+
+[es]
+other = "Spanish"
+
+[fr]
+other = "French"

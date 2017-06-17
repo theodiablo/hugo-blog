@@ -1,5 +1,4 @@
 <aside class="site">
-
   {{ if and .IsPage (ne .Params.toc false) }}
   <div class="section">
     <header><div class="title">{{ i18n "tableOfContents" }}</div></header>
@@ -41,6 +40,19 @@
       {{ end }}
     </div>
   </div>
+
+
+  {{ if .IsTranslated }}
+   <div class="section">
+  <div class="section">
+    <header><div class="title">{{ i18n "inOtherLanguages" }}</div></header>
+      {{ range .Translations }}
+      <div class="f16">
+          <a class="flag {{ .Lang }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a>
+      </div>
+      {{ end}}
+    </div>
+    {{ end }}
 
   {{ range $key, $value := .Site.Taxonomies }}
   <div class="section taxonomies">
