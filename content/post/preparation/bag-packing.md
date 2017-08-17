@@ -1,6 +1,6 @@
 +++
 date = "2017-05-31T12:29:51+02:00"
-draft = true
+draft = false
 title = "Back packing time!"
 tags = ["travel","bag pack"]
 categories = ["preparation"]
