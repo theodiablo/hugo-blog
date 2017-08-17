@@ -1,7 +1,7 @@
 +++
 date = "2017-08-17T12:13:11+05:45"
 draft = false
-title = "Sri Lanka!"
+title = "Sri Lanka en 30 dias"
 language = "es"
 categories = ["travel"]
 tags = ["Sri Lanka"]
