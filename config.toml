@@ -1,4 +1,4 @@
-baseURL = "https://www.traveling-bubbles.com/"
+baseURL = "https://traveling-bubbles.com/"
 defaultContentLanguage = "en"
 title = "Traveling bubbles!"
 theme = "hugo_theme_robust"
@@ -24,6 +24,7 @@ paginate = 4
   favicon = "favicon.png"
   imageGallery = true
   hierarchicalCategories = true
+#  background = "world-map-color-opacity-cropped.jpg"
 
 [Languages]
 [Languages.en]
