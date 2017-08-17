@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html {{ with $.Page.Lang }} lang="{{ . }}" {{ end }}>
   <head>
     <meta charset="utf-8">
     {{ .Hugo.Generator }}
@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/{{ with .Site.Params.SyntaxHighlightTheme }}{{ . }}{{ else  }}solarized_dark.min.css{{ end }}">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
-    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/flags32.css"/>
     <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/flags16.css"/>
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .Site.BaseURL }}/index.xml">
 
@@ -29,9 +28,24 @@
     {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ with .Params.image }}<meta property="og:image" content="{{ $.Site.BaseURL }}images/{{ . }}">{{ end }}
 
+
+    <script type="text/javascript">
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/js/sw.js').then(function(registration) {
+              // Registration was successful
+              console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }, function(err) {
+              // registration failed :(
+              console.log('ServiceWorker registration failed: ', err);
+            });
+          });
+        }
+    </script>
+
   </head>
 
-  <body>
+  <body {{ with .Site.Params }}{{ if .background }}style="background-image: url({{ $.Site.BaseURL }}images/{{ .background }});background-attachment:fixed;background-repeat: no-repeat;background-size: cover;"{{ else }}style="background: white" {{ end }} {{ end }}>
 
     <header class="site">
       <div class="title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></div>
