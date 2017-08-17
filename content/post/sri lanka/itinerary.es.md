@@ -6,7 +6,7 @@ language = "es"
 categories = ["travel"]
 tags = ["Sri Lanka"]
 image = "Aunradhapura-big.jpg"
-slug = "sri-lanka-itinerario"
+slug = "sri-lanka-en-30-dias"
 
 
 +++
