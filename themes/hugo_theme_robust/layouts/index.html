@@ -6,7 +6,7 @@
       <div class="articles">
         <div class="row">
           {{ range $key, $value := .Paginator.Pages }}
-          <div class="col-sm-{{ if eq $key 0}}12{{ else }}{{ if lt $key 4 }}6{{ else }}4{{ end }}{{ end }}">
+          <div class="col-sm-{{ if lt $key 4 }}6{{ else }}4{{ end }}">
             {{ .Render "li" }}
           </div>
           {{ end }}

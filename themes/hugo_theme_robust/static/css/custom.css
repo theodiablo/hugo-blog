@@ -1,0 +1,3 @@
+.itinerary-table ~ tr{
+	min-height: 20px
+}
