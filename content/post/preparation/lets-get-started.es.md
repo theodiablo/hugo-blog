@@ -4,7 +4,7 @@ draft = false
 title = "Vamonos!"
 tags = ["travel"]
 categories = ["preparation"]
-image = "hapiness.jpg"
+thumbnail = "images/hapiness.jpg"
 slug = "vamonos"
 
 +++

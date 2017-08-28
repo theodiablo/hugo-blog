@@ -5,7 +5,7 @@ title = "Colombo"
 language = "es"
 categories = ["travel"]
 tags = ["Sri Lanka"]
-image = "travel.jpg"
+thumbnail = "images/travel.jpg"
 slug = "visitar-colombo"
 
 

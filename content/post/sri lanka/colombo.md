@@ -5,7 +5,7 @@ title = "Colombo"
 language = "en"
 categories = ["travel"]
 tags = ["Sri Lanka"]
-image = "travel.jpg"
+thumbnail = "images/travel.jpg"
 
 
 +++

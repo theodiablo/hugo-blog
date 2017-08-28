@@ -5,7 +5,7 @@ title = "Sri Lanka en 30 dias"
 language = "es"
 categories = ["travel"]
 tags = ["Sri Lanka"]
-image = "Aunradhapura-big.jpg"
+thumbnail = "images/Aunradhapura-big.jpg"
 slug = "sri-lanka-en-30-dias"
 
 

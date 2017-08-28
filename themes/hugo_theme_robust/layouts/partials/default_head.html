@@ -27,8 +27,8 @@
     {{ end }}
 
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with .Params.image }}<meta property="og:image" content="{{ $.Site.BaseURL }}images/{{ . }}">{{ end }}
+    {{ with .Description }}<meta name="description" content="{{ . }}"/>{{ end }}
+    {{ with .Params.image }}<meta property="og:image" content="{{ $.Site.BaseURL }}images/{{ . }}"/>{{ end }}
 
 
     <script type="text/javascript">
@@ -47,7 +47,7 @@
 
   </head>
 
-  <body {{ with .Site.Params }}{{ if .background }}style="background-image: url({{ $.Site.BaseURL }}images/{{ .background }});background-attachment:fixed;background-repeat: no-repeat;background-size: cover;"{{ else }}style="background: white" {{ end }} {{ end }}>
+  <body {{ with .Site.Params }}{{ if .background }}style="background-image: url({{ $.Site.BaseURL }}images/{{ .background }});background-attachment:fixed;background-repeat: no-repeat;background-size: cover;"{{ else }}style="background: rgb(245, 245, 245);" {{ end }} {{ end }}>
 
     <header class="site">
       <div class="title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></div>

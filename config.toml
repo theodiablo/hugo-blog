@@ -1,7 +1,7 @@
 baseURL = "https://traveling-bubbles.com/"
 defaultContentLanguage = "en"
 title = "Traveling bubbles!"
-theme = "hugo_theme_robust"
+theme = "hugo_robust"
 copyright = "Copyright (c) 2017, Theodiablo. All rights reserved."
 canonifyurls = true
 paginate = 4
@@ -46,45 +46,6 @@ dateFormat = "2 January 2006"
 [Languages.es.navigation]
 help  = "Aide"
 
-#[[menu.main]]
-#  weight = 0
-#  identifier = "home"
-#  name = "Home"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-#  url = "/"
-#[[menu.main]]
-#  weight = 1
-#  identifier = "categories"
-#  name = "Categories"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-#  url = "/categories"
-#[[menu.main]]
-#  weight = 2
-#  identifier = "tags"
-#  name = "Tags"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-#  url = "/tags"
-#[[menu.main]]
-#  weight = 3
-#  identifier = "archives"
-#  name = "Archives"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-#  url = "/archives"
-#[[menu.main]]
-#  weight = 4
-#  identifier = "search"
-#  name = "Search"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
-#  url = "/#search"
-#  class = "st-search-show-outputs"
-#[[menu.main]]
-#  weight = 4
-#  identifier = "about"
-#  name = "About"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-#  url = "/#about"
 
-# [params.header.rightLink]
-#  class = "open-algolia-search"
-#  icon = "search"
-#  url = "/#search"
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.

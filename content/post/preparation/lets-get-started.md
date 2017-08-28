@@ -4,7 +4,7 @@ draft = false
 title = "Let's get started!"
 tags = ["travel"]
 categories = ["preparation"]
-image = "hapiness.jpg"
+thumbnail = "images/hapiness.jpg"
 
 +++
 

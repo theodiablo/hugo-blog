@@ -4,7 +4,7 @@ draft = false
 title = "C'est parti !"
 tags = ["travel"]
 categories = ["preparation"]
-image = "hapiness.jpg"
+thumbnail = "images/hapiness.jpg"
 slug = "c-est-parti"
 
 +++

@@ -4,7 +4,7 @@ draft = false
 title = "Back packing time!"
 tags = ["travel","bag pack"]
 categories = ["preparation"]
-image = "backpack.jpg"
+thumbnail = "images/backpack.jpg"
 
 +++
 
