@@ -19,9 +19,9 @@ paginate = 4
   coverImage = "Floating-Bubbles-small.jpg"
   favicon = "favicon.png"
   # Fonts settings.
-  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700|Pacifico|Gloria+Hallelujah" # Optional, Include google fonts.
   fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
-  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+  logofontfamily = "'Pacifico', cursive" # Optional, Override logo font.
 
 [Languages]
   [Languages.en]
