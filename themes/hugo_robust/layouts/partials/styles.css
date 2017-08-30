@@ -163,6 +163,7 @@ article.li {
 
 article.li > a {
   display: block;
+  position: relative;
   color: #333;
 }
 
@@ -170,15 +171,29 @@ article.li .inner {
   padding: 1rem;
 }
 
-article.li .thumb {
-  height: 8rem;
-}
+article.li .thumb {   height: 10rem; }
 
 article.li .title {
   color: #333;
   font-size: 1.2rem;
   line-height: 1.5rem;
   margin-bottom: .5rem;
+}
+
+
+article.li time {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  display: block;
+  z-index: 1;
+  white-space: nowrap;
+  padding: 3px 7px;
+  color: #fff;
+  background-color: #333;
+  border-bottom: 2px solid #000;
+  font-size: .7rem;
+  line-height: 1rem;
 }
 
 article.li .summary {
@@ -202,6 +217,7 @@ article.lism::after {
 
 article.lism > a {
   display: block;
+  position: relative;
   color: #333;
 }
 
@@ -216,6 +232,8 @@ article.lism .thumb {
   width: 5rem;
   height: 5rem;
   float: left;
+  background-position: center;
+  background-size: cover;
 }
 
 article.lism .title {
@@ -223,6 +241,20 @@ article.lism .title {
   line-height: 1.25rem;
   margin-bottom: .25rem;
 }
+
+article.lism time {
+  position: relative;
+  display: block;
+  top: auto;
+  left: auto;
+  padding: 0;
+  background-color: transparent;
+  color: #999;
+  line-height: 1rem;
+  font-size: .8rem;
+  border-bottom: none;
+}
+
 
 article.sn {
   background-color: #fff;
