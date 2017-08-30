@@ -10,6 +10,7 @@ install: go get -v github.com/spf13/hugo
 script:
   - hugo version
   - hugo
+after_success:
   - python --version
   - sudo pip install s3cmd
   - s3cmd sync --delete-removed --check-md5 -P -M -r public/* s3://theodiablo-travel-blog/
