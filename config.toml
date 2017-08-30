@@ -16,35 +16,34 @@ paginate = 4
   googleAnalyticsUserID = "UA-100203771-1"
   dateFormat = "2 January 2006"
   keywords = ["travel", "sightseeing", "backpacker"]
-  sidebarBehavior = 2
-  thumbnailImage = true
-  thumbnailImagePosition = "right"
-  autoThumbnailImage = true
   coverImage = "Floating-Bubbles-small.jpg"
   favicon = "favicon.png"
-  imageGallery = true
-  hierarchicalCategories = true
-#  background = "world-map-color-opacity-cropped.jpg"
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
 [Languages]
-[Languages.en]
-weight = 1
-[Languages.en.params]
+  [Languages.en]
+    weight = 1
+  [Languages.en.params]
 
-[Languages.fr]
-weight = 2
-[Languages.fr.params]
-linkedin = "lien-francais"
-dateFormat = "2 January 2006"
-[Languages.fr.navigation]
-help  = "Aide"
+  [Languages.fr]
+    weight = 2
+  [Languages.fr.params]
+    linkedin = "lien-francais"
+    dateFormat = "2 January 2006"
+    keywords = ["voyage", "visiter", "sac a dos"]
+  [Languages.fr.navigation]
+    help  = "Aide"
 
-[Languages.es]
-weight = 2
-[Languages.es.params]
-dateFormat = "2 January 2006"
-[Languages.es.navigation]
-help  = "Aide"
+  [Languages.es]
+    weight = 2
+  [Languages.es.params]
+    dateFormat = "2 January 2006"
+    keywords = ["viaje", "visitar", "mochilero"]
+  [Languages.es.navigation]
+    help  = "Aide"
 
 
 [outputs]
