@@ -32,6 +32,12 @@
     </div>
 
     {{ template "_internal/disqus.html" . }}
+    <script type="text/javascript">
+      var disqus_config = function () { 
+          this.language = "{{ $.Page.Lang }}";
+      };
+    </script>
+
   </div>
   <div class="mcol c4">
     {{ partial "sidebar.html" . }}
