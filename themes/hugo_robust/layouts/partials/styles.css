@@ -136,6 +136,10 @@ aside.f {
   line-height: 2.1rem;
   font-weight: 700;
   color: #333;
+  background-image: url(/images/earth.jpg);
+  background-position: center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
 }
 
 .articles {
