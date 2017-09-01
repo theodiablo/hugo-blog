@@ -1,5 +1,5 @@
 baseURL = "https://traveling-bubbles.com/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 title = "Traveling bubbles!"
 theme = "hugo_robust"
 copyright = "Copyright (c) 2017, Theodiablo. All rights reserved."

@@ -30,10 +30,28 @@
 			}
 		},
 		{
+			"file": "content/post/welcome.fr.md",
+			"settings":
+			{
+				"buffer_size": 2925,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/post/welcome.es.md",
+			"settings":
+			{
+				"buffer_size": 2621,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "public/index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 16501,
 				"encoding": "UTF-8",
 				"line_ending": "CR"
 			}
@@ -51,7 +69,7 @@
 			"file": "themes/hugo_robust/layouts/partials/styles.css",
 			"settings":
 			{
-				"buffer_size": 10609,
+				"buffer_size": 10529,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -100,17 +118,20 @@
 		"/C/Users/mnm/Documents/Projects/blog",
 		"/C/Users/mnm/Documents/Projects/blog/content",
 		"/C/Users/mnm/Documents/Projects/blog/content/post",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka",
 		"/C/Users/mnm/Documents/Projects/blog/i18n",
 		"/C/Users/mnm/Documents/Projects/blog/public",
+		"/C/Users/mnm/Documents/Projects/blog/static",
+		"/C/Users/mnm/Documents/Projects/blog/static/images",
+		"/C/Users/mnm/Documents/Projects/blog/themes",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials"
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default"
 	],
 	"file_history":
 	[
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/single.html",
+		"/C/Users/mnm/Desktop/test blog/hugo_theme_robust-old/layouts/_default/single.html",
+		"/C/Users/mnm/Desktop/test blog/hugo_theme_robust-old/layouts/_default/li.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust-old/static/css/styles.css",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust-old/layouts/_default/li.html",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.md",
@@ -169,13 +190,14 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"C:\\Users\\mnm\\Documents\\Projects\\blog\\themes",
 			"C:\\Users\\mnm\\Documents\\Projects\\blog\\",
 			"C:\\Users\\mnm\\Documents\\Projects\\blog\\themes",
 			"C:\\Users\\mnm\\Documents\\Projects\\blog\\public",
@@ -187,6 +209,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"disqus",
+			"\n¡Un besazo!",
+			"pos",
 			"font",
 			"clearfix",
 			"detail",
@@ -242,7 +267,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -272,7 +297,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -288,8 +313,8 @@
 						"selection":
 						[
 							[
-								864,
-								864
+								1237,
+								1237
 							]
 						],
 						"settings":
@@ -302,16 +327,72 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "content/post/welcome.fr.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2925,
+								2925
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/post/welcome.es.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1209,
+								1209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "public/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 16501,
 						"regions":
 						{
 						},
@@ -332,11 +413,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "themes/hugo_robust/layouts/_default/li.html",
 					"semi_transient": false,
 					"settings":
@@ -362,24 +443,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": "themes/hugo_robust/layouts/partials/styles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10609,
+						"buffer_size": 10529,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2635,
-								2635
+								2073,
+								2073
 							]
 						],
 						"settings":
@@ -389,11 +470,17 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2138.0,
+						"translation.y": 1555.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
+				},
+				{
+					"file": "static/images/world-map-water-opacity.jpg",
+					"semi_transient": true,
+					"stack_index": 0,
+					"type": "image"
 				}
 			]
 		}

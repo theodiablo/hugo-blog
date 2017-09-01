@@ -2,10 +2,10 @@
 date = "2017-08-17T12:13:11+05:45"
 draft = true
 title = "Sri Lanka en 30 dias"
-language = "es"
 categories = ["travel"]
 tags = ["Sri Lanka"]
 thumbnail = "images/Aunradhapura-big.jpg"
+language = "es"
 slug = "sri-lanka-en-30-dias"
 
 

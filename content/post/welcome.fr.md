@@ -2,7 +2,7 @@
 categories = []
 date = "2017-08-30T04:41:59+05:30"
 description = ""
-draft = true
+draft = false
 tags = []
 title = "Bienvenue!"
 thumbnail = "images/Starting.jpg"
