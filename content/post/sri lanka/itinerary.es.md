@@ -1,8 +1,8 @@
 +++
 date = "2017-08-17T12:13:11+05:45"
 draft = false
-title = "Sri Lanka: Itinerario de 30 dias"
-description = "¿Que hemos hecho en Sri Lanka? Te lo contamos enseguida."
+title = "Sri Lanka: Itinerario de 30 días"
+description = "¿Qué hemos hecho en Sri Lanka? Te lo contamos enseguida."
 categories = ["travel","itinerario"]
 tags = ["Sri Lanka"]
 thumbnail = "images/sri-lanka/sri-lanka-elephant-back.jpg"
@@ -12,11 +12,11 @@ slug = "itinerario-30-dias"
 
 +++
 
-# ¿Que hemos hecho en Sri Lanka? Te lo contamos enseguida. 
+# ¿Qué hemos hecho en Sri Lanka? Te lo contamos enseguida. 
 
 # Estamos preparando este post.
 
-De momento, aqui podeis ver un mapa de nuestro itinerario:
+De momento, aquí podéis ver un mapa de nuestro itinerario:
 
 
 <div style="overflow: hidden">
