@@ -28,7 +28,7 @@ Si viajas por primera vez a un país asiático, tu primera impresión puede ser 
 
 ## Curiosidades de Sri Lanka
 
-* Casi todos los taxis o “tuk-tuk” en Sri Lanka tienen cuenta km para calcular la tarifa, pero cuando un turista se acerca… ¡Qué casualidad! ¡Ninguno funciona!... Prepárate para negociar.
+* Casi todos los taxis o “tuk-tuk” en Sri Lanka tienen cuenta km para calcular la tarifa, pero cuando un turista se acerca… ¡Qué casualidad! ¡Ninguno funciona!... Prepárate para negociar antes de empezar el trayecto.
 * Los buses locales se convierten en una discoteca sobre ruedas. Puedes disfrutar de un viaje de tres a siete horas sin parar de moverte al ritmo de la música local. Eso sí, intenta adueñarte de un asiento a menos que quieras bailar de verdad en el pasillo. 
 * La mayoría de buses tienen una o varias imágenes de Buddha o algún dios Hindú, en función de la religión del conductor. Normalmente las colocan de cara a los asientos para proteger a la gente durante el recorrido.
 
@@ -41,11 +41,11 @@ Si viajas por primera vez a un país asiático, tu primera impresión puede ser 
 
 {{% img src="images/sri-lanka/elephant-road.jpg" caption="Como Pedro por su casa" %}}
 
-# Que hacer en Sri Lanka?
+## Que hacer en Sri Lanka?
 
 Si os interesa, podéis mirar [nuestro itinerario de 30 días en Sri Lanka aquí]({{< ref "post/sri lanka/itinerary.es.md" >}}).
 
-Desde nadar acompañado de tortugas marinas en libertad, escalar hasta la imponente roca de Sigiriya, perderte por las ruinas de Anuradhapura y Polonaruwa, explorar uno de sus numerosos parques nacionales hasta adentrarte en una de sus plantaciones de té, atreverte a conducir un tuk-tuk por el carril izquierdo o tomar el sol en cualquiera de sus playas de arena blanca…
+Desde nadar acompañado de tortugas marinas en libertad, escalar hasta la imponente roca de Sigiriya, perderte por las ruinas de Anuradhapura y Polonnaruwa, explorar uno de sus numerosos parques nacionales hasta adentrarte en una de sus plantaciones de té, atreverte a conducir un tuk-tuk por el carril izquierdo o tomar el sol en cualquiera de sus playas de arena blanca…
 
 Sri Lanka te sorprenderá y volverás a casa con tu maleta o mochila cargada de buenos momentos. Sin duda este destino te ofrece todo lo que puedes esperar de un viaje inolvidable.
 
