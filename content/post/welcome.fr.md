@@ -15,7 +15,7 @@ slug = "bienvenue"
 
 # Bonjour! ¡Hola! ¡Kaixo!
 
-C’est nous ! Un Français á moitié Espagnol et un Espagnole du Pays Basque á moitié Catalane. Nous habitons Barcelone depuis respectivement 3 et 6 ans, et nous avons laissé de coté la routine quotidienne pour voyager pendant un an !
+C’est nous ! Un français á moitié espagnol et une espagnole du Pays Basque á moitié catalane. Nous habitons Barcelone depuis respectivement 3 et 6 ans, et nous avons laissé de coté la routine quotidienne pour voyager pendant un an !
 Le début a été compliqué, mais nous avons enfin commencé notre blog pour que nos familles et amis puissent nous suivre pendant notre voyage depuis le canapé du salon, pendant une pause au boulot ou depuis n’importe où !
 
 Nous sommes tous les deux très curieux, nous adorons découvrir de nouvelles choses et voyager. Si on peut faire les deux a la fois, c’est encore mieux !! Nous avons prévu de visiter plusieurs pays d’Asie du Sud Est, Sri Lanka, Inde, Népal, Australie, Nouvelle Zélande… pour l’instant rien n’est définitif !
