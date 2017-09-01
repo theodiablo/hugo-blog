@@ -8,9 +8,7 @@ thumbnail = "images/Aunradhapura-big.jpg"
 language = "es"
 slug = "sri-lanka-un-viaje-a-ceilan"
 
-
 +++
-
 Sri Lanka ha superado con creces nuestras expectativas. Esta pequeña isla colonial también conocida como “Ceilán” o la “Lágrima de la India” nos ha cautivado por completo.
 
 Si viajas por primera vez a un país asiático, tu primera impresión puede ser la de una civilización un tanto desorganizada y caótica. Pero si ya te habías aventurado en este continente (y sobre todo si ya has visitado India anteriormente), encontrarás una gran tranquilidad y confort en esta isla.

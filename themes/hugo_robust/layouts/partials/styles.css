@@ -266,7 +266,9 @@ article.sn > .article-header,
 article.sn > .article-body,
 article.sn .article-footer {
   padding: 2rem;
+  padding-bottom: 0;
 }
+
 
 article.sn > .article-body {
   padding: 0 2rem;
