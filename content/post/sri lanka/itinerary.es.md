@@ -14,7 +14,7 @@ slug = "itinerario-30-dias"
 
 # ¿Que hemos hecho en Sri Lanka? Te lo contamos enseguida. 
 
-# Estamos preparando este post
+# Estamos preparando este post.
 
 De momento, aqui podeis ver un mapa de nuestro itinerario:
 
