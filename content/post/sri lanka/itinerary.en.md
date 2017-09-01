@@ -4,7 +4,7 @@ draft = true
 title = "Sri Lanka: 30 days itinerary!"
 categories = ["travel"]
 tags = ["Sri Lanka"]
-thumbnail = "images/Aunradhapura-big.jpg"
+thumbnail = "images/sri-lanka-elephant-back.jpg"
 language = "en"
 slug = "30-days-itinerary"
 

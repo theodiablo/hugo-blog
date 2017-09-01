@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2017-08-30T04:41:59+05:30"
+date = "2017-06-20T04:41:59+05:30"
 description = ""
 draft = false
 tags = []
@@ -16,9 +16,11 @@ slug = "bienvenidos"
 # ¡Hola! Bonjour! ¡Kaixo!
 
 Aquí estamos, un francés medio español y una vasca medio catalana. Vivimos en Barcelona desde hace tres y seis años respectivamente y hemos dejado a un lado el día a día para viajar durante un año.
+
 Nos ha costado un poco arrancar, pero por fin hemos decidido empezar con este blog para que nuestras familias y amiguetes puedan seguirnos en nuestro viaje desde el sofá de casa, durante algún descanso en el trabajo, ¡o desde donde quiera que sea!
 
 Somos los dos muy curiosos. Nos gusta muchísimo viajar, descubrir y aprender cosas nuevas. Si podemos hacerlo todo a la vez, ¡todavía mejor!
+
 Queremos visitar varios países del Sudeste Asiático, Sri Lanka, India, Nepal, Australia, Nueva Zelanda… aunque por ahora no hay nada cerrado. 
 
 {{% img src="images/Irene-Theo.jpg" caption="Nuestras caritas de viajeros" %}}

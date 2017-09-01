@@ -1,24 +1,21 @@
 +++
 date = "2017-08-17T12:13:11+05:45"
-draft = true
+draft = false
 title = "Sri Lanka: Itinerario de 30 dias"
 categories = ["travel","itinerario"]
 tags = ["Sri Lanka"]
-thumbnail = "images/Aunradhapura-big.jpg"
+thumbnail = "images/sri-lanka-elephant-back.jpg"
 language = "es"
 slug = "itinerario-30-dias"
 
 
 +++
 
-# Que hacer en Sri Lanka?
+# ¿Que hemos hecho en Sri Lanka? Te lo contamos enseguida. 
 
-Si te gustan las playas de arena blanca y agua turquesa, las montanas llenas de plantaciones de te, la arqueologia, la selva... puedes hacer alli todo lo que esperas de unas buenas vacaciones, incluso mas de lo que te esperas!
+# Estamos preparando este post
 
-# Nuestro itinerario de 30 dias
-
-Hemos recorrido bastante la isla en los 30 dias que hemos estado en Sri Lanka, lo que nos ha permitido ver una buena parte del pais.
-Aqui podeis ver un mapa de nuestro itinerario:
+De momento, aqui podeis ver un mapa de nuestro itinerario:
 
 
 <div style="overflow: hidden">

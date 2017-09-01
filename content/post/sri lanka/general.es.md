@@ -1,6 +1,6 @@
 +++
-date = "2017-09-01T12:13:11+05:45"
-draft = true
+date = "2017-08-11T12:13:11+05:45"
+draft = false
 title = "Sri Lanka: Un viaje a Ceilán"
 categories = ["travel"]
 tags = ["Sri Lanka", "mochileros", "curiosidades"]
@@ -17,7 +17,7 @@ Si viajas por primera vez a un país asiático, tu primera impresión puede ser 
 
 ## Una pincelada de cultura:
 
-* Su capital actual es Colombo y la moneda local es la Rupia de Sri Lanka. Aquí encontraréis el tipo de cambio actual.
+* Su capital actual es Colombo y la moneda local es la Rupia de Sri Lanka. <a href="http://www.xe.com/currency/lkr-sri-lankan-rupee" target="_blank">Aquí encontraréis el tipo de cambio actual.</a>
 * En Sri Lanka se hablan principalmente dos idiomas: Cingalés y Tamil 
 * La comunidad cingalesa es mayoritaria, mientras que los tamiles se concentran en el norte y en el este de la isla.
 * La guerra civil entre cingaleses y tamiles ha azotado a Sri Lanka durante 26 años (desde 1983 hasta 2009).
