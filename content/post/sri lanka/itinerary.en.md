@@ -2,6 +2,7 @@
 date = "2017-08-17T12:13:11+05:45"
 draft = true
 title = "Sri Lanka: 30 days itinerary!"
+description = "What to do in 30 days in Sri Lanka? You will find out soon!"
 categories = ["travel"]
 tags = ["Sri Lanka"]
 thumbnail = "images/sri-lanka-elephant-back.jpg"

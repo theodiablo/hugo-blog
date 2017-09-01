@@ -2,6 +2,7 @@
 date = "2017-08-17T12:13:11+05:45"
 draft = false
 title = "Sri Lanka: Itinerario de 30 dias"
+description = "¿Que hemos hecho en Sri Lanka? Te lo contamos enseguida."
 categories = ["travel","itinerario"]
 tags = ["Sri Lanka"]
 thumbnail = "images/sri-lanka-elephant-back.jpg"
