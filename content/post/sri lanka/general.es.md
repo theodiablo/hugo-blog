@@ -1,7 +1,7 @@
 +++
 date = "2017-09-01T12:13:11+05:45"
 draft = true
-title = "Un viaje a Ceilán"
+title = "Sri Lanka: Un viaje a Ceilán"
 categories = ["travel"]
 tags = ["Sri Lanka", "mochileros", "curiosidades"]
 thumbnail = "images/Aunradhapura-big.jpg"
@@ -15,7 +15,7 @@ Sri Lanka ha superado con creces nuestras expectativas. Esta pequeña isla colon
 
 Si viajas por primera vez a un país asiático, tu primera impresión puede ser la de una civilización un tanto desorganizada y caótica. Pero si ya te habías aventurado en este continente (y sobre todo si ya has visitado India anteriormente), encontrarás una gran tranquilidad y confort en esta isla.
 
-# Una pincelada de cultura:
+## Una pincelada de cultura:
 
 * Su capital actual es Colombo y la moneda local es la Rupia de Sri Lanka. Aquí encontraréis el tipo de cambio actual.
 * En Sri Lanka se hablan principalmente dos idiomas: Cingalés y Tamil 
@@ -28,7 +28,7 @@ Si viajas por primera vez a un país asiático, tu primera impresión puede ser 
 * Sri Lanka es uno de los mayores exportadores de té del mundo.
 * Los medios de transporte más populares en el país son el famoso tuk-tuk, los clásicos trenes que cruzan todo el país, y los autobuses locales.
 
-# Curiosidades de Sri Lanka
+## Curiosidades de Sri Lanka
 
 Casi todos los taxis o “tuk-tuk” en Sri Lanka tienen cuenta km para calcular la tarifa, pero cuando un turista se acerca… ¡Qué casualidad! ¡Ninguno funciona!... Prepárate para negociar.
 

@@ -1,12 +1,12 @@
 +++
 date = "2017-08-17T12:13:11+05:45"
 draft = true
-title = "Sri Lanka en 30 dias"
-categories = ["travel"]
+title = "Sri Lanka: Itinerario de 30 dias"
+categories = ["travel","itinerario"]
 tags = ["Sri Lanka"]
 thumbnail = "images/Aunradhapura-big.jpg"
 language = "es"
-slug = "sri-lanka-en-30-dias"
+slug = "itinerario-30-dias"
 
 
 +++
