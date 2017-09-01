@@ -30,17 +30,18 @@ Si viajas por primera vez a un país asiático, tu primera impresión puede ser 
 
 ## Curiosidades de Sri Lanka
 
-Casi todos los taxis o “tuk-tuk” en Sri Lanka tienen cuenta km para calcular la tarifa, pero cuando un turista se acerca… ¡Qué casualidad! ¡Ninguno funciona!... Prepárate para negociar.
+* Casi todos los taxis o “tuk-tuk” en Sri Lanka tienen cuenta km para calcular la tarifa, pero cuando un turista se acerca… ¡Qué casualidad! ¡Ninguno funciona!... Prepárate para negociar.
+* Los buses locales se convierten en una discoteca sobre ruedas. Puedes disfrutar de un viaje de tres a siete horas sin parar de moverte al ritmo de la música local. Eso sí, intenta adueñarte de un asiento a menos que quieras bailar de verdad en el pasillo. 
+* La mayoría de buses tienen una o varias imágenes de Buddha o algún dios Hindú, en función de la religión del conductor. Normalmente las colocan de cara a los asientos para proteger a la gente durante el recorrido.
 
-Los buses locales se convierten en una discoteca sobre ruedas. Puedes disfrutar de un viaje de tres a siete horas sin parar de moverte al ritmo de la música local. Eso sí, intenta adueñarte de un asiento a menos que quieras bailar de verdad en el pasillo. 
+{{% img src="images/elephant-road.jpg" caption="Como Pedro por su casa" %}}
 
-La mayoría de buses tienen una o varias imágenes de Buddha o algún dios Hindú, en función de la religión del conductor. Normalmente las colocan de cara a los asientos para proteger a la gente durante el recorrido.
 
-Igual que en India, los conductores son unos apasionados por el ruido de la bocina. Y es que realmente tienen un idioma propio entre ellos. Pueden pitar para saludar, para quejarse, para avisar de un adelanto, para asustar a los viandantes…Podríamos hacer un intenso estudio de este fenómeno.
+* Igual que en India, los conductores son unos apasionados por el ruido de la bocina. Y es que realmente tienen un idioma propio entre ellos. Pueden pitar para saludar, para quejarse, para avisar de un adelanto, para asustar a los viandantes… ¡Podríamos hacer un intenso estudio de este fenómeno social!
+* Sonreír es la mejor manera de conectar con los locales, pero prepárate para recibir a cambio una gran dentadura entre roja y negriza con unos dientecillos totalmente descolocados. Muchos tienen la costumbre de masticar una hoja llamada betel o también conocida como “paan”. No tienen problema en recitarte un poema con la boca llena asique ¡ten cuidado con los escupitajos ninjas!
+* En algunas poblaciones, puedes encontrarte familias de elefantes en libertad cruzando una carretera principal. Por suerte ya existen carteles que te avisan y todos conviven felices. 
 
-En algunas poblaciones, puedes encontrarte familias de elefantes en libertad cruzando una carretera principal. ¡Por suerte ya existen carteles que te avisan! 
-
-Sonreír es la mejor manera de conectar con los locales, pero prepárate para recibir a cambio una gran dentadura roja y descolocada. Muchos locales tienen la costumbre de masticar una hoja llamada betel o también conocida como “paan”. No tienen problema en recitarte un poema con la boca llena asique ¡ten cuidado con los escupitajos ninjas!
+{{% img src="images/bus-srilanka.jpg" caption="¡Sálvese quien pueda!" %}}
 
 # Que hacer en Sri Lanka?
 
