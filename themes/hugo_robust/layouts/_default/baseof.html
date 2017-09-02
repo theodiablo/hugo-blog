@@ -14,7 +14,7 @@
 
     <link rel="shortcut icon" type="image/png" href="/images/favicon.jpg"/>
     
-    <link rel="stylesheet" type="text/css" href="http://theodiablo-travel-blog.s3-website.eu-central-1.amazonaws.com/css/flags16.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/flags16.css"/>
     <style>
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
       {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
