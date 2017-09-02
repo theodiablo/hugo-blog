@@ -14,8 +14,6 @@ disqusShortname = "travel-bubbles"
   email = "admin@traveling-bubbles.com"
 
 [params]
-  disqusShortname = "travel-bubbles"
-  googleAnalyticsUserID = "UA-100203771-1"
   dateFormat = "2 January 2006"
   keywords = ["travel", "sightseeing", "backpacker"]
   coverImage = "Floating-Bubbles-small.jpg"
@@ -49,4 +47,4 @@ disqusShortname = "travel-bubbles"
 
 
 [outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+page = [ "HTML", "AMP", "RSS" ] # if you want AMP enable.
