@@ -5,6 +5,8 @@ theme = "hugo_robust"
 copyright = "Copyright (c) 2017, Theodiablo. All rights reserved."
 canonifyurls = true
 paginate = 4
+googleAnalytics = "UA-100203771-1"
+disqusShortname = "travel-bubbles"
 
 
 [author]
@@ -12,7 +14,7 @@ paginate = 4
   email = "admin@traveling-bubbles.com"
 
 [params]
-  disqusShortname = "travel-bubbles" # optional
+  disqusShortname = "travel-bubbles"
   googleAnalyticsUserID = "UA-100203771-1"
   dateFormat = "2 January 2006"
   keywords = ["travel", "sightseeing", "backpacker"]
