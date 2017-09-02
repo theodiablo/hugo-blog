@@ -40,6 +40,6 @@ Pour quelqu’un qui fait son premier voyage dans un pays d’Asie, la première
 ## Que faire au Sri Lanka?
 Si ca vous intéresse, vous pouvez trouver [ici notre itinéraire de 30 jours au Sri Lanka]({{< ref "post/sri lanka/itinerary.fr.md" >}}).
 
-Que ce soir en nageant avec des tortues de mer en liberté, en escaladant l’imposant rocher de Sigiriya, en explorant l’un de ses nombreux parcs naturels, en s’aventurant dans les plantations de thé, en se perdant dans les ruines d’Anuradhapura et Polonnaruwa, en osant conduire un tuk-tuk sur la voie de gauche ou encore en prenant un bain de soleil sur ses plages de sable fin…
+Que ce soit en nageant avec des tortues de mer en liberté, en escaladant l’imposant rocher de Sigiriya, en explorant l’un de ses nombreux parcs naturels, en s’aventurant dans les plantations de thé, en se perdant dans les ruines d’Anuradhapura et Polonnaruwa, en osant conduire un tuk-tuk sur la voie de gauche ou encore en prenant un bain de soleil sur ses plages de sable fin…
 
 Laissez-vous surprendre par cette ile magnifique ! Vous rentrez chez-vous des souvenirs plein les valises et la tête. Sans aucun doute, le Sri Lanka vous offrira encore plus que ce que vous pouvez espérer d’un voyage inoubliable !
