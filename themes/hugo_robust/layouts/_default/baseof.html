@@ -30,7 +30,8 @@
     <header class="l-header">
       <div class="l-container">
         <div class="logo">
-          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            <a href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">{{ .Site.Title }}</a>
+ 
         </div>
       </div>
     </header>
