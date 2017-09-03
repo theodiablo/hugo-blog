@@ -18,3 +18,6 @@ other = "Espagnol"
 
 [fr]
 other = "Français"
+
+[facebookLocaleCode]
+other = "fr_FR"
