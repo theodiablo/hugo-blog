@@ -35,6 +35,20 @@
       </div>
     </section>
     {{ end }}
+
+    <section class="sidebar">
+      <header>{{ i18n "subscribeNewsletter" }}</header>
+      <div class="subscribe wrapper">
+        <p>{{ i18n "subscribeText" }}</p>
+        <form>
+          <input type="email" class="email" placeholder="Email" required>
+           <div>
+            <p class="email-help">{{ i18n "emailHelp" }}</p>
+          </div>
+          <input type="submit" class="submit" value="{{ i18n "register" }}">
+        </form>
+      </div>
+    </section>
   </div>
 
 </aside>

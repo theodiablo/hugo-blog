@@ -21,3 +21,15 @@ other = "French"
 
 [facebookLocaleCode]
 other = "en_US"
+
+[subscribeNewsletter]
+other = "Receive our last news"
+
+[emailHelp]
+other = "Fill your email in this field"
+
+[subscribeText]
+other = "If you want to know when we publish a new post, fill your email below. We won't use it for anything else and won't share it with third parties."
+
+[register]
+other = "Register"
