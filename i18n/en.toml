@@ -25,6 +25,9 @@ other = "en_US"
 [subscribeNewsletter]
 other = "Receive our last news"
 
+[followUsSocialMedias]
+other = "Follow us on social medias"
+
 [email]
 other = "Email"
 
