@@ -41,7 +41,7 @@ other = "Introduce tu nombre en este campo"
 other = "Introduce tu correo electrónico en este campo"
 
 [subscribeText]
-other = "Si quieres estar al tanto de nuestros últimos artículos, escribe tu correo. No lo usaremos para otra cosa, ni lo compartiremos con terceros."
+other = "Si quieres estar al tanto de nuestros últimos artículos, escribe tu correo electrónico. No lo usaremos para otros fines, ni lo compartiremos con terceros."
 
 [register]
 other = "Suscribirme"
