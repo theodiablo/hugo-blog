@@ -25,8 +25,17 @@ other = "fr_FR"
 [subscribeNewsletter]
 other = "Reçois nos dernières actus"
 
+[email]
+other = "Adresse email"
+
+[name]
+other = "Nom complet"
+
+[nameHelp]
+other = "Introduit ton nom dans ce champ"
+
 [emailHelp]
-other = "Introduit ton email dans ce champ"
+other = "Introduit ton adresse mail dans ce champ"
 
 [subscribeText]
 other = "Si tu veux être au courant de nos derniers article, inscris toi. Nous n'utiliserons pas ton email pour d'autres fins, ni le partagerons avec des tiers."
