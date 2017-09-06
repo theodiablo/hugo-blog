@@ -13,11 +13,13 @@
     {{ end}}
 {{ end }}
 
+<meta property="fb:app_id" content="541227622879810">
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="{{ .Site.Title }}">
 <meta name="twitter:url" content="{{ .Permalink }}">
 <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
 <meta name="twitter:description" content="{{ replaceRE "\n" "" (.Description | default .Summary) }}">
 <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail | default "images/default.png" }}">
-<meta name="fb:app_id" content="541227622879810">
+
 
