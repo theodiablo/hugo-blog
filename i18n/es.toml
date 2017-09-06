@@ -10,18 +10,6 @@ other = "Inicio"
 [inOtherLanguages]
 other = "En otros idiomas"
 
-[en]
-other = "Inglés"
-
-[es]
-other = "Español"
-
-[fr]
-other = "Francés"
-
-[facebookLocaleCode]
-other = "es_ES"
-
 [subscribeNewsletter]
 other = "Recibe nuestras últimas actualizaciones"
 
@@ -45,3 +33,24 @@ other = "Si quieres estar al tanto de nuestros últimos artículos, escribe tu c
 
 [register]
 other = "Suscribirme"
+
+[en]
+other = "Inglés"
+
+[es]
+other = "Español"
+
+[fr]
+other = "Francés"
+
+[frLocaleCode]
+other = "fr_FR"
+
+[enLocaleCode]
+other = "en_US"
+
+[esLocaleCode]
+other = "es_ES"
+
+[facebookLocaleCode]
+other = "es_ES"
