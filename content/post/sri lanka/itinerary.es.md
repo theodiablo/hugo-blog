@@ -5,7 +5,7 @@ title = "Sri Lanka: Itinerario de 30 días"
 description = "¿Qué hemos hecho en Sri Lanka? Te lo contamos enseguida."
 categories = ["travel","itinerario"]
 tags = ["Sri Lanka"]
-thumbnail = "images/sri-lanka/sri-lanka-elephant-back.jpg"
+thumbnail = "images/posts/countries/sri-lanka/sri-lanka-elephant-back.jpg"
 language = "es"
 slug = "itinerario-30-dias"
 

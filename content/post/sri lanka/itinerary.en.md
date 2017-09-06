@@ -5,7 +5,7 @@ title = "Sri Lanka: 30 days itinerary!"
 description = "What to do in 30 days in Sri Lanka? You will find out soon!"
 categories = ["travel"]
 tags = ["Sri Lanka"]
-thumbnail = "images/sri-lanka/sri-lanka-elephant-back.jpg"
+thumbnail = "images/posts/countries/sri-lanka/sri-lanka-elephant-back.jpg"
 language = "en"
 slug = "30-days-itinerary"
 
@@ -15,7 +15,7 @@ slug = "30-days-itinerary"
 
 If you like white beaches with turquoise water, green mountains filled with tea plantations, archeology, jungle... you can do pretty much everything you want to do for holidays, and maybe more than what you were expecting!
 
-{{% img src="images/sri-lanka/Colombo-temple.jpg" caption="Budhist temple in Colombo." %}}
+{{% img src="images/posts/countries/sri-lanka/Colombo-temple.jpg" caption="Budhist temple in Colombo." %}}
 
 # Our 30 days itinerary
 
