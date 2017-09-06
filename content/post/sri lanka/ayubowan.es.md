@@ -9,7 +9,7 @@ language = "es"
 slug = "ayubowan"
 
 +++
-Una de las cosas más maravillosas del viaje es la gente bonita con la que nos hemos encontrado. Algunas personas solo han cruzado nuestro camino por apenas unos instantes y otras se han quedado un tiempo más prolongado a nuestro lado, pero todas ellas han aportado sentido a nuestra aventura.
+Una de las cosas más maravillosas del viaje es la gente bonita con la que nos hemos encontrado. Algunas personas solo han cruzado nuestro camino por apenas unos instantes y otras se han quedado un tiempo más prolongado a nuestro lado, pero todas ellas han aportado sentido a nuestra aventura. Por eso, hemos decidido escribir un artículo dedicado a las personas que han cambiado nuestro viaje en Sri Lanka.
 
 No vamos a negar que en ocasiones sientes que muchos locales te ven como un billete andante. Mucha gente se acerca para hablar contigo amigablemente, pero al cabo de 2 minutos te das cuenta que el único propósito de la conversación  es que compres algo, que vayas a su tienda, que comas en su restaurante o que inviertas dinero en cualquier otro tipo de negocio que te puedas imaginar. 
 
@@ -17,7 +17,7 @@ Pero en este caso nos queremos quedar con la gente que ha marcado nuestro mes en
 
 ## Aprendiendo nuestras primeras palabras en cingalés y tamil
 
-En el de vuelo Omán (donde hacíamos escala) hasta Colombo, encontramos a Adrián, un cingalés que vive en Suiza desde hace 20 años. Volvía a Sri Lanka unas semanas para visitar a su familia y su tierra.
+En el de vuelo Omán (donde hacíamos escala) hasta Colombo, encontramos a Adrián, un cingalés christiano que vive en Suiza desde hace 20 años. Volvía a Sri Lanka unas semanas para visitar a su familia y su tierra.
 
 A Raguraam, un Tamil que trabaja en Colombo, lo conocimos en el tren de camino a Anuradhapura. El fin de semana suele viajar desde la capital hasta su casa para disfrutar con los suyos. 
 
@@ -32,7 +32,7 @@ Castellano|Cingales|Tamil|
 Hola|Ayubowan /*ayuboan*/|Wanakam /*uanacam*/|
 Adios|Bye Bye|Bye Bye| 
 Gracias| Ishtuti /*stuti*/|Nanry /*nanrri*/|
-Mue bueno|Bohoma Ondai /*bomo ondai*/|Ithu nalam /*itu nalam*/|
+Muy bueno|Bohoma Ondai /*bomo ondai*/|Ithu nalam /*itu nalam*/|
 Agua|Wathura /*vatura*/|Thanner /*tani*/|
 Te con leche|Kiri te /*kiri te*/|Paal theneer/*pal tenir*/|
 
@@ -46,7 +46,7 @@ En nuestro viaje en tren desde Kandy hasta Nuwara Eliya nos unimos a un grupo de
 
 <a href="https://www.youtube.com/watch?v=4UQsyot7C5I" target="_blank">Aquí podéis escuchar la canción original completa</a>
 
-Allí fue donde encontramos a nuestros amigos Sasnas (el que toca el tambor en el video) y Musharraf. ¡Sin duda una de las mejores sorpresas del viaje! 
+Allí fue donde encontramos a nuestros amigos Sasnas (el que toca el tambor en el video) y Musharraf. ¡Sin duda una de las mejores sorpresas del viaje!
 
 Los dos viajaban desde Colombo hasta Nuwara Eliya para pasar el fin de semana haciendo un poco de turismo por su país. Conectamos con ellos desde el primer momento y terminamos pasando el fin de semana juntos, visitando las plantaciones de té, paseando y descubriendo la región.
 
