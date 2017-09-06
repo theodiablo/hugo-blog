@@ -10,3 +10,12 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
+<meta property="og:locale" content="{{ i18n "facebookLocaleCode" }}">
+{{ if $.Page.IsTranslated }}
+	{{ range $.Page.Translations }}
+		<meta property="og:locale:alternate" content="{{ i18n ( printf  "%sLocaleCode" .Lang ) }}"/>
+		<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+    {{ end}}
+{{ end }}
+
+<meta property="fb:app_id" content="541227622879810">
