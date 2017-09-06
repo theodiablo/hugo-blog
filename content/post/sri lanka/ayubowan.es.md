@@ -17,15 +17,16 @@ Pero en este caso nos queremos quedar con la gente que ha marcado nuestro mes en
 
 ## Aprendiendo nuestras primeras palabras en cingalés y tamil
 
-En el de vuelo Omán (donde hacíamos escala) hasta Colombo, encontramos a Adrián, un cingalés christiano que vive en Suiza desde hace 20 años. Volvía a Sri Lanka unas semanas para visitar a su familia y su tierra.
+En el de vuelo Omán (donde hacíamos escala) hasta Colombo, encontramos a Adrián, un cingalés cristiano que vive en Suiza desde hace 20 años. Volvía a Sri Lanka unas semanas para visitar a su familia y su tierra.
 
 A Raguraam, un Tamil que trabaja en Colombo, lo conocimos en el tren de camino a Anuradhapura. El fin de semana suele viajar desde la capital hasta su casa para disfrutar con los suyos. 
 
-Aparte de interesantes conversaciones acerca del fin de la guerra civil en Sri Lanka y las últimas inundaciones que habían azotado al país, ambos nos ensenaron nuestras primeras palabras en cingalés y tamil.
+Aparte de interesantes conversaciones acerca del fin de la guerra civil en Sri Lanka y las últimas inundaciones que habían azotado al país, ambos nos enseñaron nuestras primeras palabras en cingalés y tamil.
 
 {{% img src="images/posts/countries/sri-lanka/ayubowan/raguraam-train.jpg" caption="En el tren con nuestro profesor de Tamil: Raguraam" width="600" class="center" %}}
 
-Aprender unas cuantas palabras imprescindibles merece la pena y consigues sacarles una sonrisa ¡o una carcajada por la mala pronunciación! Este ha sido nuestro kit de supervivencia en Sri Lanka:
+Aprender unas cuantas palabras imprescindibles merece la pena y consigues sacarles una sonrisa (o una carcajada por la mala pronunciación.) 
+Éste ha sido nuestro kit de supervivencia en Sri Lanka:
 
 Castellano|Cingales|Tamil|
 ------------- | ------------- | -------------
