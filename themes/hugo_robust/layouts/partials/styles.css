@@ -297,6 +297,7 @@ article.sn > .article-body {
   article.sn > .article-body,
   article.sn .article-footer {
     padding: 1rem;
+    padding-bottom: 0;
   }
 
   article.sn > .article-body {
