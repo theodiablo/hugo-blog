@@ -17,7 +17,7 @@ Pero en este caso nos queremos quedar con la gente que ha marcado nuestro mes en
 
 ## Aprendiendo nuestras primeras palabras en cingalés y tamil
 
-En el de vuelo Omán (donde hacíamos escala) hasta Colombo, encontramos a Adrián, un cingalés cristiano que vive en Suiza desde hace 20 años. Volvía a Sri Lanka unas semanas para visitar a su familia y su tierra.
+En el de vuelo a Omán (donde hacíamos escala) hasta Colombo, encontramos a Adrián, un cingalés cristiano que vive en Suiza desde hace 20 años. Volvía a Sri Lanka unas semanas para visitar a su familia y su tierra.
 
 A Raguraam, un Tamil que trabaja en Colombo, lo conocimos en el tren de camino a Anuradhapura. El fin de semana suele viajar desde la capital hasta su casa para disfrutar con los suyos. 
 
