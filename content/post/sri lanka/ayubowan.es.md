@@ -9,11 +9,11 @@ language = "es"
 slug = "ayubowan"
 
 +++
-Una de las cosas más maravillosas del viaje es la gente bonita con la que nos hemos encontrado. Algunas personas solo han cruzado nuestro camino por apenas unos instantes y otras se han quedado un tiempo más prolongado a nuestro lado, pero todas ellas han aportado sentido a nuestra aventura. Por eso, hemos decidido escribir un artículo dedicado a las personas que han cambiado nuestro viaje en Sri Lanka.
+Una de las cosas más maravillosas del viaje es la gente bonita con la que nos hemos encontrado. Algunas personas solo han cruzado nuestro camino por apenas unos instantes y otras se han quedado un tiempo más prolongado a nuestro lado, pero todas ellas han aportado sentido a nuestra aventura. 
 
 No vamos a negar que en ocasiones sientes que muchos locales te ven como un billete andante. Mucha gente se acerca para hablar contigo amigablemente, pero al cabo de 2 minutos te das cuenta que el único propósito de la conversación  es que compres algo, que vayas a su tienda, que comas en su restaurante o que inviertas dinero en cualquier otro tipo de negocio que te puedas imaginar. 
 
-Pero en este caso nos queremos quedar con la gente que ha marcado nuestro mes en Sri Lanka.
+Pero en este caso nos queremos quedar con la gente que ha marcado nuestro mes en Sri Lanka y éste artículo va dedicado a todos ell@s.
 
 ## Aprendiendo nuestras primeras palabras en cingalés y tamil
 
