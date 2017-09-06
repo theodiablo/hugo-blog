@@ -28,7 +28,7 @@ Aparte de interesantes conversaciones acerca del fin de la guerra civil en Sri L
 Aprender unas cuantas palabras imprescindibles merece la pena y consigues sacarles una sonrisa (o una carcajada por la mala pronunciación.) 
 Éste ha sido nuestro kit de supervivencia en Sri Lanka:
 
-Castellano|Cingales|Tamil|
+Castellano|Cingalés|Tamil|
 ------------- | ------------- | -------------
 Hola|Ayubowan /*ayuboan*/|Wanakam /*uanacam*/|
 Adios|Bye Bye|Bye Bye| 
