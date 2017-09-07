@@ -8,10 +8,13 @@ other = "Latest Posts"
 other = "Home"
 
 [inOtherLanguages]
-other = "In other languages"
+other = "This post in other languages"
 
 [subscribeNewsletter]
 other = "Receive our last news"
+
+[subscribeNewsletterSuccess]
+other = "You are successfully subscribed to the newsletter!"
 
 [followUsSocialMedias]
 other = "Follow us on social medias"

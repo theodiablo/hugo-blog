@@ -1,41 +1,5 @@
 <aside class="l-sidebar">
-
   <div class="sections sidebar">
-    <section class="sidebar">
-      <header>{{ i18n "latestPosts" }}</header>
-      <div>
-        <div class="articles sm">
-          {{ range $i, $p := (first 10 .Site.Pages) }}
-          {{ .Render "li_sm" }}
-          {{ end }}
-        </div>
-      </div>
-    </section>
-
-    {{ if .IsTranslated }}
-    <section class="sidebar">
-      <header>{{ i18n "inOtherLanguages" }}</header>
-
-        <ul class="terms">
-      {{ range .Translations }}
-          <div class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></div>
-      {{ end}}
-
-      </ul>
-    </section>
-    {{ end }}
-
-    {{ range $key, $value := .Site.Taxonomies }}
-    <section class="sidebar">
-      <header>{{ $key | upper }}</header>
-      <div>
-        <ul class="terms">
-          {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
-        </ul>
-      </div>
-    </section>
-    {{ end }}
-
     <section class="sidebar">
       <div class="subscribe">
         <header>{{ i18n "subscribeNewsletter" }}</header>
@@ -51,10 +15,33 @@
           <div class="bounce3"></div>
         </div>
         <div class="success" hidden="true">
-          <p>You are successfully subscribed to the newsletter!</p>
+          <p>{{ i18n "subscribeNewsletterSuccess" }}</p>
         </div>
       </div>
     </section>
+
+    <section class="sidebar">
+      <header>{{ i18n "latestPosts" }}</header>
+      <div>
+        <div class="articles sm">
+          {{ range $i, $p := (first 10 .Site.Pages) }}
+          {{ .Render "li_sm" }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    {{ range $key, $value := .Site.Taxonomies }}
+    <section class="sidebar">
+      <header>{{ $key | upper }}</header>
+      <div>
+        <ul class="terms">
+          {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+        </ul>
+      </div>
+    </section>
+    {{ end }}
+
 
     <section class="sidebar">
       <div class="socialMedias">
@@ -72,6 +59,17 @@
         <div class="fb-follow" data-href="https://www.facebook.com/Traveling-Bubbles-263380677505386/" data-width="310" data-layout="standard" data-size="large" data-show-faces="true"></div>
       </div>
     </section>
+
+    {{ if .IsTranslated }}
+    <section class="sidebar">
+      <header>{{ i18n "inOtherLanguages" }}</header>
+        <ul class="terms">
+      {{ range .Translations }}
+          <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+      {{ end}}
+      </ul>
+    </section>
+    {{ end }}
   </div>
 
 </aside>

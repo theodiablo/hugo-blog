@@ -32,8 +32,12 @@
       <div class="l-container">
         <div class="logo">
             <a href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">{{ .Site.Title }}</a>
- 
         </div>
+        <div id="language-selector" class="topNav">
+          {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
+          {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
+        </div>
+        <a href="javascript:void(0);" class="icon" onclick="menuInterruptor()">&#9776;</a>
       </div>
     </header>
 
@@ -52,7 +56,17 @@
       </div>
     </footer>
 
-    <script>var global = { languageCode  : {{ $.Page.Lang }} }</script>
+    <script>
+      var global = { languageCode  : {{ $.Page.Lang }} }
+      function menuInterruptor(){
+        var x = document.getElementById("language-selector");
+          if (x.className === "topNav") {
+              x.className += " responsive";
+          } else {
+              x.className = "topNav";
+          }
+      } 
+    </script>
     <script src="/js/aws-sdk-2.108.0.min.js" async></script>
     <script src="/js/subscribe.js" async></script>
   </body>

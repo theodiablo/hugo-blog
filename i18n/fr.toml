@@ -8,10 +8,13 @@ other = "Derniers articles"
 other = "Accueil"
 
 [inOtherLanguages]
-other = "Dans d'autres langues"
+other = "Cet article dans d'autres langues"
 
 [subscribeNewsletter]
 other = "Reçois nos dernières actus"
+
+[subscribeNewsletterSuccess]
+other = "Tu es correctement inscrit !"
 
 [followUsSocialMedias]
 other = "Nous retrouver sur les réseaux sociaux"
@@ -32,7 +35,7 @@ other = "Introduit ton adresse mail dans ce champ"
 other = "Si tu veux être au courant de nos derniers article, inscris toi. Nous n'utiliserons pas ton email pour d'autres fins, ni le partagerons avec des tiers."
 
 [register]
-other = "M'enregistrer"
+other = "M'inscrire"
 
 [en]
 other = "Anglais"

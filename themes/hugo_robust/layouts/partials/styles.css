@@ -512,24 +512,22 @@ section.footer > header a {
   display: inline-block;
 }
 
-.terms div.f16 {
-  display: inline-block;
+.f16 {
   background-color: #333;
   border-radius: 4px;
   color: #fff;
   font-size: .7rem;
-  margin: .25rem;
   padding: 0 .75rem;
   line-height: 1.75rem;
 }
 
-.terms div.f16 .flag {
+.f16 .flag {
   float: left;
   padding: 0;
   margin-top: 12px;
 }
 
-.terms a {
+.terms a, .f16 a {
   display: block;
   float: left;
   background-color: #333;
@@ -539,6 +537,56 @@ section.footer > header a {
   margin: .25rem;
   padding: 0 .75rem;
   line-height: 1.75rem;
+}
+
+.l-header #language-selector{
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.l-header #language-selector.topNav{
+  position: absolute;
+  top: 0px;
+  right: 0px;  
+}
+
+.l-header .flag{
+  width: 100%;
+  padding-right: 15px;
+}
+.l-header .icon {
+  display: none;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  color: #333;
+  font-size: 20px;
+  border: solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .l-header #language-selector {display: none;}
+  .l-header a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .l-header #language-selector.responsive {
+    position: relative;
+    display: block;
+    margin: .5rem;
+    top: .5rem;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 }
 
 .paging {

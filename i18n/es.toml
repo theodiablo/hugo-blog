@@ -8,10 +8,13 @@ other = "Últimos articulos"
 other = "Inicio"
 
 [inOtherLanguages]
-other = "En otros idiomas"
+other = "Este artículo en otros idiomas"
 
 [subscribeNewsletter]
 other = "Recibe nuestras últimas actualizaciones"
+
+[subscribeNewsletterSuccess]
+other = "Estas correctamente suscrito."
 
 [followUsSocialMedias]
 other = "Síguenos en las redes sociales"
