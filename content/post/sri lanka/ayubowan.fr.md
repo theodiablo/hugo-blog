@@ -1,7 +1,7 @@
 +++
 date = "2017-09-04T12:13:11+05:45"
 draft = false
-title = "Ayubowan"
+title = "Sri Lanka : Ayubowan"
 categories = ["travel"]
 tags = ["Sri Lanka", "backpackers", "curiosités"]
 thumbnail = "images/posts/countries/sri-lanka/ayubowan/smiling-old-man_Fotor.jpg"
