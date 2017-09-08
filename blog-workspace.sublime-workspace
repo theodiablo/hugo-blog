@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"sub",
+				"subscribeEmail"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
 				"max",
 				"max-height"
 			]
@@ -15,54 +31,18 @@
 			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 1424,
+				"buffer_size": 1417,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "themes/hugo_robust/layouts/_default/baseof.html",
+			"file": "themes/hugo_robust/layouts/_default/single.html",
 			"settings":
 			{
-				"buffer_size": 2110,
+				"buffer_size": 1092,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": ".travis.yml",
-			"settings":
-			{
-				"buffer_size": 471,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/post/welcome.fr.md",
-			"settings":
-			{
-				"buffer_size": 2927,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/post/welcome.es.md",
-			"settings":
-			{
-				"buffer_size": 2624,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/index.html",
-			"settings":
-			{
-				"buffer_size": 19125,
-				"encoding": "UTF-8",
-				"line_ending": "CR"
 			}
 		},
 		{
@@ -70,34 +50,79 @@
 			"settings":
 			{
 				"buffer_size": 398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo_robust/layouts/_default/baseof.html",
+			"settings":
+			{
+				"buffer_size": 2169,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "themes/hugo_robust/layouts/partials/styles.css",
+			"file": "themes/hugo_robust/layouts/partials/meta.html",
 			"settings":
 			{
-				"buffer_size": 10551,
+				"buffer_size": 898,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "Searching 1 file for \"Aunradhapura-big.jpg\"\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\post:\n    ERROR: Unable to open file\n\n0 matches\n\nSearching 9 files for \"Aunradhapura-big.jpg\"\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\general.es.md:\n    5  categories = [\"travel\"]\n    6  tags = [\"Sri Lanka\", \"mochileros\", \"curiosidades\"]\n    7: thumbnail = \"images/sri-lanka/Aunradhapura-big.jpg\"\n    8  language = \"es\"\n    9  slug = \"sri-lanka-un-viaje-a-ceilan\"\n\n1 match in 1 file\n",
+			"file": "static/js/aws-lambda.js",
 			"settings":
 			{
-				"buffer_size": 486,
+				"buffer_size": 1817,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "AWS.config.update({region: 'REGION'});"
+			}
+		},
+		{
+			"file": "content/post/sri lanka/ayubowan.es.md",
+			"settings":
+			{
+				"buffer_size": 5486,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/sri lanka/ayubowan.fr.md",
+			"settings":
+			{
+				"buffer_size": 6768,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo_robust/layouts/shortcodes/img.html",
+			"settings":
+			{
+				"buffer_size": 494,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 12 files for \"/sri-lanka/\"\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\ayubowan.es.md:\n   33  * La mayoría de buses tienen una o varias imágenes de Buddha o algún dios Hindú, en función de la religión del conductor. Normalmente las colocan de cara a los asientos para proteger a la gente durante el recorrido.\n   34  \n   35: {{% img src=\"images/sri-lanka/bus-srilanka.jpg\" caption=\"¡Sálvese quien pueda!\" %}}\n   36  \n   37  \n   ..\n   40  * En algunas poblaciones, puedes encontrarte familias de elefantes en libertad cruzando una carretera principal. Por suerte ya existen carteles que te avisan y todos conviven felices. \n   41  \n   42: {{% img src=\"images/sri-lanka/elephant-road.jpg\" caption=\"Como Pedro por su casa\" %}}\n   43  \n   44  ## Que hacer en Sri Lanka?\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\general.es.md:\n    5  categories = [\"travel\"]\n    6  tags = [\"Sri Lanka\", \"mochileros\", \"curiosidades\"]\n    7: thumbnail = \"images/sri-lanka/Aunradhapura-big.jpg\"\n    8  language = \"es\"\n    9  slug = \"sri-lanka-un-viaje-a-ceilan\"\n   ..\n   33  * La mayoría de buses tienen una o varias imágenes de Buddha o algún dios Hindú, en función de la religión del conductor. Normalmente las colocan de cara a los asientos para proteger a la gente durante el recorrido.\n   34  \n   35: {{% img src=\"images/sri-lanka/bus-srilanka.jpg\" caption=\"¡Sálvese quien pueda!\" %}}\n   36  \n   37  \n   ..\n   40  * En algunas poblaciones, puedes encontrarte familias de elefantes en libertad cruzando una carretera principal. Por suerte ya existen carteles que te avisan y todos conviven felices. \n   41  \n   42: {{% img src=\"images/sri-lanka/elephant-road.jpg\" caption=\"Como Pedro por su casa\" %}}\n   43  \n   44  ## Que hacer en Sri Lanka?\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\general.fr.md:\n    5  categories = [\"travel\"]\n    6  tags = [\"Sri Lanka\", \"backpackers\"]\n    7: thumbnail = \"images/sri-lanka/Aunradhapura-big.jpg\"\n    8  language = \"fr\"\n    9  slug = \"sri-lanka-un-voyage-a-ceylan\"\n   ..\n   29  * La majorité des bus ont une ou plusieurs représentations de Bouda ou de dieux hindous, selon la religion du conducteur. Normalement, ils les mettent face aux sièges pour protéger les passagers pendant le trajet. Vu leur conduite, c’est parfois vraiment nécessaire !\n   30  \n   31: {{% img src=\"images/sri-lanka/bus-srilanka.jpg\" caption=\"Priez pour nous pauvres pécheurs !\" %}} \n   32  \n   33  * Tout comme en Inde, les conducteurs sont accros au klaxon. Ils ont carrément leur propre langage entre eux ! D’ailleurs, en un mois sur place on a pu commencer à en décoder un bout. Un simple coup de klaxon peut être utilisé pour saluer, insulter, avertir d’un dépassement, faire peur aux piétons… On pourrait probablement écrire une thèse sur ce sujet passionnant ! \n   34  * Entre certains villages, on peut tomber sur des familles d’éléphants sauvages qui traversent carrément l’autoroute. Heureusement, il y a d’énormes panneaux qui signalent le danger !\n   35  \n   36: {{% img src=\"images/sri-lanka/elephant-road.jpg\" caption=\"Comme a la maison. Pépouze !\" %}}\n   37  \n   38  * Sourire est la façon la plus simple de tisser des liens avec les locaux, mais il faut se préparer à recevoir parfois une dentition rougeoyante et déchaussée en retour. Pas mal de locaux ont la délicieuse coutume de mâchonner pendant des heures une feuille appelée « paan ». Ils peuvent tout à fait te réciter un poème entier avec la bouche pleine de ce jus fort odorant. Attention aux crachats ninjas !\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\itinerary.en.md:\n    6  categories = [\"travel\"]\n    7  tags = [\"Sri Lanka\"]\n    8: thumbnail = \"images/sri-lanka/sri-lanka-elephant-back.jpg\"\n    9  language = \"en\"\n   10  slug = \"30-days-itinerary\"\n   ..\n   16  If you like white beaches with turquoise water, green mountains filled with tea plantations, archeology, jungle... you can do pretty much everything you want to do for holidays, and maybe more than what you were expecting!\n   17  \n   18: {{% img src=\"images/sri-lanka/Colombo-temple.jpg\" caption=\"Budhist temple in Colombo.\" %}}\n   19  \n   20  # Our 30 days itinerary\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\itinerary.es.md:\n    6  categories = [\"travel\",\"itinerario\"]\n    7  tags = [\"Sri Lanka\"]\n    8: thumbnail = \"images/sri-lanka/sri-lanka-elephant-back.jpg\"\n    9  language = \"es\"\n   10  slug = \"itinerario-30-dias\"\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\content\\post\\sri lanka\\itinerary.fr.md:\n    6  categories = [\"travel\",\"itinéraire\"]\n    7  tags = [\"Sri Lanka\"]\n    8: thumbnail = \"images/sri-lanka/sri-lanka-elephant-back.jpg\"\n    9  language = \"fr\"\n   10  slug = \"itineraire-30-jours\"\n\n12 matches across 6 files\n\n\nSearching 29 files for \"og:image\"\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\themes\\hugo_robust\\layouts\\partials\\meta.html:\n   14  <meta property=\"og:title\"              content=\"{{ .Title }}\" />\n   15  <meta property=\"og:description\"        content=\"How much does culture influence creative thinking?\" />\n   16: <meta property=\"og:image\"              content=\"http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg\" />\n\nC:\\Users\\mnm\\Documents\\Projects\\blog\\themes\\hugo_robust\\layouts\\partials\\single_meta.html:\n    4  <meta property=\"og:type\" content=\"article\">\n    5  <meta property=\"og:url\" content=\"{{ .Permalink }}\">\n    6: <meta property=\"og:image\" content=\"{{ .Site.BaseURL }}{{ .Params.thumbnail | default \"images/default.png\" }}\">\n    7  <meta property=\"og:site_name\" content=\"{{ .Site.Title }}\">\n    8  <meta property=\"og:description\" content=\"{{ replaceRE \"\\n\" \"\" (.Description | default .Summary) }}\">\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 5762,
 				"line_ending": "Windows",
 				"name": "Find Results",
 				"scratch": true
 			}
 		},
 		{
-			"file": "content/post/sri lanka/general.es.md",
+			"file": "themes/hugo_robust/layouts/partials/single_meta.html",
 			"settings":
 			{
-				"buffer_size": 4377,
+				"buffer_size": 985,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,43 +131,16 @@
 			"file": "content/post/sri lanka/general.fr.md",
 			"settings":
 			{
-				"buffer_size": 4839,
+				"buffer_size": 4887,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "content/post/preparation/work-in-progress.fr.md",
+			"file": "content/post/sri lanka/general.es.md",
 			"settings":
 			{
-				"buffer_size": 636,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/post/sri lanka/itinerary.en.md",
-			"settings":
-			{
-				"buffer_size": 3024,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/post/sri lanka/itinerary.es.md",
-			"settings":
-			{
-				"buffer_size": 2532,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/post/sri lanka/itinerary.fr.md",
-			"settings":
-			{
-				"buffer_size": 2455,
+				"buffer_size": 4423,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -189,20 +187,41 @@
 	"expanded_folders":
 	[
 		"/C/Users/mnm/Documents/Projects/blog",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation",
+		"/C/Users/mnm/Documents/Projects/blog/content",
+		"/C/Users/mnm/Documents/Projects/blog/content/post",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka",
+		"/C/Users/mnm/Documents/Projects/blog/i18n",
 		"/C/Users/mnm/Documents/Projects/blog/static",
-		"/C/Users/mnm/Documents/Projects/blog/static/css",
 		"/C/Users/mnm/Documents/Projects/blog/themes",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default"
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials"
 	],
 	"file_history":
 	[
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/static/css/custom.css",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/styles.css",
+		"/C/Users/mnm/Documents/Projects/blog/i18n/fr.toml",
+		"/C/Users/mnm/Documents/Projects/blog/i18n/en.toml",
+		"/C/Users/mnm/Documents/Projects/blog/i18n/es.toml",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/sidebar.html",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/general.es.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/general.fr.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.en.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.es.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.fr.md",
+		"/C/Users/mnm/Documents/Projects/blog/config.toml",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/baseof.html",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/single.html",
+		"/C/Users/mnm/Documents/Projects/blog/public/es/sitemap.xml",
+		"/C/Users/mnm/Documents/Projects/blog/.travis.yml",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.fr.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.es.md",
+		"/C/Users/mnm/Documents/Projects/blog/public/index.html",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/li.html",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/work-in-progress.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/static/css/flags32.css",
 		"/C/Users/mnm/Documents/Projects/blog/static/css/flags16.css",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/single.html",
 		"/C/Users/mnm/Desktop/test blog/hugo_theme_robust-old/layouts/_default/single.html",
 		"/C/Users/mnm/Desktop/test blog/hugo_theme_robust-old/layouts/_default/li.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust-old/static/css/styles.css",
@@ -213,13 +232,9 @@
 		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/lets-get-started.es.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/bag-packing.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.md",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/sidebar.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/pagination.html",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/lets-get-started.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/lets-get-started.md",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.es.md",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.es.md",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/static/css/custom.css",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust-current/layouts/partials/styles.css",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/partials/translated-menu.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/partials/styles.css",
@@ -227,26 +242,20 @@
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/partials/meta.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust-current/layouts/partials/meta.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/partials/default_head.html",
-		"/C/Users/mnm/Documents/Projects/blog/config.toml",
-		"/C/Users/mnm/Documents/Projects/blog/.travis.yml",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/static/css/styles.css",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/static/css/custom.css",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.md",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/.gitignore",
 		"/C/Users/mnm/Documents/Projects/blog/public/post/preparation/lets-get-started/index.html",
-		"/C/Users/mnm/Documents/Projects/blog/i18n/es.toml",
 		"/C/Users/mnm/Documents/Projects/blog/public/post/lets-get-started/index.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/_default/single.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/partials/default_foot.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/_default/list.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/_default/li.html",
 		"/C/Users/mnm/Documents/Projects/blog/static/js/sw.js",
-		"/C/Users/mnm/Documents/Projects/blog/public/index.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/index.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/_default/rss.xml",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.es.md",
-		"/C/Users/mnm/Documents/Projects/blog/i18n/fr.toml",
-		"/C/Users/mnm/Documents/Projects/blog/i18n/en.toml",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/public/categories/index.html",
 		"/F/setup.bat",
@@ -270,6 +279,7 @@
 		"height": 90.0,
 		"where_history":
 		[
+			"C:\\Users\\mnm\\Documents\\Projects\\blog\\themes",
 			"C:\\Users\\mnm\\Documents\\Projects\\blog\\content",
 			"C:\\Users\\mnm\\Documents\\Projects\\blog\\post",
 			"C:\\Users\\mnm\\Documents\\Projects\\blog\\themes",
@@ -284,6 +294,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"prem",
+			"og:image",
+			"side",
+			"width",
+			"\" ",
+			"images/sri-lanka/",
+			"/sri-lanka/",
+			"side",
+			"1rem 0 3rem 0",
+			"arti",
+			"subsc",
+			"wrapper",
+			"email",
+			"form",
+			"$",
 			"\n  disqusShortname = \"travel-bubbles\"",
 			"]\n",
 			"dej",
@@ -330,6 +355,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"images/posts/countries/sri-lanka/",
+			"/posts/countries/sri-lanka/",
 			"Jour",
 			"Día",
 			"Day"
@@ -349,7 +376,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -358,15 +385,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1424,
+						"buffer_size": 1417,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1395,
-								1395
+								1366,
+								1366
 							]
 						],
 						"settings":
@@ -375,28 +402,28 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 225.0,
+						"translation.x": 0.0,
+						"translation.y": 239.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "themes/hugo_robust/layouts/_default/baseof.html",
+					"file": "themes/hugo_robust/layouts/_default/single.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2110,
+						"buffer_size": 1092,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								717,
-								717
+								579,
+								579
 							]
 						],
 						"settings":
@@ -409,127 +436,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": ".travis.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 471,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								344,
-								344
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "content/post/welcome.fr.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2927,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1059,
-								1059
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 54.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "content/post/welcome.es.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2624,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 138.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "public/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19125,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "themes/hugo_robust/layouts/_default/li.html",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 398,
@@ -539,8 +452,36 @@
 						"selection":
 						[
 							[
-								126,
-								126
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "themes/hugo_robust/layouts/_default/baseof.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
 							]
 						],
 						"settings":
@@ -553,45 +494,159 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "themes/hugo_robust/layouts/partials/styles.css",
+					"buffer": 4,
+					"file": "themes/hugo_robust/layouts/partials/meta.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10551,
+						"buffer_size": 898,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								898,
+								898
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1555.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/js/aws-lambda.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"auto_name": "AWS.config.update({region: 'REGION'});",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "content/post/sri lanka/ayubowan.es.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "content/post/sri lanka/ayubowan.fr.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4515,
+								4515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 8,
+					"file": "themes/hugo_robust/layouts/shortcodes/img.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 486,
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5762,
 						"regions":
 						{
 							"match":
@@ -600,8 +655,60 @@
 								"regions":
 								[
 									[
-										378,
-										398
+										371,
+										382
+									],
+									[
+										684,
+										695
+									],
+									[
+										984,
+										995
+									],
+									[
+										1347,
+										1358
+									],
+									[
+										1660,
+										1671
+									],
+									[
+										1945,
+										1956
+									],
+									[
+										2361,
+										2372
+									],
+									[
+										3050,
+										3061
+									],
+									[
+										3706,
+										3717
+									],
+									[
+										4073,
+										4084
+									],
+									[
+										4360,
+										4371
+									],
+									[
+										4634,
+										4645
+									],
+									[
+										5086,
+										5094
+									],
+									[
+										5467,
+										5475
 									]
 								],
 								"scope": ""
@@ -610,8 +717,8 @@
 						"selection":
 						[
 							[
-								379,
-								379
+								5510,
+								5510
 							]
 						],
 						"settings":
@@ -626,181 +733,94 @@
 							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "content/post/sri lanka/general.es.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2145,
-								2145
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 450.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "content/post/sri lanka/general.fr.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4839,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2505,
-								2505
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "content/post/preparation/work-in-progress.fr.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 636,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								293,
-								293
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1350.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
 					"type": "text"
 				},
 				{
+					"buffer": 10,
+					"file": "themes/hugo_robust/layouts/partials/single_meta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								983,
+								983
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "content/post/sri lanka/general.fr.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
 					"buffer": 12,
-					"file": "content/post/sri lanka/itinerary.en.md",
+					"file": "content/post/sri lanka/general.es.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3024,
+						"buffer_size": 4423,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								603,
-								593
+								163,
+								151
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "content/post/sri lanka/itinerary.es.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2532,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								330,
-								330
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "content/post/sri lanka/itinerary.fr.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2455,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1112,
-								1112
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
@@ -845,7 +865,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
