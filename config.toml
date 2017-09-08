@@ -27,10 +27,12 @@ enableRobotsTXT = true
 [Languages]
   [Languages.en]
     weight = 1
+    languageCode = "en-us"
   [Languages.en.params]
 
   [Languages.fr]
     weight = 2
+    languageCode = "fr-fr"
   [Languages.fr.params]
     linkedin = "lien-francais"
     dateFormat = "2 January 2006"
@@ -40,6 +42,7 @@ enableRobotsTXT = true
 
   [Languages.es]
     weight = 2
+    languageCode = "es-es"
   [Languages.es.params]
     dateFormat = "2 January 2006"
     keywords = ["viaje", "visitar", "mochilero"]
@@ -48,4 +51,5 @@ enableRobotsTXT = true
 
 
 [outputs]
-page = [ "HTML", "AMP", "RSS" ] # if you want AMP enable.
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+home = [ "RSS" ]
