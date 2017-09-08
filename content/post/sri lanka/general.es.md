@@ -41,7 +41,7 @@ Si viajas por primera vez a un país asiático, tu primera impresión puede ser 
 
 {{% img src="images/posts/countries/sri-lanka/elephant-road.jpg" caption="Como Pedro por su casa" %}}
 
-## ¿Que hacer en Sri Lanka?
+## ¿Qué hacer en Sri Lanka?
 
 Si os interesa, podéis mirar [nuestro itinerario de 30 días en Sri Lanka aquí]({{< ref "post/sri lanka/itinerary.es.md" >}}).
 
