@@ -49,3 +49,4 @@ enableRobotsTXT = true
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
+home = [ "RSS", "HTML" ]
