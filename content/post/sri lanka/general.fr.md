@@ -2,7 +2,7 @@
 date = "2017-08-11T12:13:11+05:45"
 draft = false
 title = "Sri Lanka: Un voyage à Ceylan"
-categories = ["travel"]
+categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "backpackers"]
 thumbnail = "images/posts/countries/sri-lanka/Aunradhapura-big.jpg"
 language = "fr"

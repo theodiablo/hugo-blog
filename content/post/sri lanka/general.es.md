@@ -2,7 +2,7 @@
 date = "2017-08-11T12:13:11+05:45"
 draft = false
 title = "Sri Lanka: Un viaje a Ceilán"
-categories = ["travel"]
+categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "mochileros", "curiosités"]
 thumbnail = "images/posts/countries/sri-lanka/Aunradhapura-big.jpg"
 language = "es"

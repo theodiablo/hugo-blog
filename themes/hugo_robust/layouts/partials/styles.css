@@ -366,10 +366,6 @@ article.sn > .article-body em {
   font-weight: 700;
 }
 
-article.sn > .article-body strong {
-  box-shadow: 0 -.5rem 0 0 #ffc107 inset;
-}
-
 article.sn > .article-body em {
   color: #8bc34a;
 }
