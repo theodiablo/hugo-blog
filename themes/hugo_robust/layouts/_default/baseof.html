@@ -33,15 +33,16 @@
         <div class="logo">
             <a href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">{{ .Site.Title }}</a>
         </div>
+
         <div id="language-selector" class="topNav">
-          {{ if .IsTranslated }}
+          {{ if and (ne .Title $.Site.Title) (.IsTranslated) }}
             {{ range .Translations }}
-                <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+              <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
             {{ end}}
           {{ else }}
             {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
             {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
-            {{ end }}
+          {{ end }}
         </div>
         <a href="javascript:void(0);" class="icon" onclick="menuInterruptor()">&#9776;</a>
       </div>
