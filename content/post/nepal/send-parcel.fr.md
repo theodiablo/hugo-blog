@@ -28,26 +28,26 @@ Voici la scène : a l’entrée, avant de franchir la porte principale, il y a d
 
 {{% img src="images/posts/countries/nepal/send-parcel/capos.jpg" caption="Ces deux la, mieux vaut se les mettre dans la poche..." class="center" width="400"%}}
 
-1- La paperasse: remplir le formulaire avec entre autres l'expéditeur, le destinataire et le contenu du coli, valeur de la marchandise... 
+*1- La paperasse:* remplir le formulaire avec entre autres l'expéditeur, le destinataire et le contenu du coli, valeur de la marchandise... 
 Ce qui est drôle, c’est que tout le formulaire est en népalais, du coup il faut un peu d’aide pour le remplir correctement (il faut bien que les deux sergents  servent a quelque chose !)<br/>
  Il faut également payer pour emballer le paquet qui est obligatoire. <br/>
 *Important* : Avec le formulaire, il faut aussi donner une photocopie de son passeport. Si besoin, il y a un poste avec  un imprimante/scanner juste a l’entrée du bâtiment, où ils vendent aussi des timbres.
 
 {{% img src="images/posts/countries/nepal/send-parcel/parcel-form-kathmandu.jpg" caption="Voici le fameux formulaire en nepalais, avant > après" %}}
 
-2- L'emballage: Les deux femmes nous donnent une des boites en carton pour que l’on puisse mettre nos objets dedans. Apres avoir vérifié le formulaire, un des deux sergents  se charge de vérifier minutieusement le contenu de tout ce qui est envoyé, pour s’assurer qu’il n’y a rien d’illégal. On a vu quelqu’un qui envoyait 15 savons se les faire piquer un a un avec une aiguille pour s’assurer qu’ils ne contenaient pas de drogue. Ils sentaient l’aiguille, et celui qui devinait le parfum de chaque savon gagnait !<br/>
+*2- L'emballage:* Les deux femmes nous donnent une des boites en carton pour que l’on puisse mettre nos objets dedans. Apres avoir vérifié le formulaire, un des deux sergents  se charge de vérifier minutieusement le contenu de tout ce qui est envoyé, pour s’assurer qu’il n’y a rien d’illégal. On a vu quelqu’un qui envoyait 15 savons se les faire piquer un a un avec une aiguille pour s’assurer qu’ils ne contenaient pas de drogue. Ils sentaient l’aiguille, et celui qui devinait le parfum de chaque savon gagnait !<br/>
 Une fois le contenu vérifié, les femmes ferment la boîte puis l’enveloppent dans une toile de tissu qui est ensuite cousue à la main comme un sac. Avec du fil et une aiguille, elles font ca a la main en une minute seulement, c'est super bien fait et vraiment impressionnant !</br>
 Apres ca, il faut écrire sur le tissu l'adresse du destinataire et de l'expéditeur (juste "Kathmandu Nepal" suffit pour l’expéditeur.)
 
 {{% img src="images/posts/countries/nepal/send-parcel/packing-collage.jpg" caption="Les couturieres qui font des merveilles." %}}
 
-3- Le scellé: Maintenant que le paquet est prépare, il faut entrer dans le bâtiment où se trouve un homme assis sur un petit tabouret. Son rôle est de sceller les coutures pour s’assurer que les paquets n’ont pas été ouverts avant l’arrivée a destination.<br / >
+*3- Le scellé:* Maintenant que le paquet est prépare, il faut entrer dans le bâtiment où se trouve un homme assis sur un petit tabouret. Son rôle est de sceller les coutures pour s’assurer que les paquets n’ont pas été ouverts avant l’arrivée a destination.<br / >
 Très patiemment, il scelle chacune des coutures avec son bâton de cire qu’il chauffe à l’aide d’une bougie.<br/>
 Evidemment, tout ce travail manuel a un cout, que l’on détaille plus bas.
 
 {{% img src="images/posts/countries/nepal/send-parcel/sealing.jpg" caption="Comme les lettres dans Game of Thrones, oui oui !" %}}
 
-4- La pesée et l'affranchissement: Ca y est, le paquet est enfin prêt, il ne reste plus a le peser et a prier pour qu’il ne dépasse pas le poids prévu...<br/>
+*4- La pesée et l'affranchissement:* Ca y est, le paquet est enfin prêt, il ne reste plus a le peser et a prier pour qu’il ne dépasse pas le poids prévu...<br/>
 Ah, par contre, il faut attendre que le responsable arrive, ce qui peut prendre un peu de temps selon son humeur, une petite demi-heure pour nous. Une fois qu'il est là, il faut remplir un autre papier avec encore une fois expéditeur, destinataire, description du contenu, blablabla (exactement pareil que le formulaire du début, mais cette fois en anglais).<br/>
 Enfin payer l'affranchissement qui correspond au poids et hop ! C'est fait. On vous donne un justificatif et même un numéro de tracking, qui permet de suivre son paquet <a target=”_blank” href=”www.gpo.gov.np” > sur cette page web : www.gpo.gov.np. </a><br/>
 Avec un peu de chance ça devrait arriver d'ici 2-3 semaines.
