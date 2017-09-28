@@ -5,7 +5,7 @@ draft = true
 tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
 categories = ["tips", "Nepal"]
 title = "Enviar un paquete desde Nepal"
-thumbnail = "images/posts/countries/nepal/send-parcel/parcel.jpg"
+thumbnail = "images/posts/countries/nepal/send-parcel/sealing-edit.jpg"
 language = "es"
 slug = "enviar-paquete-katmandu"
 
@@ -45,7 +45,7 @@ Después te dejan un rotulador de pizarra para que escribas la dirección del ex
  Muy pacientemente te sella una a una todas las costuras con su palito de cera calentada con una vela.
 Obviamente todo este trabajo manual tiene un coste, un poco más abajo lo detallamos.
 
-{{% img src="images/posts/countries/nepal/send-parcel/sealing.jpg" caption="¡Como las cartas en Game of Thrones!" %}}
+{{% img src="images/posts/countries/nepal/send-parcel/sealing-2.jpg" caption="¡Como las cartas en Game of Thrones!" class="center" width="400" %}}
 
 *4- Pesaje y franqueo*: Por fin tu paquete está listo. Ya solo queda pesarlo y rezar para que no sea más de lo que tenías previsto… <br/>
 Tienes que esperar a que llegue el pesador, que en nuestro caso tardó un ratito. Cuando aparece, tienes que rellenar otro papel con los datos del expedidor, destinatario, contenido…bla bla bla (exactamente lo mismo que al principio pero esta vez en ingles) <br/>
