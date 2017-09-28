@@ -12,11 +12,11 @@ slug = "itineraire-30-jours"
 
 +++
 
-# Qu'avons nous fait au Sri Lanka ? 
+# Qu’avons nous fait au Sri Lanka ? 
 
 # Nous sommen entrain de préparer ce post!
 
-En attendant, vous pouvez voir l'itinéraire que nous avons suivi:
+En attendant, vous pouvez voir l’itinéraire que nous avons suivi:
 
 
 <div style="overflow: hidden">
