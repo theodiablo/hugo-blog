@@ -1,6 +1,6 @@
 +++
 date = "2017-09-28T14:41:59+05:30"
-description = ""
+description = "Pour soulager un peu son sac a dos en se séparant de certains objets qui n’ont plus d’utilité après un trek, ou simplement pour ne pas avoir a porter un souvenir pendant la suite de son voyage, il est possible d’envoyer un coli depuis Katmandou, on vous explique comment faire."
 draft = false
 tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
 categories = ["tips", "Nepal"]
@@ -8,13 +8,14 @@ title = "Comment envoyer un coli depuis le Népal"
 thumbnail = "images/posts/countries/nepal/send-parcel/sealing-edit.jpg"
 language = "fr"
 slug = "envoi-coli-katmandou"
+keywords = ["envoyer coli depuis katmandou", "envoyer coli depuis nepal", "envoyer colis katmandou", "envoyer colis nepal"]
 
 +++
+Comme nous avons vu peu d'informations pour envoyer un paquet de Katmandu en Europe (spécifiquement en France), nous avons décidé d'écrire cet article pour expliquer comment cela fonctionne car ça nous a semblé assez spécial !<br/>
+Ce n'est pas particulièrement compliqué, par contre, il faut s'armer de patience et de quelques roupies...
+
 Pour soulager un peu son sac a dos en se séparant de certains objets qui n’ont plus d’utilité après un trek, ou simplement pour ne pas avoir a porter un souvenir pendant la suite de son voyage, il est possible d’envoyer un coli depuis Katmandou.<br/>
 Il est peut-être possible de le faire depuis Pokhara ou une autre ville du pays, nous n’avons pas testé. Nous avons décidé de le faire depuis Katmandu car c’est la capitale, et du coup, on a profité de nos derniers jours au Népal pour acheter des cadeaux et souvenirs.
-
-Comme nous avons vu peu d'informations pour envoyer un paquet de Katmandu en Europe (spécifiquement en France), nous avons décidé d'écrire cet article pour expliquer comment cela fonctionne car ça nous a semblé assez spécial ! <br/>
-Ce n'est pas particulièrement compliqué, par contre, il faut s'armer de patience et de quelques roupies...
 
 L'envoi peut se faire par avion ou par bateau. Nous avons testé uniquement via les airs, ce type d'envoi étant plus sûr et beaucoup plus rapide (2-3 semaines contre 2-3 mois)
 

@@ -1,6 +1,6 @@
 +++
 date = "2017-09-28T14:41:59+05:30"
-description = ""
+description = "Si quieres deshacerte de un poco de peso de tu mochila después de tu trekk por los Himalayas o simplemente quieres enviar algún souvenir para no cargar con ello durante el resto de tu viaje, tienes la opción de enviar un paquete desde Katmandú, te contamos como se hace."
 draft = false
 tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
 categories = ["tips", "Nepal"]
@@ -10,11 +10,11 @@ language = "es"
 slug = "enviar-paquete-katmandu"
 
 +++
+Como no hemos encontrado información a cerca de enviar un paquete desde Nepal hasta Europa (concretamente España), vamos a explicaros como funciona, ya que nos ha parecido bastante peculiar.<br/>
+No es para nada complicado, pero sí que necesitas ir con los bolsillos cargados de paciencia, y unas cuantas rupias.
+
 Si quieres deshacerte de un poco de peso de tu mochila después de tu trekk por los Himalayas o simplemente quieres enviar algún souvenir para no cargar con ello durante el resto de tu viaje, tienes la opción de enviar un paquete por courier desde Katmandú.<br/>
 Quizás puedes hacerlo desde Pokhara o  desde algún otro punto del país, pero lo desconocemos. Nosotros decidimos hacerlo en Katmandú por ser la capital y porque aprovechamos los últimos días para comprar alguna cosita.
-
-Como no hemos encontrado información a cerca de enviar un paquete desde Nepal hasta Europa (concretamente España), vamos a explicaros como funciona, ya que nos ha parecido bastante peculiar.
-No es para nada complicado, pero sí que necesitas ir con los bolsillos cargados de paciencia, y unas cuantas rupias.
 
 El envío a España se realiza por avión vía Dubai, con lo que tarda unas dos o tres semanas en llegar a su destino final. 
 
