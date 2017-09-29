@@ -444,6 +444,7 @@ article.sn > .article-body figcaption {
   font-size: .8rem;
   font-weight: 700;
   margin-top: .5rem;
+  text-align: center;
 }
 
 .facts li {
