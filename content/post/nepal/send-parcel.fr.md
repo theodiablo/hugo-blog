@@ -68,9 +68,9 @@ Pour ce qui est des tarifs, l'emballage et l'affranchissement se payent séparé
 * Affranchissement: Les tarifs pour envoyer un paquet en France sont approximativement de 1300 rs pour 500 g puis 400 rs tous les 500 g supplémentaires. Les prix peuvent varier, mais globalement pour les pays d'Europe, c'est assez similaire.
 
 ## Exemple de calcul:
-Pour envoyer en France une boîte de 20 * 15 * 10 cm et 1.5 kg:
-Emballage: 300 rs
-Affranchissement: 2100 rs = 1300 (*premiers 500g*) + 400 * 2 (*2 fois 500g*)
+Pour envoyer en France une boîte de 20 * 15 * 10 cm et 1.5 kg:<br/>
+Emballage: 300 rs<br/>
+Affranchissement: 2100 rs = 1300 (*premiers 500g*) + 400 * 2 (*2 fois 500g*)<br/>
 Total: 2300 rs (environ 19€)
 
 Ces prix sont de septembre 2017, ils sont susceptibles de changer, on ne vous donne ceux-là pour que vous ayez un ordre d'idée, si vous voulez être surs avant, on vous recommande de faire un tour au bureau de poste avant pour demander.	

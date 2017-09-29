@@ -68,9 +68,9 @@ En cuanto a las tarifas, el embalaje y el franqueo te lo cobran por separado.
 * Franqueo: Las tarifas para enviar un paquete a España son aproximadamente de 1300 rs para los primeros 500 g y  400 rs adicionales por cada 500 g de más. Los precios pueden variar un poco, pero normalmente para el resto de Europa deberían de ser muy similares. 
 
 ## Ejemplo de cálculo:
-Para enviar a España un paquete de 20 * 15 * 10 cm y 1.5 kg:
-Embalaje: 300 rs
-Franqueo: 2100 rs = 1300 (*primeros 500g*) + 400 * 2 (*2 veces los siguientes 500g*)
+Para enviar a España un paquete de 20 * 15 * 10 cm y 1.5 kg:<br/>
+Embalaje: 300 rs<br/>
+Franqueo: 2100 rs = 1300 (*primeros 500g*) + 400 * 2 (*2 veces los siguientes 500g*)<br/>
 Total: 2300 rs ( 19€)
 
 Esta tarifa es de septiembre 2017 y es susceptible de cambio. Si queréis aseguraros del precio, siempre es recomendable acercarse antes para confirmarlo. 
