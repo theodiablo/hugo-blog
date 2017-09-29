@@ -1,10 +1,10 @@
 +++
 date = "2017-09-28T14:41:59+05:30"
 description = ""
-draft = true
+draft = false
 tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
 categories = ["tips", "Nepal"]
-title = "Envoyer un coli depuis le Népal"
+title = "Comment envoyer un coli depuis le Népal"
 thumbnail = "images/posts/countries/nepal/send-parcel/sealing-edit.jpg"
 language = "fr"
 slug = "envoi-coli-katmandou"
@@ -39,7 +39,7 @@ Ce qui est drôle, c’est que tout le formulaire est en népalais, du coup il f
 Une fois le contenu vérifié, les femmes ferment la boîte puis l’enveloppent dans une toile de tissu qui est ensuite cousue à la main comme un sac. Avec du fil et une aiguille, elles font ca a la main en une minute seulement, c'est super bien fait et vraiment impressionnant !</br>
 Apres ca, il faut écrire sur le tissu l'adresse du destinataire et de l'expéditeur (juste "Kathmandu Nepal" suffit pour l’expéditeur.)
 
-{{% img src="images/posts/countries/nepal/send-parcel/packing-collage.jpg" caption="Les couturieres qui font des merveilles." %}}
+{{% img src="images/posts/countries/nepal/send-parcel/packing-collage.jpg" caption="Les couturieres qui font des merveilles" %}}
 
 *3- Le scellé:* Maintenant que le paquet est prépare, il faut entrer dans le bâtiment où se trouve un homme assis sur un petit tabouret. Son rôle est de sceller les coutures pour s’assurer que les paquets n’ont pas été ouverts avant l’arrivée a destination.<br / >
 Très patiemment, il scelle chacune des coutures avec son bâton de cire qu’il chauffe à l’aide d’une bougie.<br/>
@@ -64,14 +64,14 @@ Nous vous recommandons d'arriver pour l'ouverture, voire 5 minutes avant pour é
 Pour ce qui est des tarifs, l'emballage et l'affranchissement se payent séparément.
 
 * Emballage: entre 100 rs et 700 rs selon la taille du paquet. Si il vous semble que, a cause de votre facies de touriste, ils gonflent le prix, n’hésitez pas à demander un détail du prix, ils ont un panneau avec la relation périmètre - prix.
-
 * Affranchissement: Les tarifs pour envoyer un paquet en France sont approximativement de 1300 rs pour 500 g puis 400 rs tous les 500 g supplémentaires. Les prix peuvent varier, mais globalement pour les pays d'Europe, c'est assez similaire.
 
 ## Exemple de calcul:
-Pour envoyer en France une boîte de 20 * 15 * 10 cm et 1.5 kg:<br/>
-Emballage: 300 rs<br/>
-Affranchissement: 2100 rs = 1300 (*premiers 500g*) + 400 * 2 (*2 fois 500g*)<br/>
-Total: 2300 rs (environ 19€)
+Pour envoyer en France une boîte de 20 * 15 * 10 cm et 1.5 kg:
+
+* Emballage: 300 rs
+* Affranchissement: 2100 rs = 1300 (*premiers 500g*) + 400 * 2 (*2 fois 500g*)
+* Total: 2300 rs (environ 19€)
 
 Ces prix sont de septembre 2017, ils sont susceptibles de changer, on ne vous donne ceux-là pour que vous ayez un ordre d'idée, si vous voulez être surs avant, on vous recommande de faire un tour au bureau de poste avant pour demander.	
 
