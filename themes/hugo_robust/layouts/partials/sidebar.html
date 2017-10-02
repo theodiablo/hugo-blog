@@ -66,9 +66,14 @@
     <section class="sidebar">
       <header>{{ i18n "inOtherLanguages" }}</header>
         <ul class="terms">
-      {{ range .Translations }}
-          <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
-      {{ end}}
+      {{ if ne .Title $.Site.Title }}
+        {{ range .Translations }}
+            <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+        {{ end}}
+      {{ else }}
+        {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
+        {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
+      {{ end }}
       </ul>
     </section>
     {{ end }}
