@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align"
+			],
+			[
 				"Cate",
 				"category"
 			],
@@ -32,28 +36,47 @@
 	"buffers":
 	[
 		{
-			"file": "config.toml",
-			"settings":
-			{
-				"buffer_size": 1685,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "layouts/rss.xml",
-			"settings":
-			{
-				"buffer_size": 1763,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "themes/hugo_robust/layouts/_default/baseof.html",
 			"settings":
 			{
-				"buffer_size": 2895,
+				"buffer_size": 3118,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/sri lanka/itinerary.fr.md",
+			"settings":
+			{
+				"buffer_size": 2484,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/nepal/send-parcel.fr.md",
+			"settings":
+			{
+				"buffer_size": 7876,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Envoyer un coli depuis le Népal"
+			}
+		},
+		{
+			"file": "content/post/nepal/send-parcel.es.md",
+			"settings":
+			{
+				"buffer_size": 7063,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo_robust/layouts/shortcodes/img.amp.html",
+			"settings":
+			{
+				"buffer_size": 578,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -62,16 +85,25 @@
 			"file": "themes/hugo_robust/layouts/partials/meta.html",
 			"settings":
 			{
-				"buffer_size": 1020,
+				"buffer_size": 1112,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "content/post/sri lanka/colombo.fr.md",
+			"file": "content/post/sri lanka/colombo.es.md",
 			"settings":
 			{
-				"buffer_size": 7661,
+				"buffer_size": 10307,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 1513,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -91,6 +123,15 @@
 			"settings":
 			{
 				"buffer_size": 985,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo_robust/layouts/_default/li.html",
+			"settings":
+			{
+				"buffer_size": 441,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -139,46 +180,55 @@
 		"/C/Users/mnm/Documents/Projects/blog",
 		"/C/Users/mnm/Documents/Projects/blog/content",
 		"/C/Users/mnm/Documents/Projects/blog/content/post",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/nepal",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka",
 		"/C/Users/mnm/Documents/Projects/blog/layouts",
 		"/C/Users/mnm/Documents/Projects/blog/layouts/shortcodes",
 		"/C/Users/mnm/Documents/Projects/blog/themes",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts"
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default"
 	],
 	"file_history":
 	[
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/shortcodes/img.html",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/styles.css",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/list.html",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.en.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.en.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.es.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.fr.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/work-in-progress.en.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/work-in-progress.es.md",
+		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/work-in-progress.fr.md",
+		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/meta.html",
+		"/C/Users/mnm/Documents/Projects/blog/layouts/rss.xml",
+		"/C/Users/mnm/Documents/Projects/blog/config.toml",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/general.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/general.es.md",
 		"/C/Users/mnm/Documents/Projects/blog/layouts/shortcodes/ref.html",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary..md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.es.md",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/itinerary.en.md",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.en.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.es.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/welcome.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/ayubowan.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/ayubowan.es.md",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/shortcodes/img.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/single.html",
 		"/C/Users/mnm/Documents/Projects/blog/public/robots.txt",
 		"/C/Users/mnm/Documents/Projects/blog/public/index.xml",
 		"/C/Users/mnm/Documents/Projects/blog/layouts/robots.txt",
 		"/C/Users/mnm/Documents/Projects/blog/static/js/aws-lambda.js",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/static/css/custom.css",
-		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/styles.css",
 		"/C/Users/mnm/Documents/Projects/blog/i18n/fr.toml",
 		"/C/Users/mnm/Documents/Projects/blog/i18n/en.toml",
 		"/C/Users/mnm/Documents/Projects/blog/i18n/es.toml",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/partials/sidebar.html",
-		"/C/Users/mnm/Documents/Projects/blog/config.toml",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/baseof.html",
 		"/C/Users/mnm/Documents/Projects/blog/public/es/sitemap.xml",
 		"/C/Users/mnm/Documents/Projects/blog/.travis.yml",
 		"/C/Users/mnm/Documents/Projects/blog/public/index.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_robust/layouts/_default/li.html",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/preparation/work-in-progress.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/static/css/flags32.css",
 		"/C/Users/mnm/Documents/Projects/blog/static/css/flags16.css",
 		"/C/Users/mnm/Desktop/test blog/hugo_theme_robust-old/layouts/_default/single.html",
@@ -214,8 +264,6 @@
 		"/C/Users/mnm/Documents/Projects/blog/static/js/sw.js",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/index.html",
 		"/C/Users/mnm/Documents/Projects/blog/themes/hugo_theme_robust/layouts/_default/rss.xml",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.es.md",
-		"/C/Users/mnm/Documents/Projects/blog/content/post/sri lanka/colombo.fr.md",
 		"/C/Users/mnm/Documents/Projects/blog/public/categories/index.html",
 		"/F/setup.bat",
 		"/F/go/README.md",
@@ -253,6 +301,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Site",
+			"asi",
+			".\n",
 			"RssLink",
 			"que",
 			"prem",
@@ -337,84 +388,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "config.toml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1685,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1318,
-								1318
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TOML/TOML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "layouts/rss.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1695,
-								1695
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "themes/hugo_robust/layouts/_default/baseof.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2895,
+						"buffer_size": 3118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1213,
+								1213
 							]
 						],
 						"settings":
@@ -427,29 +418,87 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "themes/hugo_robust/layouts/partials/meta.html",
+					"buffer": 1,
+					"file": "content/post/sri lanka/itinerary.fr.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1020,
+						"buffer_size": 2484,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								592,
-								592
+								310,
+								310
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/post/nepal/send-parcel.fr.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Envoyer un coli depuis le Népal",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/post/nepal/send-parcel.es.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -460,19 +509,77 @@
 				},
 				{
 					"buffer": 4,
-					"file": "content/post/sri lanka/colombo.fr.md",
+					"file": "themes/hugo_robust/layouts/shortcodes/img.amp.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7661,
+						"buffer_size": 578,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7660,
-								7660
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "themes/hugo_robust/layouts/partials/meta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "content/post/sri lanka/colombo.es.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2506,
+								2357
 							]
 						],
 						"settings":
@@ -480,14 +587,44 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1035.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 7,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								951,
+								951
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TOML/TOML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
 					"semi_transient": false,
 					"settings":
 					{
@@ -585,11 +722,11 @@
 						"translation.y": 1710.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 9,
 					"file": "themes/hugo_robust/layouts/partials/single_meta.html",
 					"semi_transient": false,
 					"settings":
@@ -601,8 +738,8 @@
 						"selection":
 						[
 							[
-								983,
-								983
+								811,
+								868
 							]
 						],
 						"settings":
@@ -613,7 +750,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "themes/hugo_robust/layouts/_default/li.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]

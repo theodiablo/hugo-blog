@@ -26,6 +26,17 @@
   <footer class="article-footer">
     <section class="footer">
       <div>
+        <div class="fb-like" data-href="{{ .Permalink | safeURL }}" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+      </div>
+
+      {{ template "_internal/disqus.html" . }}
+      <script type="text/javascript">
+        var disqus_config = function () { 
+            this.language = "{{ $.Page.Lang }}";
+        };
+      </script>
+
+      <div>
         <nav class="crumb">
           <ol>
             <li><a href="{{ .Site.BaseURL }}"><i class="fa fa-home" aria-hidden="true"></i>TOP</a></li>

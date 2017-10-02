@@ -3,19 +3,19 @@
   <head>
     {{ partial "meta.html" . }}
     {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet">
+    <link href="{{ . }}" rel="stylesheet" media="screen">
     {{ else }}
-    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" media="print">
+    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" media="screen">
     {{ end }}
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" media="print">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" media="screen">
 
     <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
     {{ block "meta" . }}{{ end }}
 
     <link rel="shortcut icon" type="image/png" href="/images/favicon.jpg"/>
     
-    <link rel="stylesheet" type="text/css" href="/css/flags16.css"/>
-    <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/flags16.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="/css/custom.css"/ media="screen">
     <style>
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
       {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
