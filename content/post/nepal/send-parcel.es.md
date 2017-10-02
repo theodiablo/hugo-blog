@@ -49,7 +49,7 @@ Obviamente todo este trabajo manual tiene un coste que detallaremos un poco más
 
 *4- Pesaje y franqueo:* Por fin tu paquete está listo. Ya solo queda pesarlo y rezar para que no sea más de lo que tenías previsto… <br/>
 Tienes que esperar a que llegue el pesador, que en nuestro caso tardó un ratito. Cuando aparece, tienes que rellenar otro papel con los datos del expedidor, destinatario, contenido…bla, bla, bla. (Exactamente lo mismo que al principio pero esta vez en inglés) <br/>
-Pagas lo que corresponde, y te entregan una copia del justificante con un número de tracking con el que puedes hacer el seguimiento del paquete <a target=”_blank” href=”www.gpo.gov.np”>en esta web: www.gpo.gov.np.</a><br/>
+Pagas lo que corresponde, y te entregan una copia del justificante con un número de tracking con el que puedes hacer el seguimiento del paquete <a target="_blank" href="www.gpo.gov.np">en esta web: www.gpo.gov.np.</a><br/>
 ¡Con un poco de suerte el paquete llegara en dos o tres semanas!
 
 {{% img src="images/posts/countries/nepal/send-parcel/success.jpg" caption="¡Tachááán!" %}}
