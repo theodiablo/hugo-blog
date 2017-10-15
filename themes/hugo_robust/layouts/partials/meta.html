@@ -21,7 +21,13 @@
 {{ if $.Page.IsTranslated }}
 	{{ range $.Page.Translations }}
 		<meta property="og:locale:alternate" content="{{ i18n ( printf  "%sLocaleCode" .Lang ) }}"/>
+
+
+      {{ if ne .Title $.Site.Title }}
 		<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+	  {{ else }}
+		<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Site.BaseURL }}{{ .Lang }}" />
+	  {{ end }}
     {{ end}}
 {{ end }}
 
