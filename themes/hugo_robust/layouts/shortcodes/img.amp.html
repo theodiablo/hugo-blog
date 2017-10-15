@@ -1,5 +1,5 @@
 <figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
-  <amp-img src="{{ $.Site.BaseURL }}{{ .Get "src" }}" alt="{{ .Get "caption" }}" width={{ .Get "w" }} height={{ .Get "h" }} layout="responsive"></amp-img>
+  <amp-img src="{{ $.Site.BaseURL }}{{ .Get "src" }}" alt="{{ .Get "caption" }}"  {{ if .Get "width"}} width="{{ .Get "width" }}" {{ else }} width="600" {{ end }} {{ if .Get "height"}} height="{{ .Get "height" }}" {{ else }} height="400" {{ end }} layout="responsive"></amp-img>
   {{ if .Get "caption" }}
   <figcaption>
     {{ if .Get "href" }}
