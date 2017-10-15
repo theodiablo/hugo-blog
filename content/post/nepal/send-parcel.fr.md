@@ -50,7 +50,7 @@ Evidemment, tout ce travail manuel a un cout, que l’on détaille plus bas.
 
 *4- La pesée et l'affranchissement:* Ca y est, le paquet est enfin prêt, il ne reste plus a le peser et a prier pour qu’il ne dépasse pas le poids prévu...<br/>
 Ah, par contre, il faut attendre que le responsable arrive, ce qui peut prendre un peu de temps selon son humeur, une petite demi-heure pour nous. Une fois qu'il est là, il faut remplir un autre papier avec encore une fois expéditeur, destinataire, description du contenu, blablabla (exactement pareil que le formulaire du début, mais cette fois en anglais).<br/>
-Enfin payer l'affranchissement qui correspond au poids et hop ! C'est fait. On vous donne un justificatif et même un numéro de tracking, qui permet de suivre son paquet <a target="_blank" href="www.gpo.gov.np" > sur cette page web : www.gpo.gov.np. </a><br/>
+Enfin payer l'affranchissement qui correspond au poids et hop ! C'est fait. On vous donne un justificatif et même un numéro de tracking, qui permet de suivre son paquet <a target="_blank" href="http://www.gpo.gov.np" > sur cette page web : www.gpo.gov.np. </a><br/>
 Avec un peu de chance ça devrait arriver d'ici 2-3 semaines.
 
 {{% img src="images/posts/countries/nepal/send-parcel/success.jpg" caption="Ca y est, on a enfin fini !" %}}
