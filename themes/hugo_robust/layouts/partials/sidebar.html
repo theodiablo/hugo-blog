@@ -31,27 +31,6 @@
       </div>
     </section>
 
-    <section class="sidebar">
-      {{ partial "social-media.html" }}
-    </section>
-
-    {{ if .IsTranslated }}
-    <section class="sidebar">
-      <header>{{ i18n "inOtherLanguages" }}</header>
-        <ul class="terms">
-      {{ if ne .Title $.Site.Title }}
-        {{ range .Translations }}
-            <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"></a><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
-        {{ end}}
-      {{ else }}
-        {{ if not (eq $.Page.Lang "es") }}<span class="f16"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
-        {{ if not (eq $.Page.Lang "fr") }}<span class="f16"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
-      {{ end }}
-      </ul>
-    </section>
-    {{ end }}
-    
-
     {{ range $key, $value := .Site.Taxonomies }}
     <section class="sidebar">
       <header>{{ $key | upper }}</header>
@@ -60,6 +39,42 @@
           {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
         </ul>
       </div>
+    </section>
+    {{ end }}
+
+
+    <section class="sidebar">
+      <div class="socialMedias">
+        <header>{{ i18n "followUsSocialMedias" }}</header>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <div class="fb-follow" data-href="https://www.facebook.com/Traveling-Bubbles-263380677505386/" data-width="310" data-layout="standard" data-size="large" data-show-faces="true"></div>
+        <div>
+          <a href="//www.instagram.com/traveling_bubbles?ref=badge" class="ig-b- ig-b-32" target="_blank"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a>
+        </div>
+      </div>
+    </section>
+
+    {{ if .IsTranslated }}
+    <section class="sidebar">
+      <header>{{ i18n "inOtherLanguages" }}</header>
+        <ul class="terms">
+      {{ if ne .Title $.Site.Title }}
+        {{ range .Translations }}
+            <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+        {{ end}}
+      {{ else }}
+        {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
+        {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
+      {{ end }}
+      </ul>
     </section>
     {{ end }}
   </div>

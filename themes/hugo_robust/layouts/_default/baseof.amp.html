@@ -7,7 +7,6 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-    <script async custom-element="amp-facebook-like" src="https://cdn.ampproject.org/v0/amp-facebook-like-0.1.js"></script>
     
     {{ with .Site.Params.googlefonts }}
     <link href="{{ . }}" rel="stylesheet">
@@ -40,7 +39,7 @@
     <header class="l-header">
       <div class="l-container">
         <div class="logo">
-            <a href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">{{ .Site.Title }}</a>
+          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
         </div>
       </div>
     </header>
