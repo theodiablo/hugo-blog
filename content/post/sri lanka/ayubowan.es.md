@@ -43,7 +43,7 @@ Te con leche|Kiri te /*kiri te*/|Paal theneer/*pal tenir*/|
 
 En nuestro viaje en tren desde Kandy hasta Nuwara Eliya nos unimos a un grupo de chicos que estaban cantando, tocando y bailando canciones locales durante buena parte del recorrido.
 
-{{< youtube id="jFhgaqvV1yA" >}}
+{{< iframe src="https://www.youtube.com/embed/jFhgaqvV1yA" >}}
 
 <a href="https://www.youtube.com/watch?v=4UQsyot7C5I" target="_blank">Aquí podéis escuchar la canción original completa</a>
 
