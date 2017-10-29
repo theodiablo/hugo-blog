@@ -1,3 +1,18 @@
-<div {{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }} style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="{{ .Get "src" }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" frameborder="0" title="YouTube Video"></iframe>
-</div>
+{{ if and (.Get "addContainer") (eq "true" (.Get "addContainer")) }}
+	<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+{{ end }}
+
+  <iframe src="{{ .Get "src" }}" {{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}
+  	{{ if .Get "width"}} width="{{ .Get "width" }}" {{ else }} width="800" {{ end }} 
+  	{{ if .Get "height"}} height="{{ .Get "height" }}" {{ else }} height="600" {{ end }}
+	{{ if .Get "style" }}
+  		style="{{ .Get "style" }}"
+  	{{ else }}
+  		{{ if and (.Get "addContainer") (eq "true" (.Get "addContainer")) }}
+  			style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+  		{{ end }}
+	{{ end }} allowfullscreen="" frameborder="0" title="Embedded Iframe"></iframe>
+
+{{ if and (.Get "addContainer") (eq "true" (.Get "addContainer")) }}
+	</div>
+{{ end }}

@@ -41,7 +41,7 @@ Thé au lait|Kiri te /*kiri té*/|Paal theneer/*pal tenir*/|
 ## Comme à la maison
 Pendant notre trajet en train de Kandy a Nuwara Eliya, nos avons rejoint un groupe d'étudiants qui faisaient de la musique, dansaient et chantaient des chansons locales. Ils faisaient beaucoup de bruit avec beaucoup d'énergie pendant la plus grande partie du trajet, c'était assez génial à voir !
 
-{{< iframe src="https://www.youtube.com/embed/jFhgaqvV1yA" >}}
+{{< iframe src="https://www.youtube.com/embed/jFhgaqvV1yA?" addContainer="true" >}}
 
 <a href="https://www.youtube.com/watch?v=4UQsyot7C5I" target="_blank">Vous pouvez écouter ici la chanson originale</a> c'est assez ressemblant, malgré tout !
  

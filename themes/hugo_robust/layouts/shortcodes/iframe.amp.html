@@ -1,12 +1,16 @@
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <amp-iframe src="{{ .Get "src" }}" 
-  	style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-  	{{ if .Get "width"}} width="{{ .Get "width" }}" {{ end }} 
-  	{{ if .Get "height"}} height="{{ .Get "height" }}" {{ end }}
+{{ if and (.Get "addContainer") (eq "true" (.Get "addContainer")) }}
+	<div >
+{{ end }}
+  <amp-iframe src="{{ .Get "src" }}"
+  	{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}
+  	{{ if .Get "width"}} width="{{ .Get "width" }}" {{ else }} width="800" {{ end }} 
+  	{{ if .Get "height"}} height="{{ .Get "height" }}" {{ else }} height="600" {{ end }}
   	allowfullscreen="" 
   	frameborder="0" 
-  	title="YouTube Video"
+  	title="Embedded Iframe"
   	sandbox="allow-scripts allow-same-origin allow-presentation"
     layout="responsive">
   </amp-iframe>
-</div>
+{{ if and (.Get "addContainer") (eq "true" (.Get "addContainer")) }}
+	</div>
+{{ end }}

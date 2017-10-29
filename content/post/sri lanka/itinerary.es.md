@@ -19,12 +19,12 @@ slug = "itinerario-30-dias"
 De momento, aquí podéis ver un mapa de nuestro itinerario:
 
 
-<div style="overflow: hidden">
-<div class="mcol c6" style="padding: 0">
-	<iframe src="https://www.google.com/maps/d/embed?mid=1DjShSvY9BNbmccluxhQl1GrrAcU" height="480" style="position: relative; width: 100%; scrolling='no';"></iframe>
+<div class="no-overflow">
+<div class="mcol c6">
+	{{< iframe src="https://www.google.com/maps/d/embed?mid=1DjShSvY9BNbmccluxhQl1GrrAcU" height="480" width="324" class="full-width">}}
 </div>
-<div class="mcol c6" style="max-height: 480px; overflow-y: auto; ">
-	<table class="table table-hover table-striped" style="font-size: small;">
+<div class="mcol c6 max-25rem">
+	<table class="table table-hover table-striped small-font">
 		<tbody>
 		<tr><td class="column-1">Día 1 - 2</td><td class="column-2">Colombo</td></tr>
 		<tr><td class="column-1">Día 3</td><td class="column-2">Colombo - Anuradhapura</td></tr>
