@@ -2,7 +2,12 @@
 <meta name="pinterest" content="nopin">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
-<meta property="og:type" content="website" />
+
+<meta property="og:url" content="{{ .Site.baseURL }}">
+<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:site_name" content="traveling-bubbles.com">
+<meta property="og:type" content="website">
+<meta property="fb:pages" content="263380677505386">
 <meta property="fb:pages" content="263380677505386" />
 {{ with .Site.Params.contact }}<meta name="contact" content="{{ . }}">{{ end }}
 {{ .Hugo.Generator }}
