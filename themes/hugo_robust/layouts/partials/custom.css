@@ -1,3 +1,24 @@
+.no-overflow{
+  overflow: hidden;
+}
+
+.no-overflow .mcol{
+  padding: 0;
+}
+
+.max-25rem{
+  max-height: 25rem;
+  overflow-y: auto;
+}
+
+.small-font{
+  font-size: small;
+}
+
+.full-width{
+  width: 100%;
+}
+
 .center{
   text-align: center;
 }
