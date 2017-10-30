@@ -287,6 +287,11 @@ article.sn .article-footer {
   padding-bottom: 0;
 }
 
+article.sn .article-footer{
+  padding-top: 0 !important;
+}
+
+
 
 article.sn > .article-body {
   padding: 0 2rem;
