@@ -25,21 +25,16 @@ enableRobotsTXT = true
   logofontfamily = "'Pacifico', cursive" # Optional, Override logo font.
 
 [Languages]
-  [Languages.en]
-    weight = 1
-  [Languages.en.params]
-
   [Languages.fr]
     weight = 2
   [Languages.fr.params]
-    linkedin = "lien-francais"
     dateFormat = "2 January 2006"
     keywords = ["voyage", "visiter", "sac a dos"]
   [Languages.fr.navigation]
     help  = "Aide"
 
   [Languages.es]
-    weight = 2
+    weight = 1
   [Languages.es.params]
     dateFormat = "2 January 2006"
     keywords = ["viaje", "visitar", "mochilero"]
