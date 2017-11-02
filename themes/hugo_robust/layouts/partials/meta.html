@@ -53,8 +53,12 @@
 	<meta property="og:url" content="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">
 	<link rel="canonical" href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">
 
+	<meta property="og:description" content="{{ replaceRE "\n" "" ((i18n "homePageDescription") | default .Summary) }}">
+	<meta name="description" content="{{ replaceRE "\n" "" ((i18n "homePageDescription") | default .Summary) }}">
+	
 	<meta name="twitter:url" content="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">
 	<meta name="twitter:title" content="{{ .Site.Title }}">
+	<meta name="twitter:description" content="{{ replaceRE "\n" "" ((i18n "homePageDescription") | default .Summary) }}">
 
 	{{ if $.Page.IsTranslated }}
 		{{ range $.Page.Translations }}
