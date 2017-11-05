@@ -29,6 +29,6 @@
         "height": 60
       }
     },
-    "description": "{{ .Description | default .Summary }}"
+    "description": "{{ replaceRE "\n" " " (.Description | default .Summary) }}"
   }
 </script>

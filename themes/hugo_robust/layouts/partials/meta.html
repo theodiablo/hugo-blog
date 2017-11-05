@@ -3,6 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
+{{ .Hugo.Generator }}
 
 <meta property="og:site_name" content="traveling-bubbles.com">
 <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail | default "images/default.png" }}">
@@ -22,6 +23,8 @@
 <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail | default "images/default.png" }}">
 
 <meta name="pinterest" content="nopin">
+
+
 
 {{ if .Keywords }}
 <meta content="{{ delimit .Keywords ", " }}" name="keywords">
@@ -60,6 +63,8 @@
 	<meta name="twitter:title" content="{{ .Site.Title }}">
 	<meta name="twitter:description" content="{{ replaceRE "\n" "" ((i18n "homePageDescription") | default .Summary) }}">
 
+	{{ partial "home_json_ld.html" . }}
+	
 	{{ if $.Page.IsTranslated }}
 		{{ range $.Page.Translations }}
 			<meta property="og:locale:alternate" content="{{ i18n ( printf  "%sLocaleCode" .Lang ) }}"/>

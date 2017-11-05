@@ -1,0 +1,33 @@
+
+
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://traveling-bubbles.com",
+  "logo": "https://traveling-bubbles.com/images/unused/logo.jpg",
+  "name": "Traveling Bubbles",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "contact@traveling-bubbles.com",
+    "telephone": "+33 6 76 34 91 94",
+    "contactType": "customer service"
+  },
+  "sameAs": ["facebook.com/travelingbubbles/", "instagram.com/traveling_bubbles/", "youtube.com/channel/UCpszun1GpyIWzNE_wmHpJdA"]
+},
+{
+  "@context":"http://schema.org",
+  "@type":"ItemList",
+  "itemListElement":[
+  {{ $list := $.Site.RegularPages }}
+  {{ $len := len $list }}
+	{{ range $index, $element := $list }}
+    	{
+      	"@type":"ListItem",
+      	"position": {{ add $index 1 }},
+      	"url":"{{ .Permalink }}"
+    	}{{ if ne $len (add $index 1) }},{{end}}
+	{{ end }}
+  ]
+}]
+</script>
