@@ -4,9 +4,9 @@
 [{
   "@context": "http://schema.org",
   "@type": "Organization",
-  "url": "https://traveling-bubbles.com",
-  "logo": "https://traveling-bubbles.com/images/unused/logo.jpg",
-  "name": "Traveling Bubbles",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo.png",
+  "name": "{{ .Site.Title }}",
   "contactPoint": {
     "@type": "ContactPoint",
     "email": "contact@traveling-bubbles.com",
