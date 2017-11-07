@@ -116,3 +116,5 @@ Como en cualquier atracción muy turística, llegar temprano puede permitir evit
 Para alquilar un Jeep, los precios son muy similares en todos los parques. Los vehículos suelen tener hasta 6 plazas así que cuantos más seáis, mejor. Para conseguir un buen precio debéis usar vuestras armas de negociación.
 
 Nosotros reservamos el Jeep en las mismas cabañas donde nos quedamos a dormir (normalmente todos los alojamientos ofrecen el servicio ya que es el atractivo turístico del lugar). Si queréis también podéis ir a la entrada del parque y allí hay Jeeps que podéis contratar directamente con los conductores, aunque la verdad es que es más cómodo ir con el Jeep desde el alojamiento sobre todo si empezáis a las 5 de la mañana.
+
+¡Si tienes cualquier experiencia que quieres compartir con nosotros o una información que no este mencionada aquí, no dudes en dejar un comentario abajo!
