@@ -190,7 +190,7 @@ article.li > a {
 }
 
 article.li .inner {
-  padding: 1rem;
+  padding: .5rem;
 }
 
 article.li .thumb {   height: 10rem; }
@@ -222,7 +222,6 @@ article.li .summary {
   font-size: .8rem;
   height: 6rem;
   overflow: hidden;
-  margin-top: 1rem;
 }
 
 article.lism {
