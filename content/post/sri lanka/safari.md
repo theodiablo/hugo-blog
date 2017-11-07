@@ -1,6 +1,6 @@
 +++
 date = "2017-10-28T14:41:59+05:30"
-description = ""
+description = "Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, probablemente te hagas la misma pregunta que nosotros nos hicimos cuando estábamos allí. ¿Cuál es el mejor safari en Sri Lanka?"
 draft = false
 tags = ["Sri Lanka", "Kathmandu", "Safari", "Travel"]
 categories = ["tips", "Sri Lanka"]
