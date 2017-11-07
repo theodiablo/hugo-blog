@@ -12,7 +12,7 @@ slug = "colombo"
 Sri Lanka y concretamente Colombo, fue la primera parada en nuestro viaje de un año en Asia. Era también la primera vez que poníamos los pies en este continente y ya nos habían avisado que los primeros días iban a ser un poco impactantes. 
 
 Pero también nos habían dicho que Sri Lanka era mucho más llevadero que India para principiantes y que te podías adaptar fácilmente al primer choque cultural. Esta fue una de las razones por las que decidimos empezar por este país. ¡Os lo recomendamos 100% si vosotros también sois novatos!
-Y si queréis un poco de info general de Sri Lanka podéis echarle un vistazo a [éste articulo]({{< ref "/post/sri lanka/general.md" >}})
+Y si queréis un poco de info general de Sri Lanka podéis echarle un vistazo a [éste articulo]({{< ref "/sri lanka/general.md" >}})
 
 Nosotros nos dimos cuenta que estábamos en otro continente cuando subimos al avión en Muscat, ya que se contaban con los dedos de una mano los pasajeros occidentales. Pero sobre todo cuando nos dieron el snack en el vuelo. Unas ricas patatillas naranja fosforito (bastante picantes), que nos dieron la bienvenida con la primera diarrea del viaje (¡No podía faltar!).
 
@@ -95,5 +95,5 @@ Es un sitio muy tranquilo y lleno de paz donde conviven decenas de monjes. La fo
 Un consejo práctico que permite ahorrar tiempo y muchas veces dinero es utilizar la app Uber, que está disponible en Colombo. Si no tienes cuenta puedes crear una <a href="https://www.uber.com/invite/tw4a6apvue" target="_blank"> siguiendo este enlace </a> 
 y tendrás 5 € gratis en el primer viaje. 
 * Para evitar que el viaje sea un drama, como en muchas otras ciudades del mundo, hay que tener cuidado con los carteristas. Nunca dejar las pertenencias sin vigilar y no llevar nada de valor en bolsillos que no cierran. Recomendamos no llevar el pasaporte original diariamente, mejor hacer una copia y llevarla siempre contigo. 
-* Desde Colombo, puedes llegar en tren o bus a cualquier punto de la isla. No dudéis en pedir consejo en el *Tourist Information Office* de la estación de Colombo Fort si queréis información sobre los horarios de los trenes o sobre como planificar vuestro itinerario. Allí nos dieron algunos consejos útiles para nuestro [itinerario de 30 días en Sri Lanka]({{< ref "post/sri lanka/itinerary.md" >}}). Por cierto, si queréis verlo [¡está aquí!]({{< ref "post/sri lanka/itinerary.md" >}})
+* Desde Colombo, puedes llegar en tren o bus a cualquier punto de la isla. No dudéis en pedir consejo en el *Tourist Information Office* de la estación de Colombo Fort si queréis información sobre los horarios de los trenes o sobre como planificar vuestro itinerario. Allí nos dieron algunos consejos útiles para nuestro [itinerario de 30 días en Sri Lanka]({{< ref "sri lanka/itinerary.md" >}}). Por cierto, si queréis verlo [¡está aquí!]({{< ref "sri lanka/itinerary.md" >}})
 Si os dejáis llevar, estamos seguros que Colombo os va a gustar ¡Pero atentos que lo mejor está por llegar!

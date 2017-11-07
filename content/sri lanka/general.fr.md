@@ -38,7 +38,7 @@ Pour quelqu’un qui fait son premier voyage dans un pays d’Asie, la première
 * Sourire est la façon la plus simple de tisser des liens avec les locaux, mais il faut se préparer à recevoir parfois une dentition rougeoyante et déchaussée en retour. Pas mal de locaux ont la délicieuse coutume de mâchonner pendant des heures une feuille appelée « paan ». Ils peuvent tout à fait te réciter un poème entier avec la bouche pleine de ce jus fort odorant. Attention aux crachats ninjas !
 
 ## Que faire au Sri Lanka?
-Si ca vous intéresse, vous pouvez trouver [ici notre itinéraire de 30 jours au Sri Lanka]({{< ref "post/sri lanka/itinerary.md" >}}).
+Si ca vous intéresse, vous pouvez trouver [ici notre itinéraire de 30 jours au Sri Lanka]({{< ref "sri lanka/itinerary.md" >}}).
 
 Que ce soit en nageant avec des tortues de mer en liberté, en escaladant l’imposant rocher de Sigiriya, en explorant l’un de ses nombreux parcs naturels, en s’aventurant dans les plantations de thé, en se perdant dans les ruines d’Anuradhapura et Polonnaruwa, en osant conduire un tuk-tuk sur la voie de gauche ou encore en prenant un bain de soleil sur ses plages de sable fin…
 

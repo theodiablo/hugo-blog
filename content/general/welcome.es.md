@@ -9,8 +9,6 @@ thumbnail = "images/Starting.jpg"
 language = "es"
 slug = "bienvenidos"
 
-
-
 +++
 
 # ¡Hola! Bonjour! ¡Kaixo!

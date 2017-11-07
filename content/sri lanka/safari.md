@@ -8,6 +8,7 @@ title = "Mejor safari en Sri Lanka: Yala, Udawalawe, Bundala o Sinharaja"
 thumbnail = "images/posts/countries/sri-lanka/safari/udawalawe-elephant-mum.jpg"
 language = "es"
 slug = "safari-yala-udawalawe-bundala-sinharaja"
+keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "udawalawe national park", "yala national park", "mejor safari" ]
 
 +++
 

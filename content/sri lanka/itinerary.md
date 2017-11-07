@@ -38,7 +38,7 @@ De momento, aquí podéis ver un mapa de nuestro itinerario:
 		<tr><td class="column-1">Día 18</td><td class="column-2">Ella - Arugam Bay</td></tr>
 		<tr><td class="column-1">Día 19 -20 - 21</td><td class="column-2">Arugam bay</td></tr>
 		<tr><td class="column-1">Día 22</td><td class="column-2">Arugam bay - Udawalawe</td></tr>
-		<tr><td class="column-1">Día 23</td><td class="column-2"><a href="{{< ref "/post/sri lanka/safari.md" >}}" target="_blank">Udawalawe - Tangalle</a></td></tr>
+		<tr><td class="column-1">Día 23</td><td class="column-2"><a href="{{< ref "/sri lanka/safari.md" >}}" target="_blank">Udawalawe - Tangalle</a></td></tr>
 		<tr><td class="column-1">Día 24</td><td class="column-2">Tangalle</td></tr>
 		<tr><td class="column-1">Día 25 - 26 - 27</td><td class="column-2">Unawatuna & Galle</td></tr>
 		<tr><td class="column-1">Día 28</td><td class="column-2">Galle - Colombo</td></tr>
