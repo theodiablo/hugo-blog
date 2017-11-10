@@ -1,7 +1,5 @@
-
-
 <script type="application/ld+json">
-[{
+{
   "@context": "http://schema.org",
   "@type": "Organization",
   "url": "{{ .Site.BaseURL }}",
@@ -14,20 +12,22 @@
     "contactType": "customer service"
   },
   "sameAs": ["facebook.com/travelingbubbles/", "instagram.com/traveling_bubbles/", "youtube.com/channel/UCpszun1GpyIWzNE_wmHpJdA"]
-},
+}
+</script>
+<script type="application/ld+json">
 {
   "@context":"http://schema.org",
   "@type":"ItemList",
   "itemListElement":[
   {{ $list := $.Site.RegularPages }}
   {{ $len := len $list }}
-	{{ range $index, $element := $list }}
-    	{
-      	"@type":"ListItem",
-      	"position": {{ add $index 1 }},
-      	"url":"{{ .Permalink }}"
-    	}{{ if ne $len (add $index 1) }},{{end}}
-	{{ end }}
+  {{ range $index, $element := $list }}
+      {
+        "@type":"ListItem",
+        "position": {{ add $index 1 }},
+        "url":"{{ .Permalink }}"
+      }{{ if ne $len (add $index 1) }},{{end}}
+  {{ end }}
   ]
-}]
+}
 </script>
