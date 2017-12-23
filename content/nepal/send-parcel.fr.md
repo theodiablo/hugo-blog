@@ -42,7 +42,7 @@ Apres ca, il faut écrire sur le tissu l'adresse du destinataire et de l'expédi
 
 {{% img src="images/posts/countries/nepal/send-parcel/packing-collage.jpg" caption="Les couturieres qui font des merveilles" %}}
 
-*3- Le scellé:* Maintenant que le paquet est prépare, il faut entrer dans le bâtiment où se trouve un homme assis sur un petit tabouret. Son rôle est de sceller les coutures pour s’assurer que les paquets n’ont pas été ouverts avant l’arrivée a destination.<br / >
+*3- Le scellé:* Maintenant que le paquet est prépare, il faut entrer dans le bâtiment où se trouve un homme assis sur un petit tabouret. Son rôle est de sceller les coutures pour s’assurer que les paquets n’ont pas été ouverts avant l’arrivée a destination.<br/>
 Très patiemment, il scelle chacune des coutures avec son bâton de cire qu’il chauffe à l’aide d’une bougie.<br/>
 Evidemment, tout ce travail manuel a un cout, que l’on détaille plus bas.
 
