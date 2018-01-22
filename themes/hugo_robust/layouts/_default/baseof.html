@@ -31,7 +31,13 @@
     <header class="l-header">
       <div class="l-container">
         <div class="logo">
-            <a href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">{{ .Site.Title }}</a>
+            {{ if eq .Title $.Site.Title }}
+            <h1>
+            {{ end }}
+              <a href="{{ substr .Site.BaseURL 0 -1 }}{{ .Site.LanguagePrefix }}/">{{ .Site.Title }}</a>
+            {{ if eq .Title $.Site.Title }}
+            </h1>
+            {{ end }}
         </div>
 
         <div id="language-selector" class="topNav">
