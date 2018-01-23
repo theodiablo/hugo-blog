@@ -183,6 +183,12 @@ article.li {
   margin: 1rem 0;
 }
 
+@media (max-width: 768px) {
+  article.li {
+    height: 10rem;
+  }
+}
+
 article.li > a {
   display: block;
   position: relative;
@@ -200,6 +206,20 @@ article.li .title {
   font-size: 1.2rem;
   line-height: 1.5rem;
   margin-bottom: .5rem;
+  width: 100%;
+}
+
+
+@media (max-width: 768px) {
+  article.li .title {
+    position: absolute;
+    top: 8rem;
+    color: white;
+    text-shadow: 1px 1px #2f2f2f;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
 }
 
 
