@@ -37,6 +37,7 @@
 	<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
 	<meta property="og:type" content="article">
 	<meta property="og:description" content="{{ replaceRE "\n" "" (.Description | default .Summary) }}">
+	<meta name="description" content="{{ replaceRE "\n" "" (.Description | default .Summary) }}">
 	<meta property="og:url" content="{{ .Permalink }}">
 	<link rel="canonical" href="{{ .Permalink }}">
 

@@ -4,3 +4,4 @@ blog-workspace.sublime-workspace
 *.sublime-workspace
 isableFastRender/
 node_modules/
+static/images/generated/

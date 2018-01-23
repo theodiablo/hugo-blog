@@ -4,7 +4,7 @@ draft = false
 title = "Sri Lanka : Ayubowan"
 categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "backpackers", "curiosités"]
-thumbnail = "images/posts/countries/sri-lanka/ayubowan/smiling-old-man_Fotor.jpg"
+thumbnail = "posts/countries/sri-lanka/ayubowan/smiling-old-man_Fotor.jpg"
 language = "fr"
 slug = "ayubowan"
 

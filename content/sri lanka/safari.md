@@ -5,7 +5,7 @@ draft = false
 tags = ["Sri Lanka", "Kathmandu", "Safari", "Travel"]
 categories = ["tips", "Sri Lanka"]
 title = "Mejor safari en Sri Lanka: Yala, Udawalawe, Bundala o Sinharaja"
-thumbnail = "images/posts/countries/sri-lanka/safari/udawalawe-elephant-mum.jpg"
+thumbnail = "posts/countries/sri-lanka/safari/udawalawe-elephant-mum.jpg"
 language = "es"
 slug = "safari-yala-udawalawe-bundala-sinharaja"
 keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "udawalawe national park", "yala national park", "mejor safari" ]
@@ -26,7 +26,7 @@ Nosotros elegimos el de Udawalawe, pero aquí te dejamos algo de información so
 {{% img src="posts/countries/sri-lanka/safari/yala-leopard.jpg" caption="El leopardo de Yala – Instagram photo by @charstravels"%}}
 
 Situado  en el extremo sudeste de la isla, con un total de 130.000 hectáreas, posee la mayor variedad de leopardos del mundo. </br>
-Si lo que quieres es ver una amplia variedad de animales, incluyendo el famoso leopardo además de elefantes, cocodrilos, monos, búfalos, osos y distintas aves…el parque nacional de Yala es tu parque. 
+Si lo que quieres es ver una amplia variedad de animales, incluyendo el famoso leopardo, además de elefantes, cocodrilos, monos, búfalos, osos y distintas aves…el parque nacional de Yala es tu parque. 
 El parque esta dividido en 6 áreas diferenciadas, y una de las mas conocidas y populares con una alta oferta para Jeeps, guiás, packs con comidas, es la de Tissa (Tissamaharama).
  
 Eso sí, olvidate de estar solo rodeado de la naturaleza, porque probablemente en algún momento termines atascado en una cola de Jeeps con treinta personas esperando para intentar hacer una foto al leopardo. Tienes que saber que todos los conductores de Jeeps/guías están en contacto, ya sea por móvil o por walkie y en cuanto alguno de ellos encuentra un animal, se van informando los unos a los otros inmediatamente.

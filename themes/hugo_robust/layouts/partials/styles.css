@@ -747,8 +747,22 @@ section.footer > header a {
 
 {{ range $p := .Site.Pages }}
 {{ with $p.Params.thumbnail }}
-.thumb-{{ $p.UniqueID }} {
-  background-image: url({{ $.Site.BaseURL }}{{ . }});
+
+
+@media (min-width: 1600px) {
+  .thumb-{{ $p.UniqueID }} {
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-extralarge.jpg);
+  }
+}
+@media (max-width: 1600px) {
+  .thumb-{{ $p.UniqueID }} {
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-large.jpg);
+  }
+}
+@media (max-width: 800px) {
+  .thumb-{{ $p.UniqueID }} {
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-medium.jpg);
+  }
 }
 {{ end }}
 {{ end }}

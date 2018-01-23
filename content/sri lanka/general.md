@@ -4,7 +4,7 @@ draft = false
 title = "Sri Lanka: Un viaje a Ceilán"
 categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "mochileros", "curiosités"]
-thumbnail = "images/posts/countries/sri-lanka/Aunradhapura-big.jpg"
+thumbnail = "posts/countries/sri-lanka/Aunradhapura-big.jpg"
 language = "es"
 slug = "sri-lanka-un-viaje-a-ceilan"
 

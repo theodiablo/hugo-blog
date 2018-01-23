@@ -4,7 +4,7 @@ draft = false
 title = "Sri Lanka : Visiter Colombo"
 categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "Colombo", "backpackers", "discover"]
-thumbnail = "images/posts/countries/sri-lanka/colombo/temple-buddha-roof.jpg"
+thumbnail = "posts/countries/sri-lanka/colombo/temple-buddha-roof.jpg"
 language = "fr"
 slug = "colombo"
 

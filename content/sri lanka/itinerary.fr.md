@@ -5,7 +5,7 @@ title = "Sri Lanka: Itinéraire de 30 jours"
 description = ""
 categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "itinerary"]
-thumbnail = "images/posts/countries/sri-lanka/sri-lanka-elephant-back.jpg"
+thumbnail = "posts/countries/sri-lanka/sri-lanka-elephant-back.jpg"
 language = "fr"
 slug = "itineraire-30-jours"
 

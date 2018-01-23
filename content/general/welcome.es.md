@@ -5,7 +5,7 @@ description = ""
 draft = false
 tags = ["welcome"]
 title = "¡Bienvenidos!"
-thumbnail = "images/Starting.jpg"
+thumbnail = "Starting.jpg"
 language = "es"
 slug = "bienvenidos"
 

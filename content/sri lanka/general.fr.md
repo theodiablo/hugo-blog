@@ -4,7 +4,7 @@ draft = false
 title = "Sri Lanka: Un voyage à Ceylan"
 categories = ["travel", "Sri Lanka"]
 tags = ["Sri Lanka", "backpackers"]
-thumbnail = "images/posts/countries/sri-lanka/Aunradhapura-big.jpg"
+thumbnail = "posts/countries/sri-lanka/Aunradhapura-big.jpg"
 language = "fr"
 slug = "sri-lanka-un-voyage-a-ceylan"
 

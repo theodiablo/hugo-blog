@@ -5,7 +5,7 @@ draft = false
 tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
 categories = ["tips", "Nepal"]
 title = "Enviar un paquete desde Nepal"
-thumbnail = "images/posts/countries/nepal/send-parcel/sealing-edit.jpg"
+thumbnail = "posts/countries/nepal/send-parcel/sealing-edit.jpg"
 language = "es"
 slug = "enviar-paquete-katmandu"
 

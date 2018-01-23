@@ -1,9 +1,12 @@
 set HUGO_ENV=PROD
 
-hugo
+call gulp images
 IF %ERRORLEVEL% NEQ 0 goto error
 
-gulp build
+call hugo
+IF %ERRORLEVEL% NEQ 0 goto error
+
+call gulp build
 IF %ERRORLEVEL% NEQ 0 goto error
 
 aws s3 sync ./public/ s3://theodiablo-travel-blog/ --delete --acl public-read
