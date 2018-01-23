@@ -4,7 +4,7 @@ var $ = require('gulp-load-plugins')();
 var responsive = require('gulp-responsive');
 var runSequence = require('run-sequence');
 
-gulp.task('build', gulp.series(minifyHtml, responsiveImg));
+gulp.task('build', gulp.series(minifyHtml));
 
 gulp.task('html', minifyHtml);
 gulp.task('images', responsiveImg);
@@ -17,7 +17,7 @@ function minifyHtml() {
 
 
 function responsiveImg() {
-  return gulp.src(['public/images/posts/**/*.jpg'])
+  return gulp.src(['static/images/posts/**/*.jpg'])
     .pipe($.responsive({
       // Convert all images to JPEG format
       '**/*': [{
@@ -77,5 +77,5 @@ function responsiveImg() {
 	      quality: 75,
 	      errorOnUnusedImage: false
     }))
-    .pipe(gulp.dest('public/images/generated/posts'));
+    .pipe(gulp.dest('static/images/generated/posts'));
 };
