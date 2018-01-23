@@ -23,7 +23,7 @@ Ensuite, pendant notre voyage en train pour nous rendre à Anuradhapura, nous av
 
 À part les conversations intéressantes sur des sujets divers, tels que la fin de la guerre civile ou les récentes inondations qui avaient fait rage dans le sud du pays, ces deux hommes nous ont enseignés nos premiers mots en cingalais et tamoul.
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/raguraam-train.jpg" caption="Dans le train avec Raguraam, notre professeur de tamoul" width="600" class="center" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/raguraam-train.jpg" caption="Dans le train avec Raguraam, notre professeur de tamoul" width="600" class="center" %}}
 
 Apprendre quelques mots de base est indispensable et ça vaut vraiment la peine ! Ça peut permettre de faire sourire, de bien commencer une négociation, ou encore de faire éclater de rire quelqu'un parce qu'on a dit quelque chose de complètement incompréhensible ! Voici notre kit de survie linguistique au Sri Lanka:
 
@@ -36,7 +36,7 @@ Très bon|Bohoma Ondai /*bomo ondai*/|Ithu nalam /*itu nalam*/|
 Eau|Wathura /*vatura*/|Thanner /*tani*/|
 Thé au lait|Kiri te /*kiri té*/|Paal theneer/*pal tenir*/|
  
-{{% img src="images/posts/countries/sri-lanka/ayubowan/translations.jpg" caption="Les notes de nos cours de langue" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/translations.jpg" caption="Les notes de nos cours de langue" %}}
  
 ## Comme à la maison
 Pendant notre trajet en train de Kandy a Nuwara Eliya, nos avons rejoint un groupe d'étudiants qui faisaient de la musique, dansaient et chantaient des chansons locales. Ils faisaient beaucoup de bruit avec beaucoup d'énergie pendant la plus grande partie du trajet, c'était assez génial à voir !
@@ -49,7 +49,7 @@ Dans ce groupe, nous avons rencontré nos amis Sasnas (celui qui joue le rythme 
 
 Ils voyageaient de Negombo à Nuwara Eliya pour passer le weekend entre amis tout en visitant leur pays. Malgré les 8 et 9 ans de différence d'age avec nous, on a directement accroché et on a fini par passer l'intégralité du weekend tous les 4 ! On a visité les plantations de thé, randonné, découvert la région ensemble, échangé sur nos différentes cultures...
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/tea-plantation.jpg" caption="Pendant la visite des plantations de thé avec Sasnas et Musharraf" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/tea-plantation.jpg" caption="Pendant la visite des plantations de thé avec Sasnas et Musharraf" %}}
 
 Ce qui nous a le plus impressionné c'est que, sans même nous connaitre, ils voulaient que nous nous sentions chez nous ! Ils nous emmené visiter des endroits qu'ils connaissaient déjà et voulaient même payer à notre place pour tout parce que nous étions "leurs invités". (Évidemment, on ne voulait pas les laisser payer, mais ils étaient difficiles à convaincre...)
 
@@ -59,11 +59,11 @@ Et c’était effectivement pareil chez eux aussi. Comme convenu, nous avons pas
 
 Sasnas nous a laissé dormir dans sa chambre, nous ne voulions pas du tout déranger leurs habitudes, mais c'était impossible de les faire changer d'avis. Ils nous ont dit que lui et sa femme (oui, marié à 19 ans) dormiraient dans une chambre à côté, au final nous avons fini par accepter leurs conditions. Mais pendant la nuit, nous nous sommes rendu compte qu'en fait, ils dormaient sur un tapis, sur le sol du salon !
  
-{{% img src="images/posts/countries/sri-lanka/ayubowan/sasnas-family.jpg" caption="Avec la famille de Sasnas" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/sasnas-family.jpg" caption="Avec la famille de Sasnas" %}}
 
 Pour dîner, nous sommes allés chez la famille de Musharraf. Sa famille était aussi adorable que celle de Sasnas ! Malgré le fait qu'ils ne parlaient quasiment pas anglais, ils nous ont reçus comme des rois et nous ont préparés un incroyable et délicieux festin ! Ils ont dû passer un nombre d'heures impressionnant dans la cuisine pour mitonner chacun des différents plats présents sur la table. Tout ça pour nous, comme si nous étions des célébrités ou des personnalités importantes, alors que réellement ce sont eux qui mériteraient tout ça, pas nous !
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/musharraf-family-diner.jpg" class="center" width="400" caption="Un dîner pour 20 alors que nous étions seulement 4!!"  %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/musharraf-family-diner.jpg" class="center" width="400" caption="Un dîner pour 20 alors que nous étions seulement 4!!"  %}}
  
 Le lendemain, nous avons dit au revoir à tout le monde, à la fois tristes de les laisser, et heureux de les avoir rencontrés !
  

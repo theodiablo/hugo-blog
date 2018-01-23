@@ -25,7 +25,7 @@ Dans ces moments là, sachant que toutes ces personnes nous voient comme une sou
 
 Colombo est la capitale du Sri Lanka et que sa population est au moins 6 fois plus élevée que celle de Kandy, la seconde ville du pays. Du coup, évidemment, c’est de loin l’endroit ou le chaos se ressent le plus !
 
-{{% img src="images/posts/countries/sri-lanka/colombo/people-jam.jpg" caption="Beaucoup de monde, mais chacun a sa place… (Dans le quartier de Pettah)" %}}
+{{% img src="posts/countries/sri-lanka/colombo/people-jam.jpg" caption="Beaucoup de monde, mais chacun a sa place… (Dans le quartier de Pettah)" %}}
 
 ## Comment se rendre a Colombo depuis l’aéroport ?
 
@@ -54,7 +54,7 @@ Surtout, ne pas être pressé, se relaxer et essayer de ne pas se s’énerver e
 
 Enfin bref, dans ce cas, ca vaut vraiment la peine de prendre l’express !
 
-{{% img src="images/posts/countries/sri-lanka/colombo/bus.jpg" caption="Bus local typique du Sri Lanka" %}}
+{{% img src="posts/countries/sri-lanka/colombo/bus.jpg" caption="Bus local typique du Sri Lanka" %}}
 
 
 ## Que voir a Colombo ? Un charme qui se découvre petit à petit
@@ -65,7 +65,7 @@ Une fois habitués à la circulation, on arrive à identifier une certaine organ
 
 Pour traverser la route, il ne faut pas trop réfléchir avant de se lancer, sinon on pourrait attendre toute la journée que quelqu’un s’arrête pour laisser traverser. Il n’y a quasiment aucun feu de circulation, et les rares qui existent ne sont pas vraiment respectés. Tendre la main ouverte face aux véhicules qui approchent pour montrer que l’on traverse suffit normalement à les faire s’arrêter.
 
-{{% img src="images/posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="La regle pour traverser la route : lance-toi et avec un peu de chance les voitures s’arrêteront sans même te renverser ! " %}}
+{{% img src="posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="La regle pour traverser la route : lance-toi et avec un peu de chance les voitures s’arrêteront sans même te renverser ! " %}}
 
 Une fois l’adaptation au bruit et à la circulation réussie, on peut y découvrir le charme de cette ancienne ville coloniale. Il y a des centaines de choses à voir dans cette ville pleine d’histoire ! Ce que l’on préfère c’est se perdre en marchant dans les rues, découvrant ainsi des merveilles inconnues.
 
@@ -73,13 +73,13 @@ Voici quelques options que nous recommandons :
 
 * S’échapper un instant de la folie de la rue en visitant l’un des nombreux temples bouddhistes et hindous présents dans la ville… Nous avons visité le temple bouddhiste de *Gangaramaya* (entrée 300 Rs), un vrai havre de paix ! La photo de couverture de l’article avec les Bouddhas en position de méditation vient du toit de ce temple. L’entrée donne également accès au temple voisin posé sur l’eau du lac Beira : le temple de *Seema Malaka*. Le seul moyen d’y accéder c’est en passant par le pont qui se trouve à quelques mètres seulement.
 
-{{% img src="images/posts/countries/sri-lanka/colombo/temple-buddha-statues.jpg" caption="Statues de Buddha du temple de Seema Malaka" %}}
+{{% img src="posts/countries/sri-lanka/colombo/temple-buddha-statues.jpg" caption="Statues de Buddha du temple de Seema Malaka" %}}
 
 * Se balader dans le vieux quartier de Colombo Fort avec ses bâtiments coloniaux dont l’hôpital hollandais ou *Old Dutch Hospital* considéré comme le plus ancien bâtiment de la ville, transformé en centre commercial.
 * Prendre un bon bain de foule en visitant le quartier bondé de *Pettha* : un vrai marché a ciel ouvert, beaucoup moins cher que les autres boutiques et où on peut trouver de tout ! C’est certainement le quartier le plus chargé, rempli, animé de tout Colombo.
 * En continuant sur la 2nd cross street (sans sortir du quartier de Pettha), et contempler entre les boutiques, les stands et la foule l’impressionante mosquée rouge de *Jamil Ul-Afar*.
 
-{{% img src="images/posts/countries/sri-lanka/colombo/jami-ul-alfar-mosque.jpg" caption="L’imposante mosquée de Jamil Ul-Afar" %}}
+{{% img src="posts/countries/sri-lanka/colombo/jami-ul-alfar-mosque.jpg" caption="L’imposante mosquée de Jamil Ul-Afar" %}}
 
 * Regarder le coucher de soleil depuis la promenade maritime de Galle Face, un espace vert où l’on peut se détendre en regardant les vagues et diner dans l’un des nombreux stands ou restaurants de cuisine locaux sur place. C’est un des endroits préféré des habitants de Colombo où ils vont pour piqueniquer en famille, faire du sport, du cerf-volant… Un endroit très agréable plein de vie et de nourriture délicieuse !
 

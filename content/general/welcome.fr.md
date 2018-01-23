@@ -18,7 +18,7 @@ Le début a été compliqué, mais nous avons enfin commencé notre blog pour qu
 
 Nous sommes tous les deux très curieux, nous adorons découvrir de nouvelles choses et voyager. Si on peut faire les deux a la fois, c’est encore mieux !! Nous avons prévu de visiter plusieurs pays d’Asie du Sud Est, Sri Lanka, Inde, Népal, Australie, Nouvelle Zélande… pour l’instant rien n’est définitif !
 
-{{% img src="images/Irene-Theo.jpg" caption="Nos bouilles de voyageurs" %}}
+{{% img src="posts/Irene-Theo.jpg" caption="Nos bouilles de voyageurs" %}}
 
 ## Pourquoi ?
 

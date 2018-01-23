@@ -14,14 +14,14 @@ keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "bundala", "sinha
 Si vous voulez visiter les parcs naturels pour découvrir la faune et la flore du Sri Lanka, vous vous demanderez probablement comme nous quand nous étions la bas : Quel est le meilleur safari à faire ?</br>
 Le Sri Lanka possède 26 parcs nationaux, qui ensemble couvrent une surface de plus de 5700km², mais quel est celui qui vous plaira la plus ?
 
-{{% img src="images/posts/countries/sri-lanka/safari/udawalawe-monkey.jpg" caption="Tu pourrais me dire quel est le meilleur safari s’il te plait ?" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-monkey.jpg" caption="Tu pourrais me dire quel est le meilleur safari s’il te plait ?" %}}
 
 Et bien, après avoir demandé à plusieurs personnes et fait quelques recherches sur le web, il n’y a pas réellement de parc « meilleur » que les autres, tout dépend du type de safari que vous voulez faire.</br>
 Nous avons choisi de faire celui d’Udawalawe, mais nous vous donnons ici quelques infos sur quatre des principaux parcs du Sri Lanka, pour vous aider à trouver celui qui vous correspondra le plus:
 
 ## Yala et ses fameux léopards
 
-{{% img src="images/posts/countries/sri-lanka/safari/yala-leopard.jpg" caption="Le léopard de Yala – Instagram photo by @charstravels"%}}
+{{% img src="posts/countries/sri-lanka/safari/yala-leopard.jpg" caption="Le léopard de Yala – Instagram photo by @charstravels"%}}
 
 Situé à l’extrémité sud est de l’île, avec un total de 130 000 hectares, Yala est le parc qui possède le plus grand nombre d’espèces de léopards au monde.</br>
 Si ce que vous voulez voir ce sont beaucoup d’espèces d’animaux différentes, dont léopards et éléphants, mais aussi des crocodiles, singes buffles, ours et  différentes espèces d’oiseaux… le parc national de Yala est fait pour vous !</br>
@@ -42,19 +42,19 @@ Yala est le plus grand parc de l’île, mais aussi le plus populaire. Prisé au
 
 ## Udawalawe et ses éléphants
 
-{{% img src="images/posts/countries/sri-lanka/safari/udawalawe-elephant-group.jpg" caption="Famille d’éléphants à Udawalawe" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-elephant-group.jpg" caption="Famille d’éléphants à Udawalawe" %}}
 
 Si, au contraire, la foule n’est pas votre tasse de thé et que vous préférez la tranquillité et la solitude (en tout cas sans vingt jeeps faisant la queue pour faire “la” photo), nous recommandons le parque d’Udawalawe. La probabilité de tomber sur un léopard est très faible, mais c’est possible, si vous en voyez un, c’est que vous êtes très chanceux !
 
 Ce parc est particulièrement célèbre pour ses éléphants, et effectivement, on peut en voir presque tout le long des 31 000 hectares du parc !</br>
 À part ces gigantesques pachydermes, nous avons pu voir aussi des crocodiles, buffles, biches, chacals, singes et plusieurs oiseaux.
 
-{{% img src="images/posts/countries/sri-lanka/safari/udawalawe-buffalos.jpg" caption="Troupeau de buffles au lever du soleil à Udawalawe" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-buffalos.jpg" caption="Troupeau de buffles au lever du soleil à Udawalawe" %}}
 
 Nous avons choisi ce parc car, en général, nous faisons en sorte d’éviter la foule quand c’est possible, et aussi parce que nous adorons les éléphants (quand ils sont en liberté).</br>
 Nous y sommes allés tôt le matin et c’était sublime de voir le lever de soleil en chemin du parc. Avec ce cadre magnifique, tout en s’approchant du parc, le long du lac nous avons vu notre premier ami éléphant !
 
-{{% img src="images/posts/countries/sri-lanka/safari/udawalawe-fence-elephant.jpg" caption="Premier éléphant sur la route pour Udawalawe" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-fence-elephant.jpg" caption="Premier éléphant sur la route pour Udawalawe" %}}
 
 Nous n’avons pas pris de guide et on ne regrette pas car notre chauffeur nous a expliqué beaucoup de choses sur le parc et les animaux…
 
@@ -71,7 +71,7 @@ Nous n’avons pas pris de guide et on ne regrette pas car notre chauffeur nous 
 
 ## Pour les amoureux des oiseaux : Bundala
 
-{{% img src="images/posts/countries/sri-lanka/safari/bundala.jpg" caption="Flamant roses dans le parc de Bundala – Photo de refreshingsrilanka.blogspot.com" %}}
+{{% img src="posts/countries/sri-lanka/safari/bundala.jpg" caption="Flamant roses dans le parc de Bundala – Photo de refreshingsrilanka.blogspot.com" %}}
 
 Si vous êtes passionnés par les oiseaux, vous ne pouvez pas louper cette réserve naturelle. Dans ce parc de 6 216 hectares vivent un grand nombre des espèces d’oiseaux qui vivent au Sri Lanka, avec plus de 197 espèces recensées ! D’ailleurs, c’est un des seuls endroits de l’île où on peut voir une telle variété d’espèces.
 
@@ -86,7 +86,7 @@ Ce parc est aussi célèbre pour la grande diversité de sa faune et de sa flore
 
 ## Sinharaja : Idéal pour les amoureux de la foret
 
-{{% img src="images/posts/countries/sri-lanka/safari/sinharaja-bird.jpg" caption="Une des nombreuses espèces d’oiseaux de Sinharaja – Photo de srilankaholidayarchitects.com" %}}
+{{% img src="posts/countries/sri-lanka/safari/sinharaja-bird.jpg" caption="Une des nombreuses espèces d’oiseaux de Sinharaja – Photo de srilankaholidayarchitects.com" %}}
 
 Le parc de Sinharaja a été nommé Réserve de la biosphère et 1978 et Patrimoine mondial de l’Humanité par l’UNESCO en 1988.</br>
 Dû à sa position géographique, cette réserve ou “rainforest” est littéralement une forêt de pluie. Ses 8 800 hectares bénéficient des deux moussons annuelles qu’il y a au Sri Lanka (plus de détails dans la [sections d’informations générales]({{< relref "#global-info">}})), tandis qu’une seule saison des pluies touche les autres parcs.
@@ -112,7 +112,7 @@ Il faut savoir que pendant la saison des pluies, il est d’avantage compliqué 
 Au Sri Lanka, les périodes de mousson sont de mai a août (pour le sud et l’est) et d’octobre à janvier (pour le nord et l’ouest), mais cette seconde n’affecte pas les principaux safaris, ce qui fait que malgré la saison des pluies, il est possible de profiter sans aucun problème.</br>
 Et même pendant la mousson, il est possible d’avoir de la chance. Nous sommes allés à Udawalawe en début juin, nous n’avons pas eu une goutte d’eau et nous avons pu voir plein d’éléphants !
 
-{{% img src="images/posts/countries/sri-lanka/safari/udawalawe-single-elephant.jpg" caption="Cette éléphante à Udawalawe s’est approché si proche qu’on pouvait presque la toucher !" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-single-elephant.jpg" caption="Cette éléphante à Udawalawe s’est approché si proche qu’on pouvait presque la toucher !" %}}
 
 ### Le monde appartient a ceux qui se lèvent tôt, très tôt !
 
