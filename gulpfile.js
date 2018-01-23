@@ -3,11 +3,15 @@ var htmlmin = require('gulp-htmlmin');
 var $ = require('gulp-load-plugins')();
 var responsive = require('gulp-responsive');
 var runSequence = require('run-sequence');
+var newer = require('gulp-newer');
 
 gulp.task('build', gulp.series(minifyHtml));
 
 gulp.task('html', minifyHtml);
 gulp.task('images', responsiveImg);
+
+var imageSrc = 'static/images/posts/**/*.jpg';
+var imageDest = 'static/images/generated/posts';
 
 function minifyHtml() {
   return gulp.src('public/**/*.html')
@@ -17,7 +21,8 @@ function minifyHtml() {
 
 
 function responsiveImg() {
-  return gulp.src(['static/images/posts/**/*.jpg'])
+  return gulp.src(imageSrc)
+    .pipe(newer({dest: imageDest, ext: "-medium.jpg"}))
     .pipe($.responsive({
       // Convert all images to JPEG format
       '**/*': [{
@@ -75,7 +80,8 @@ function responsiveImg() {
       {
 	      // global quality for all images
 	      quality: 75,
-	      errorOnUnusedImage: false
+	      errorOnUnusedImage: false,
+        errorOnUnusedConfig: false
     }))
-    .pipe(gulp.dest('static/images/generated/posts'));
+    .pipe(gulp.dest(imageDest));
 };
