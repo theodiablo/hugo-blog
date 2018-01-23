@@ -2,7 +2,7 @@
 date = "2017-10-28T14:41:59+05:30"
 description = "Quel est le meilleur safari à faire au Sri Lanka ? Si vous voulez visiter les parcs nationaux pour découvrir la faune et la flore du Sri Lanka, dans cet article nous répondons à cette question"
 draft = false
-tags = ["Sri Lanka", "Kathmandu", "Safari", "Travel"]
+tags = ["Sri Lanka", "Kathmandu", "Safari"]
 categories = ["Tips", "Sri Lanka"]
 title = "Meilleur safari du Sri Lanka: Yala, Udawalawe, Bundala ou Sinharaja"
 thumbnail = "posts/countries/sri-lanka/safari/udawalawe-elephant-mum.jpg"

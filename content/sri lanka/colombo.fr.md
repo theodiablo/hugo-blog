@@ -2,7 +2,7 @@
 date = "2017-09-20T12:13:11+05:45"
 draft = false
 title = "Sri Lanka : Visiter Colombo"
-categories = ["travel", "Sri Lanka"]
+categories = ["Sri Lanka"]
 tags = ["Sri Lanka", "Colombo", "backpackers", "discover"]
 thumbnail = "posts/countries/sri-lanka/colombo/temple-buddha-roof.jpg"
 language = "fr"
