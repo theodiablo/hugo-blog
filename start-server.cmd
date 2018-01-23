@@ -1,3 +1,3 @@
 set HUGO_ENV=DEV
 
-hugo serve -D
+hugo serve -D --disableFastRender
