@@ -27,7 +27,7 @@ Lo conseguimos y fuimos en busca del bus para llegar al centro de Colombo, donde
 
 Colombo es la capital de Sri Lanka y su población es al menos seis veces mayor que la de Kandy, la segunda ciudad más habitada del país, así que con diferencia, es el lugar donde más se siente el caos en toda la isla. 
 
-{{% img src="images/posts/countries/sri-lanka/colombo/people-jam.jpg" caption="Mucha gente, pero cada uno en su sitio… (En el barrio de Pettah)" %}}
+{{% img src="posts/countries/sri-lanka/colombo/people-jam.jpg" caption="Mucha gente, pero cada uno en su sitio… (En el barrio de Pettah)" %}}
 
 ## ¿Cómo ir desde el aeropuerto hasta Colombo?
 
@@ -59,7 +59,7 @@ Sobre todo, no tengas prisa, relájate y no te estreses pensando en que una tort
 
 En este caso mereció la pena coger el express, y desde luego si no eres muy tiquismiquis, y quieres economizar, muévete siempre que puedas en bus local. No están tan mal (la mayoría), y así te empaparás más de la vida local. Nada de buses turísticos.
 
-{{% img src="images/posts/countries/sri-lanka/colombo/bus.jpg" caption="Bus local en Colombo" %}}
+{{% img src="posts/countries/sri-lanka/colombo/bus.jpg" caption="Bus local en Colombo" %}}
 
 ## ¿Qué ver en Colombo? Descubre su encanto
 
@@ -68,7 +68,7 @@ Sin embargo con un poco de perspectiva y habiendo estado un mes en la isla y var
 
 Además, una vez que te acostumbras al tráfico, llegas a darte cuenta que existe una cierta organización dentro del desorden. La clave es dejarse llevar por el movimiento, no buscarle explicación a las cosas que parecen incoherentes y seguir el ritmo de los demás. <br/>Literalmente, si quieres cruzar una calle, no te lo pienses demasiado, o estarás toda la vida esperando a que alguien se pare para que pases. Casi no hay semáforos, y los pocos que hay, normalmente no se respetan del todo. Si cruzas, y pones la mano en señal de que vas a cruzar, se paran.
 
-{{% img src="images/posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="Regla para cruzar la calle: lanzate a la carretera y con un poco de suerte los vehículos se pararán antes de atropellarte. " %}}
+{{% img src="posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="Regla para cruzar la calle: lanzate a la carretera y con un poco de suerte los vehículos se pararán antes de atropellarte. " %}}
 
 Una vez que te armas de valor, empiezas a descubrir el encanto de esta antigua ciudad colonial. Hay muchos lugares emblemáticos que visitar en esta urbe llena de historia, pero lo que nosotros preferimos es perdernos por sus calles y rincones.
 
@@ -77,13 +77,13 @@ Estas son algunas de las opciones que recomendamos:
 * Alejarse un rato de las carismáticas calles y mercados para visitar uno de los numerosos templos budistas que hay por toda la ciudad. Nosotros visitamos el templo de *Gangaramaya* (Entrada 300 LKR por persona), uno de los templos budistas más antiguos de Sri Lanka. 
 Es un sitio muy tranquilo y lleno de paz donde conviven decenas de monjes. La foto de portada de este artículo con los Budas en posición de meditación es del techo del mismo templo. <br/>La misma entrada da acceso al templo *Seema Malaka* situado en el centro del lago Beira. Para acceder a él, hay que pasar por el puente que se encuentra a unos metros. Si os piden pagar entrada, le enseñáis la otra entrada y os dejaran pasar sin problema. 
 
-{{% img src="images/posts/countries/sri-lanka/colombo/temple-buddha-statues.jpg" caption="Estatuas de Buda en el templo Seema Malaka" %}}
+{{% img src="posts/countries/sri-lanka/colombo/temple-buddha-statues.jpg" caption="Estatuas de Buda en el templo Seema Malaka" %}}
 
 * Caminar en el viejo barrio de Colombo Fort entre sus edificios coloniales, como el hospital holandés o *Old Dutch Hospital* que es considerado el edificio más antiguo de la ciudad y que a día de hoy se ha transformado en un centro comercial. 
 * Tomar un buen baño de muchedumbres en el abarrotado barrio de *Pettha*. No os podéis perder este  auténtico mercado a cielo abierto, mucho más barato que el resto de comercios y donde puedes encontrar cualquier cosa. Probablemente sea el barrio más animado de todo Colombo.
 * Pasear hasta el final del 2nd Cross Street (sin salir del barrio de Pettha) y contemplar entre las tiendas, los stands y la gente, la gran mezquita roja de *Jamil Ul-Afar*. Es realmente impresionante en persona.
 
-{{% img src="images/posts/countries/sri-lanka/colombo/jami-ul-alfar-mosque.jpg" caption="Mezquita de Jamil Ul-Afar" %}}
+{{% img src="posts/countries/sri-lanka/colombo/jami-ul-alfar-mosque.jpg" caption="Mezquita de Jamil Ul-Afar" %}}
 
 * Mirar el atardecer desde el paseo marítimo de Galle Face, un espacio verde donde te puedes relajar mirando las olas y cenando en uno de los numerosos stands o restaurantes de cocina local. Éste es uno de los lugares preferidos de los esrilanqueses para pasear en familia, hacer deporte y volar cometas... Un sitio muy chulo lleno de vida y de comida deliciosa.
 

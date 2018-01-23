@@ -28,12 +28,12 @@ Pour quelqu’un qui fait son premier voyage dans un pays d’Asie, la première
 * Les bus locaux sont de vraies boites de nuit avec des roues. On peut profiter d’un voyage de trois à sept heures tout en se bougeant au rythme de la musique locale. Ah, si ! Essaye autant que possible d’arriver à te trouver une place assise, sauf si tu veux vraiment danser dans le couloir pendant toute la durée du trajet. 
 * La majorité des bus ont une ou plusieurs représentations de Bouda ou de dieux hindous, selon la religion du conducteur. Normalement, ils les mettent face aux sièges pour protéger les passagers pendant le trajet. Vu leur conduite, c’est parfois vraiment nécessaire !
 
-{{% img src="images/posts/countries/sri-lanka/bus-srilanka.jpg" caption="Priez pour nous pauvres pécheurs !" %}} 
+{{% img src="posts/countries/sri-lanka/bus-srilanka.jpg" caption="Priez pour nous pauvres pécheurs !" %}} 
 
 * Tout comme en Inde, les conducteurs sont accros au klaxon. Ils ont carrément leur propre langage entre eux ! D’ailleurs, en un mois sur place on a pu commencer à en décoder un bout. Un simple coup de klaxon peut être utilisé pour saluer, insulter, avertir d’un dépassement, faire peur aux piétons… On pourrait probablement écrire une thèse sur ce sujet passionnant ! 
 * Entre certains villages, on peut tomber sur des familles d’éléphants sauvages qui traversent carrément l’autoroute. Heureusement, il y a d’énormes panneaux qui signalent le danger !
 
-{{% img src="images/posts/countries/sri-lanka/elephant-road.jpg" caption="Comme a la maison. Pépouze !" %}}
+{{% img src="posts/countries/sri-lanka/elephant-road.jpg" caption="Comme a la maison. Pépouze !" %}}
 
 * Sourire est la façon la plus simple de tisser des liens avec les locaux, mais il faut se préparer à recevoir parfois une dentition rougeoyante et déchaussée en retour. Pas mal de locaux ont la délicieuse coutume de mâchonner pendant des heures une feuille appelée « paan ». Ils peuvent tout à fait te réciter un poème entier avec la bouche pleine de ce jus fort odorant. Attention aux crachats ninjas !
 

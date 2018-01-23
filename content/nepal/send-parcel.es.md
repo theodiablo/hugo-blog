@@ -26,33 +26,33 @@ Para el envío de paquetería, hay que dirigirse al segundo edificio dentro del 
 El envío del paquete se completa en cuatro etapas que os explicamos a continuación ya que nos pareció muy curioso. <br/>
 El panorama es el siguiente: en la entrada, antes de cruzar la puerta principal, se colocan dos capos en una mesa con seis sillas al rededor y al lado, dos mujeres se encargan de rehabilitar cajas de cartón usadas para revenderlas como embalaje a todo aquel que las necesite. 
 
-{{% img src="images/posts/countries/nepal/send-parcel/capos.jpg" caption="Los capos" class="center" width="400"%}}
+{{% img src="posts/countries/nepal/send-parcel/capos.jpg" caption="Los capos" class="center" width="400"%}}
 
 *1- Papeleo:* Hay que rellenar un formulario con los datos del expedidor, el contenido del paquete, número de bultos, valor de la mercancía, país de destino, etc. Lo que viene siendo un packing list.<br/>
 Lo gracioso es que todo el formulario esta en nepalí, así que necesitas un poco de ayuda para completarlo correctamente (¡Para algo están los dos capos!). <br/>
 Además utilizan el papel de calco que utilizábamos en el cole para traspasar los datos a otros dos folios idénticos. <br/>
 *Importante:* Junto con el formulario, también necesitas aportar una fotocopia de tu pasaporte. Si no tienes ninguna hay un puesto con una impresora/escáner justo a la entrada del edificio, donde también venden sobres.
 
-{{% img src="images/posts/countries/nepal/send-parcel/parcel-form-kathmandu.jpg" caption="Formulario en nepali, antes > después" %}}
+{{% img src="posts/countries/nepal/send-parcel/parcel-form-kathmandu.jpg" caption="Formulario en nepali, antes > después" %}}
 
 *2- Embalaje:* Las dos mujeres te dejan elegir una de las cajas para que coloques tus pertenencias dentro. Después de revisar el formulario, uno de los dos capos se encarga de comprobar que todo lo que quieres enviar sea legal. (Nosotros vimos un hombre que enviaba 15 pastillas de jabón y las pinchaban de una en una con una aguja enorme, para comprobar que el contenido no era droga. Entonces los capos olían la aguja, y el que adivinaba la fragancia de cada pastilla de jabón, ganaba.)<br/>
 Una vez verificada la mercancía, las mujeres precintan la caja con cinta adhesiva y…con una tela blanca fabrican un saco perfectamente a medida para cubrir la caja. Con hilo y aguja cosen la tela a mano en un minuto...Impresionante.<br/>
 Después te dejan un rotulador de pizarra para que escribas la dirección del expedidor y el destinatario sobre la tela. 
 
-{{% img src="images/posts/countries/nepal/send-parcel/packing-collage.jpg" caption="Las costureras haciendo maravillas" %}}
+{{% img src="posts/countries/nepal/send-parcel/packing-collage.jpg" caption="Las costureras haciendo maravillas" %}}
 
 *3- Precinto:* Con tu paquete casi listo, cruzas la puerta de la entrada donde te espera un tercer hombre sentado en un pequeño taburete, cuya función es lacrar los paquetes para asegurarte que tus bienes llegan intactos a destino. <br/>
  Muy pacientemente te sella una a una todas las costuras con su palito de cera calentada con una vela.
 Obviamente todo este trabajo manual tiene un coste que detallaremos un poco más abajo.
 
-{{% img src="images/posts/countries/nepal/send-parcel/sealing-2.jpg" caption="¡Como las cartas en Game of Thrones!" class="center" width="400" %}}
+{{% img src="posts/countries/nepal/send-parcel/sealing-2.jpg" caption="¡Como las cartas en Game of Thrones!" class="center" width="400" %}}
 
 *4- Pesaje y franqueo:* Por fin tu paquete está listo. Ya solo queda pesarlo y rezar para que no sea más de lo que tenías previsto… <br/>
 Tienes que esperar a que llegue el pesador, que en nuestro caso tardó un ratito. Cuando aparece, tienes que rellenar otro papel con los datos del expedidor, destinatario, contenido…bla, bla, bla. (Exactamente lo mismo que al principio pero esta vez en inglés) <br/>
 Pagas lo que corresponde, y te entregan una copia del justificante con un número de tracking con el que puedes hacer el seguimiento del paquete <a target="_blank" href="http://www.gpo.gov.np">en esta web: www.gpo.gov.np.</a><br/>
 ¡Con un poco de suerte el paquete llegara en dos o tres semanas!
 
-{{% img src="images/posts/countries/nepal/send-parcel/success.jpg" caption="¡Tachááán!" %}}
+{{% img src="posts/countries/nepal/send-parcel/success.jpg" caption="¡Tachááán!" %}}
 
 ## Horario
  

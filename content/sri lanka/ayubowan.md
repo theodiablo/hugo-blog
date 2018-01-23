@@ -23,7 +23,7 @@ A Raguraam, un Tamil que trabaja en Colombo, lo conocimos en el tren de camino a
 
 Aparte de interesantes conversaciones acerca del fin de la guerra civil en Sri Lanka y las últimas inundaciones que habían azotado al país, ambos nos enseñaron nuestras primeras palabras en cingalés y tamil.
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/raguraam-train.jpg" caption="En el tren con nuestro profesor de Tamil: Raguraam" width="600" class="center" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/raguraam-train.jpg" caption="En el tren con nuestro profesor de Tamil: Raguraam" width="600" class="center" %}}
 
 Aprender unas cuantas palabras imprescindibles merece la pena y consigues sacarles una sonrisa (o una carcajada por la mala pronunciación.) 
 Éste ha sido nuestro kit de supervivencia en Sri Lanka:
@@ -37,7 +37,7 @@ Muy bueno|Bohoma Ondai /*bomo ondai*/|Ithu nalam /*itu nalam*/|
 Agua|Wathura /*vatura*/|Thanner /*tani*/|
 Te con leche|Kiri te /*kiri te*/|Paal theneer/*pal tenir*/|
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/translations.jpg" caption="Nuestros apuntes" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/translations.jpg" caption="Nuestros apuntes" %}}
 
 ## Como en casa
 
@@ -51,7 +51,7 @@ Allí fue donde encontramos a nuestros amigos Sasnas (el que toca el tambor en e
 
 Los dos viajaban desde Colombo hasta Nuwara Eliya para pasar el fin de semana haciendo un poco de turismo por su país. Conectamos con ellos desde el primer momento y terminamos pasando el fin de semana juntos, visitando las plantaciones de té, paseando y descubriendo la región.
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/tea-plantation.jpg" caption="Visitando la plantación de té con Sasnas y Musharraf" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/tea-plantation.jpg" caption="Visitando la plantación de té con Sasnas y Musharraf" %}}
 
 Lo más impresionante es que sin conocernos de nada, querían que nos sintiésemos como en casa, nos llevaron a visitar 
 varios sitios que conocían y querían invitarnos a todo literalmente porque nosotros “éramos los invitados”. (Por supuesto no les dejábamos, pero eran difíciles de convencer...)
@@ -63,11 +63,11 @@ a media hora de Colombo), y las dos familias nos recibieron con los brazos abier
 
 Sasnas nos hizo dormir en su habitación, nosotros pretendíamos molestar lo mínimo, pero era imposible hacerles cambiar de opinión. Nos dijeron que ellos (el y su mujer) dormirían en una habitación al lado, y finalmente aceptamos, pero por la noche nos dimos cuenta que ellos dormían en el suelo del comedor. 
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/sasnas-family.jpg" caption="Con la familia de Sasnas" %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/sasnas-family.jpg" caption="Con la familia de Sasnas" %}}
 
 La noche anterior cenamos en casa de Musharraf. Su familia también fue encantadora. Nos recibieron como si fuésemos personas importantes, y nos prepararon una cena increíble y deliciosa. No me puedo ni imaginar la de horas que estuvieron cocinando… Realmente las personas excepcionales eran ellos.
 
-{{% img src="images/posts/countries/sri-lanka/ayubowan/musharraf-family-diner.jpg" class="center" width="400" caption="¡¡Una cena para 20, y éramos solo 4!!"  %}}
+{{% img src="posts/countries/sri-lanka/ayubowan/musharraf-family-diner.jpg" class="center" width="400" caption="¡¡Una cena para 20, y éramos solo 4!!"  %}}
 
 A la mañana siguiente nos despedimos de todos, con una sensación agridulce. Tristes por dejarlos atrás y felices por haberlos encontrado.
 

@@ -21,7 +21,7 @@ Somos los dos muy curiosos. Nos gusta muchísimo viajar, descubrir y aprender co
 
 Queremos visitar varios países del Sudeste Asiático, Sri Lanka, India, Nepal, Australia, Nueva Zelanda… aunque por ahora no hay nada cerrado. 
 
-{{% img src="images/Irene-Theo.jpg" caption="Nuestras caritas de viajeros" %}}
+{{% img src="posts/Irene-Theo.jpg" caption="Nuestras caritas de viajeros" %}}
 
 ## ¿Por qué?
 
