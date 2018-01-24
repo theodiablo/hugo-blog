@@ -145,20 +145,247 @@ div.fb-follow{
   -webkit-animation-delay: -0.16s;
   animation-delay: -0.16s;
 }
+/* ============ !Main menu! ============== */
 
-@-webkit-keyframes sk-bouncedelay {
-  0%, 80%, 100% { -webkit-transform: scale(0) }
-  40% { -webkit-transform: scale(1.0) }
+#menu-container, #all-items, .l-header{
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
 }
 
-@keyframes sk-bouncedelay {
-  0%, 80%, 100% { 
-    -webkit-transform: scale(0);
-    transform: scale(0);
-  } 40% { 
-    -webkit-transform: scale(1.0);
-    transform: scale(1.0);
-  }
+#menu-container {
+    width: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000; /* so the menu or its navicon stays above all content */
+    background: #191818;
+    -webkit-overflow-scrolling: touch;
+}
 
 
+@media (max-width: 768px) {
+    /* Only apply this when the window is small. Otherwise, the following
+    case results in extra padding on the left:
+        * Make the window small.
+        * Tap the menu to trigger the active state.
+        * Make the window large again.
+    */
+    
+}
 
+
+#all-items.show-menu {
+    margin-left: 150px;
+}
+
+#all-items.show-menu #menu-container {
+  margin-left: 0px;
+}
+
+#all-items:not(.show-menu) #menu-container {
+  margin-left: -150px; /* "#menu" width */
+}
+#all-items.show-menu .l-header{
+  width: 90%;
+}
+
+#cssmenu {
+  position: relative;
+  margin: 0;
+  line-height: 1;
+}
+.menu-link {
+    position: fixed;
+    display: block; /* show this only on small screens */
+    top: 9px;
+    background: rgba(0,0,0,0.7);
+    z-index: 1000;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    width: 2em;
+    height: auto;
+    padding: 1em;
+    font-weight: bold;
+}
+
+.menu-link span:after {
+  margin-top: 0.6em;
+}
+
+#cssmenu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: block;
+}
+#cssmenu ul li {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+#cssmenu ul li a {
+  text-decoration: none;
+  cursor: pointer;
+}
+#cssmenu > ul > li > a {
+  color: #dddddd;
+  text-transform: uppercase;
+  display: block;
+  padding: 20px;
+  padding-left: 10px;
+  border-top: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: #222222;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  letter-spacing: .5px;
+  font-size: 16px;
+  font-weight: 300;
+  -webkit-transition: all 0.25s ease-in;
+  -moz-transition: all 0.25s ease-in;
+  -ms-transition: all 0.25s ease-in;
+  -o-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
+  position: relative;
+}
+#cssmenu > ul > li:first-child > a {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+#cssmenu > ul > li:last-child > a {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom: 1px solid #000000;
+}
+#cssmenu > ul > li:hover > a,
+#cssmenu > ul > li.open > a,
+#cssmenu > ul > li.active > a {
+  background: #151515;
+  color: #ffffff;
+}
+#cssmenu ul > li.has-sub > a::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: 13px solid #000000;
+  border-botom: 13px solid transparent;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  left: 0;
+  bottom: -13px;
+  bottom: 0px;
+  z-index: 1;
+  opacity: 0;
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+  -ms-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+}
+#cssmenu ul > li.has-sub > a::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: 13px solid #151515;
+  border-botom: 10px solid transparent;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  left: 0;
+  bottom: -12px;
+  bottom: -1px;
+  z-index: 3;
+  opacity: 0;
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+  -ms-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+}
+#cssmenu ul > li.has-sub::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 7px solid transparent;
+  border-top-color: #dddddd;
+  z-index: 2;
+  right: 10px;
+  top: 24.5px;
+  pointer-events: none;
+}
+#cssmenu ul > li:hover::after,
+#cssmenu ul > li.active::after,
+#cssmenu ul > li.open::after {
+  border-top-color: #ffffff;
+}
+#cssmenu ul > li.has-sub.open > a::after {
+  opacity: 1;
+  bottom: -13px;
+}
+#cssmenu ul > li.has-sub.open > a::before {
+  opacity: 1;
+  bottom: -12px;
+}
+#cssmenu ul ul {
+  display: none;
+}
+#cssmenu ul ul li {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+#cssmenu ul ul li a {
+  background: #f1f1f1;
+  display: block;
+  position: relative;
+  font-size: 15px;
+  padding: 14px 20px;
+  border-bottom: 1px solid #dddddd;
+  color: #777777;
+  font-weight: 300;
+  -webkit-transition: all 0.25s ease-in;
+  -moz-transition: all 0.25s ease-in;
+  -ms-transition: all 0.25s ease-in;
+  -o-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
+}
+#cssmenu ul ul li:first-child > a {
+  padding-top: 18px;
+}
+#cssmenu ul ul ul li {
+  border: 0;
+}
+#cssmenu ul ul li:hover > a,
+#cssmenu ul ul li.open > a,
+#cssmenu ul ul li.active > a {
+  background: #e4e4e4;
+  color: #666666;
+}
+#cssmenu ul ul > li.has-sub > a::after {
+  border-top: 13px solid #dddddd;
+}
+#cssmenu ul ul > li.has-sub > a::before {
+  border-top: 13px solid #e4e4e4;
+}
+#cssmenu ul ul ul li a {
+  padding-left: 30px;
+}
+#cssmenu ul ul > li.has-sub::after {
+  top: 18.5px;
+  border-width: 6px;
+  border-top-color: #777777;
+}
+#cssmenu ul ul > li:hover::after,
+#cssmenu ul ul > li.active::after,
+#cssmenu ul ul > li.open::after {
+  border-top-color: #666666;
+}

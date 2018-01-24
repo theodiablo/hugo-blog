@@ -15,13 +15,19 @@
     <link rel="shortcut icon" type="image/png" href="/images/favicon.jpg"/>
     
     <link rel="stylesheet" type="text/css" href="/css/flags16.css" media="screen"/>
-    <style>
+    <style type="text/css">
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
+    </style>
+
+    <style type="text/css">
+      
+
     </style>
   </head>
 
   <body>
+    <div id="all-items" class="">
     {{ if ne (getenv "HUGO_ENV") "DEV" }}
     {{ template "_internal/google_analytics.html" . }}
     {{ end }}
@@ -48,9 +54,40 @@
             {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
           {{ end }}
         </div>
-        <a href="javascript:void(0);" class="icon" onclick="menuInterruptor()">&#9776;</a>
+        <!--a href="javascript:void(0);" class="icon" onclick="menuInterruptor()">&#9776;</a--> 
       </div>
     </header>
+
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span>☰</span>
+    </a>
+    <div id="menu-container" class="">
+      <div id='cssmenu'>
+        <ul>
+           <li><a href='/'><span>{{ i18n "home" }}</span></a></li>
+           <li class='active has-sub'><a href='#'><span>{{ i18n "categories" }}</span></a>
+              <ul>
+                 <li class='has-sub'><a href='#'><span>Product 1</span></a>
+                    <ul>
+                       <li><a href='#'><span>Sub Product</span></a></li>
+                       <li class='last'><a href='#'><span>Sub Product</span></a></li>
+                    </ul>
+                 </li>
+                 <li class='has-sub'><a href='#'><span>Product 2</span></a>
+                    <ul>
+                       <li><a href='#'><span>Sub Product</span></a></li>
+                       <li class='last'><a href='#'><span>Sub Product</span></a></li>
+                    </ul>
+                 </li>
+              </ul>
+           </li>
+           <li><a href='#'><span>About</span></a></li>
+           <li class='last'><a href='#'><span>Contact</span></a></li>
+        </ul>
+      </div>
+    </div>
+
 
     <main>
       <div class="l-container">
@@ -66,20 +103,10 @@
         </aside>
       </div>
     </footer>
-
-    <script>
-      var global = { languageCode  : {{ $.Page.Lang }} }
-      function menuInterruptor(){
-        var x = document.getElementById("language-selector");
-          if (x.className === "topNav") {
-              x.className += " responsive";
-          } else {
-              x.className = "topNav";
-          }
-      } 
-    </script>
+    </div>
     <script src="/js/aws-sdk-2.108.0.min.js" async></script>
     <script src="/js/subscribe.js" async></script>
+    <script src="/js/cssmenu.js" async></script>
   </body>
 </html>
 

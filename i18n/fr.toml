@@ -7,6 +7,9 @@ other = "Table des matières"
 [latestPosts]
 other = "Derniers articles"
 
+[categories]
+other = "Catégories"
+
 [home]
 other = "Accueil"
 

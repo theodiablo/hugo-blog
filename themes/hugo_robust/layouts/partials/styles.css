@@ -135,7 +135,7 @@ aside.f {
 .mcol {
   box-sizing: border-box;
   float: left;
-  padding: 0 1rem;
+  padding: 0 .7rem;
 }
 
 .c6 { width: 50%; }
@@ -572,12 +572,9 @@ section.footer > header a {
 .l-header #language-selector{
     -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
     transition: width 2s, height 2s, transform 2s;
-}
-
-.l-header #language-selector.topNav{
-  position: absolute;
-  top: 0px;
-  right: 0px;  
+    position: fixed;
+    top: 15px;
+    right: 15px;
 }
 
 .l-header .flag{
@@ -585,10 +582,9 @@ section.footer > header a {
   padding-right: 15px;
 }
 .l-header .icon {
-  display: none;
   position: absolute;
   top: 0px;
-  right: 0px;
+  left: 5px;
   color: #333;
   font-size: 20px;
   border: solid;
@@ -600,22 +596,8 @@ section.footer > header a {
 @media screen and (max-width: 768px) {
   .l-header #language-selector {display: none;}
   .l-header a.icon {
-    float: right;
+    float: left;
     display: block;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .l-header #language-selector.responsive {
-    position: relative;
-    display: block;
-    margin: .5rem;
-    top: .5rem;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
   }
 }
 
@@ -771,12 +753,12 @@ section.footer > header a {
 
 @media (min-width: 1600px) {
   .thumb-{{ $p.UniqueID }} {
-    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-extralarge.jpg);
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-large.jpg);
   }
 }
 @media (max-width: 1600px) {
   .thumb-{{ $p.UniqueID }} {
-    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-large.jpg);
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-medium.jpg);
   }
 }
 @media (max-width: 800px) {

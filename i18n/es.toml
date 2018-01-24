@@ -7,6 +7,9 @@ other = "Tabla de contenido"
 [latestPosts]
 other = "Últimos articulos"
 
+[categories]
+other = "Categorias"
+
 [home]
 other = "Inicio"
 
