@@ -18,8 +18,6 @@
     <style>
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
-      {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
-      {{ with .Site.Params.logofontfamily }} .logo a { font-family: {{ . | safeCSS }}; } {{ end }}
     </style>
   </head>
 

@@ -11,7 +11,7 @@ html {
 
 body {
   color: #333;
-  font-family: 'Roboto Slab','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',メイリオ,Meiryo,sans-serif;
+  {{- with .Site.Params.fontfamily -}} font-family: {{ . | safeCSS }},'Roboto Slab','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',メイリオ,Meiryo,sans-serif; {{ end }}
   font-feature-settings : "palt";
   font-size: inherit;
   line-height: 1rem;
@@ -151,6 +151,7 @@ aside.f {
 
 .logo a {
   font-size: 2rem;
+  {{- with .Site.Params.logofontfamily -}} font-family: {{ . | safeCSS }}; {{- end -}}
   line-height: 2.1rem;
   font-weight: 700;
   color: #333;
