@@ -11,7 +11,7 @@ slug = "bienvenidos"
 
 +++
 
-# ¡Hola! Bonjour! ¡Kaixo!
+# ¡Hola! Bonjour&nbsp;! ¡Kaixo!
 
 Aquí estamos, un francés medio español y una vasca medio catalana. Vivimos en Barcelona desde hace tres y seis años respectivamente y hemos dejado a un lado el día a día para viajar durante un año.
 

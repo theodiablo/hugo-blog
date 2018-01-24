@@ -67,4 +67,4 @@ Pour dîner, nous sommes allés chez la famille de Musharraf. Sa famille était 
  
 Le lendemain, nous avons dit au revoir à tout le monde, à la fois tristes de les laisser, et heureux de les avoir rencontrés !
  
-Peut-être qu'un jour, nous nous reverrons ? En tout cas, on l'espère vraiment, parce que c'étaient vraiment des personnes exceptionnelles !
+Peut-être qu'un jour, nous nous reverrons&nbsp;? En tout cas, on l'espère vraiment, parce que c'étaient vraiment des personnes exceptionnelles !

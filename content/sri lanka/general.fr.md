@@ -10,7 +10,7 @@ slug = "sri-lanka-un-voyage-a-ceylan"
 
 +++
 Le Sri Lanka a largement dépassé toutes nos espérances. Cette petite ile coloniale aussi connue comme « Ceylan » ou la « Larme de l’Inde » nous a complètement captivés.
-Pour quelqu’un qui fait son premier voyage dans un pays d’Asie, la première impression peut être celle d’une civilisation plutôt désordonnée et chaotique. Mais si tu t’es déjà aventuré dans ce continent (et surtout si tu es allé en Inde auparavant), tu trouveras en cette ile un confort et une tranquillité d’une douceur inouïe !
+Pour quelqu’un qui fait son premier voyage dans un pays d’Asie, la première impression peut être celle d’une civilisation plutôt désordonnée et chaotique. Mais si tu t’es déjà aventuré dans ce continent (et surtout si tu es allé en Inde auparavant), tu trouveras en cette ile un confort et une tranquillité d’une douceur inouïe&nbsp;!
 ## Un soupçon de culture :
 * Sa capitale actuelle est Colombo et la monnaie locale est la Roupie du Sri Lanka. Si, ca t’intéresse, tu peux trouver <a href="http://www.xe.com/currency/lkr-sri-lankan-rupee" target="_blank"> ici le taux de change actualisé en temps réel.</a>
 * Au Sri Lanka, il y a deux langues principales : Le cingalais et le tamil
@@ -24,22 +24,22 @@ Pour quelqu’un qui fait son premier voyage dans un pays d’Asie, la première
 * Les moyens de transport les plus populaires du pays sont : le fameux tuk-tuk, les trains qui sillonnent le pays et les autocars locaux.
 
 ## Etrangetés du Sri Lanka
-*  Presque tous les taxis ou « tuk-tuk » du Sri Lanka ont un compteur kilométrique pour calculer le prix de la course, mais quand vient un touriste… Oh, c’est étrange ! Aucun ne fonctionne ! Il faut être préparé pour les négociations qui ne sont pas toujours évidentes. Bien penser à fixer le prix avant le début la course.
-* Les bus locaux sont de vraies boites de nuit avec des roues. On peut profiter d’un voyage de trois à sept heures tout en se bougeant au rythme de la musique locale. Ah, si ! Essaye autant que possible d’arriver à te trouver une place assise, sauf si tu veux vraiment danser dans le couloir pendant toute la durée du trajet. 
-* La majorité des bus ont une ou plusieurs représentations de Bouda ou de dieux hindous, selon la religion du conducteur. Normalement, ils les mettent face aux sièges pour protéger les passagers pendant le trajet. Vu leur conduite, c’est parfois vraiment nécessaire !
+*  Presque tous les taxis ou « tuk-tuk » du Sri Lanka ont un compteur kilométrique pour calculer le prix de la course, mais quand vient un touriste… Oh, c’est étrange&nbsp;! Aucun ne fonctionne&nbsp;! Il faut être préparé pour les négociations qui ne sont pas toujours évidentes. Bien penser à fixer le prix avant le début la course.
+* Les bus locaux sont de vraies boites de nuit avec des roues. On peut profiter d’un voyage de trois à sept heures tout en se bougeant au rythme de la musique locale. Ah, si&nbsp;! Essaye autant que possible d’arriver à te trouver une place assise, sauf si tu veux vraiment danser dans le couloir pendant toute la durée du trajet. 
+* La majorité des bus ont une ou plusieurs représentations de Bouda ou de dieux hindous, selon la religion du conducteur. Normalement, ils les mettent face aux sièges pour protéger les passagers pendant le trajet. Vu leur conduite, c’est parfois vraiment nécessaire&nbsp;!
 
-{{% img src="posts/countries/sri-lanka/bus-srilanka.jpg" caption="Priez pour nous pauvres pécheurs !" %}} 
+{{% img src="posts/countries/sri-lanka/bus-srilanka.jpg" caption="Priez pour nous pauvres pécheurs&nbsp;!" %}} 
 
-* Tout comme en Inde, les conducteurs sont accros au klaxon. Ils ont carrément leur propre langage entre eux ! D’ailleurs, en un mois sur place on a pu commencer à en décoder un bout. Un simple coup de klaxon peut être utilisé pour saluer, insulter, avertir d’un dépassement, faire peur aux piétons… On pourrait probablement écrire une thèse sur ce sujet passionnant ! 
-* Entre certains villages, on peut tomber sur des familles d’éléphants sauvages qui traversent carrément l’autoroute. Heureusement, il y a d’énormes panneaux qui signalent le danger !
+* Tout comme en Inde, les conducteurs sont accros au klaxon. Ils ont carrément leur propre langage entre eux&nbsp;! D’ailleurs, en un mois sur place on a pu commencer à en décoder un bout. Un simple coup de klaxon peut être utilisé pour saluer, insulter, avertir d’un dépassement, faire peur aux piétons… On pourrait probablement écrire une thèse sur ce sujet passionnant&nbsp;! 
+* Entre certains villages, on peut tomber sur des familles d’éléphants sauvages qui traversent carrément l’autoroute. Heureusement, il y a d’énormes panneaux qui signalent le danger&nbsp;!
 
-{{% img src="posts/countries/sri-lanka/elephant-road.jpg" caption="Comme a la maison. Pépouze !" %}}
+{{% img src="posts/countries/sri-lanka/elephant-road.jpg" caption="Comme a la maison. Pépouze&nbsp;!" %}}
 
-* Sourire est la façon la plus simple de tisser des liens avec les locaux, mais il faut se préparer à recevoir parfois une dentition rougeoyante et déchaussée en retour. Pas mal de locaux ont la délicieuse coutume de mâchonner pendant des heures une feuille appelée « paan ». Ils peuvent tout à fait te réciter un poème entier avec la bouche pleine de ce jus fort odorant. Attention aux crachats ninjas !
+* Sourire est la façon la plus simple de tisser des liens avec les locaux, mais il faut se préparer à recevoir parfois une dentition rougeoyante et déchaussée en retour. Pas mal de locaux ont la délicieuse coutume de mâchonner pendant des heures une feuille appelée « paan ». Ils peuvent tout à fait te réciter un poème entier avec la bouche pleine de ce jus fort odorant. Attention aux crachats ninjas&nbsp;!
 
 ## Que faire au Sri Lanka?
 Si ca vous intéresse, vous pouvez trouver [ici notre itinéraire de 30 jours au Sri Lanka]({{< ref "sri lanka/itinerary.md" >}}).
 
 Que ce soit en nageant avec des tortues de mer en liberté, en escaladant l’imposant rocher de Sigiriya, en explorant l’un de ses nombreux parcs naturels, en s’aventurant dans les plantations de thé, en se perdant dans les ruines d’Anuradhapura et Polonnaruwa, en osant conduire un tuk-tuk sur la voie de gauche ou encore en prenant un bain de soleil sur ses plages de sable fin…
 
-Laissez-vous surprendre par cette ile magnifique ! Vous rentrez chez-vous des souvenirs plein les valises et la tête. Sans aucun doute, le Sri Lanka vous offrira encore plus que ce que vous pouvez espérer d’un voyage inoubliable !
+Laissez-vous surprendre par cette ile magnifique&nbsp;! Vous rentrez chez-vous des souvenirs plein les valises et la tête. Sans aucun doute, le Sri Lanka vous offrira encore plus que ce que vous pouvez espérer d’un voyage inoubliable&nbsp;!

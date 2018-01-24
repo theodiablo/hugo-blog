@@ -1,19 +1,19 @@
 +++
 date = "2017-10-28T14:41:59+05:30"
-description = "¿Cuál es el mejor safari en Sri Lanka? Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, en este articulo vamos a intentar contestar a esta pregunta."
+description = "Yala, Udawalawe, Sinharaja, Bundala... ¿Cuál es el mejor safari en Sri Lanka? Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, en este articulo te vamos a contestar a esta pregunta."
 draft = false
 tags = ["Sri Lanka", "Kathmandu", "Safari"]
 categories = ["tips", "Sri Lanka"]
-title = "Mejor safari en Sri Lanka: Yala, Udawalawe, Bundala o Sinharaja"
+title = "Cual es el mejor safari en Sri Lanka?"
 thumbnail = "posts/countries/sri-lanka/safari/udawalawe-elephant-mum.jpg"
 language = "es"
 slug = "safari-yala-udawalawe-bundala-sinharaja"
-keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "udawalawe national park", "yala national park", "mejor safari" ]
+keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "udawalawe national park", "bundala", "sinharaja", "yala national park", "mejor safari" ]
 
 +++
 
 Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, probablemente te hagas la misma pregunta que nosotros nos hicimos cuando estábamos allí. ¿Cuál es el mejor safari en Sri Lanka?</br>
-En Sri Lanka hay un total de 26 parques nacionales, cubriendo una superficie de más de 5700km². Pero, ¿Cuál es la mejor opción para hacer un safari?
+En Sri Lanka hay un total de 26 parques nacionales, cubriendo una superficie de más de 5700km². Pero, ¿Cuál es la mejor opción para hacer un safari? Aqui te hablaremos de Yala, Udawalawe, Sinharaja y Bundala.
 
 {{% img src="posts/countries/sri-lanka/safari/udawalawe-monkey.jpg" caption="Por favor, ¿Me podría decir cuál es el mejor safari?" %}}
 
