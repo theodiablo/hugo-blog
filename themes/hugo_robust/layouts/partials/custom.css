@@ -167,16 +167,10 @@ div.fb-follow{
 }
 
 
-@media (max-width: 768px) {
-    /* Only apply this when the window is small. Otherwise, the following
-    case results in extra padding on the left:
-        * Make the window small.
-        * Tap the menu to trigger the active state.
-        * Make the window large again.
-    */
-    
+#menu-container #language-selector{
+  padding: 10px 6px;    display: block;
+    position: relative;
 }
-
 
 #all-items.show-menu {
     margin-left: 150px;
@@ -198,6 +192,7 @@ div.fb-follow{
   margin: 0;
   line-height: 1;
 }
+
 .menu-link {
     position: fixed;
     display: block; /* show this only on small screens */
@@ -236,8 +231,6 @@ div.fb-follow{
   color: #dddddd;
   text-transform: uppercase;
   display: block;
-  padding: 20px;
-  padding-left: 10px;
   border-top: 1px solid #000000;
   border-left: 1px solid #000000;
   border-right: 1px solid #000000;
@@ -253,6 +246,20 @@ div.fb-follow{
   transition: all 0.25s ease-in;
   position: relative;
 }
+
+@media (max-width: 768px) {
+  #cssmenu ul li a {
+    padding: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  #cssmenu ul li a {
+    padding: 20px;
+    padding-left: 10px;
+  }
+}
+
 #cssmenu > ul > li:first-child > a {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;

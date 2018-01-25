@@ -569,14 +569,6 @@ section.footer > header a {
   line-height: 1.75rem;
 }
 
-.l-header #language-selector{
-    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
-    transition: width 2s, height 2s, transform 2s;
-    position: fixed;
-    top: 15px;
-    right: 15px;
-}
-
 .l-header .flag{
   width: 100%;
   padding-right: 15px;
@@ -591,14 +583,6 @@ section.footer > header a {
   border-radius: 5px;
   padding: 5px;
   margin-right: 5px;
-}
-
-@media screen and (max-width: 768px) {
-  .l-header #language-selector {display: none;}
-  .l-header a.icon {
-    float: left;
-    display: block;
-  }
 }
 
 .paging {

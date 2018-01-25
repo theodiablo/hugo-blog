@@ -10,8 +10,26 @@ other = "Últimos articulos"
 [categories]
 other = "Categorias"
 
+[tips]
+other = "Consejos"
+
 [home]
 other = "Inicio"
+
+[welcome]
+other = "¡Bienvenidos!"
+
+[countries]
+other = "Paises"
+
+[nepal]
+other = "Nepal"
+
+[india]
+other = "India"
+
+[sri-lanka]
+other = "Sri Lanka"
 
 [inOtherLanguages]
 other = "Este artículo en otros idiomas"
@@ -63,3 +81,18 @@ other = "es_ES"
 
 [facebookLocaleCode]
 other = "es_ES"
+
+[link-homepage]
+other = "/"
+
+[link-welcomepage]
+other = "/general/bienvenidos/"
+
+[link-categorie-tips]
+other = "/categories/tips"
+
+[link-nepal]
+other = "/nepal"
+
+[link-sri-lanka]
+other = "/sri-lanka"

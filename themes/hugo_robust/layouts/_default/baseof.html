@@ -43,17 +43,6 @@
             </h1>
             {{ end }}
         </div>
-
-        <div id="language-selector" class="topNav">
-          {{ if and (ne .Title $.Site.Title) (.IsTranslated) }}
-            {{ range .Translations }}
-              <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
-            {{ end}}
-          {{ else }}
-            {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
-            {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
-          {{ end }}
-        </div>
         <!--a href="javascript:void(0);" class="icon" onclick="menuInterruptor()">&#9776;</a--> 
       </div>
     </header>
@@ -63,27 +52,33 @@
         <span>☰</span>
     </a>
     <div id="menu-container" class="">
+
+      <div id="language-selector">
+            {{ if and (ne .Title $.Site.Title) (.IsTranslated) }}
+              {{ range .Translations }}
+                <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+              {{ end}}
+            {{ else }}
+              {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
+              {{ if not (eq $.Page.Lang "fr") }}<span class="f16" href="/fr"><a class="flag fr" href="/fr"></a><a href="/fr">Français</a></span>{{ end }}
+          {{ end }}
+      </div>
+
       <div id='cssmenu'>
         <ul>
-           <li><a href='/'><span>{{ i18n "home" }}</span></a></li>
-           <li class='active has-sub'><a href='#'><span>{{ i18n "categories" }}</span></a>
+           <li><a href='{{ i18n "link-homepage" }}'><span>{{ i18n "home" }}</span></a></li>
+           <li><a href='{{ i18n "link-welcomepage" }}'><span>{{ i18n "welcome" }}</span></a></li>
+           <li class='active has-sub'><a href='#'><span>{{ i18n "countries" }}</span></a>
               <ul>
-                 <li class='has-sub'><a href='#'><span>Product 1</span></a>
-                    <ul>
-                       <li><a href='#'><span>Sub Product</span></a></li>
-                       <li class='last'><a href='#'><span>Sub Product</span></a></li>
-                    </ul>
-                 </li>
-                 <li class='has-sub'><a href='#'><span>Product 2</span></a>
-                    <ul>
-                       <li><a href='#'><span>Sub Product</span></a></li>
-                       <li class='last'><a href='#'><span>Sub Product</span></a></li>
-                    </ul>
-                 </li>
+                 <li><a href='{{ i18n "link-nepal" }}'><span>{{ i18n "nepal" }}</span></a></li>
+                 <li><a href='{{ i18n "link-sri-lanka" }}'><span>{{ i18n "sri-lanka" }}</span></a></li>
               </ul>
            </li>
-           <li><a href='#'><span>About</span></a></li>
-           <li class='last'><a href='#'><span>Contact</span></a></li>
+           <li class='active has-sub'><a href='#'><span>{{ i18n "categories" }}</span></a>
+              <ul>
+                 <li><a href='{{ i18n "link-category-tips" }}'><span>{{ i18n "tips" }}</span></a></li>
+              </ul>
+           </li>
         </ul>
       </div>
     </div>

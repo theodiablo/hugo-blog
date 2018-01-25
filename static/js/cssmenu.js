@@ -4,43 +4,47 @@ document.addEventListener("DOMContentLoaded", function() {
 		element.classList.toggle("show-menu");
 	});
 
-	document.querySelector('#cssmenu li.has-sub>a').addEventListener("click", function(){
-		this.removeAttribute('href');
-		var element = getParentByTag(this, "li");
-		if (element.classList.contains('open')) {
-			element.classList.remove('open');
-			var ulElem = getChildrenByTag(element, 'ul');
-			ulElem.style.display = "";
-			/*ulElem.animate.animate({
-		      height: 0
-		    }, {
-		      duration: 1000,
-		      easing: "ease-in-out",
-		      iterations: 1,
-		      fill:"forwards"
-		    })*/
-			//element.find('li').removeClass('open');
-			//element.find('ul').slideUp();
-		}
-		else {
-			element.classList.add('open');
-			var ulElem = getChildrenByTag(element, 'ul');
-			ulElem.style.display = "block";
-			/*ulElem.animate.animate({
-		      height: element.offsetHeight
-		    }, {
-		      duration: 1000,
-		      easing: "ease-in-out",
-		      iterations: 1,
-		      fill:"forwards"
-		    })*/
-			//element.children('ul').slideDown();
-			//element.siblings('li').children('ul').slideUp();
-			//element.siblings('li').removeClass('open');
-			//element.siblings('li').find('li').removeClass('open');
-			//element.siblings('li').find('ul').slideUp();
-		}
-	});
+	var menusWithSubs = document.querySelectorAll('#cssmenu li.has-sub>a');
+
+	for (var i = menusWithSubs.length - 1; i >= 0; i--) {
+		menusWithSubs[i].addEventListener("click", function(){
+			this.removeAttribute('href');
+			var element = getParentByTag(this, "li");
+			if (element.classList.contains('open')) {
+				element.classList.remove('open');
+				var ulElem = getChildrenByTag(element, 'ul');
+				ulElem.style.display = "";
+				/*ulElem.animate.animate({
+			      height: 0
+			    }, {
+			      duration: 1000,
+			      easing: "ease-in-out",
+			      iterations: 1,
+			      fill:"forwards"
+			    })*/
+				//element.find('li').removeClass('open');
+				//element.find('ul').slideUp();
+			}
+			else {
+				element.classList.add('open');
+				var ulElem = getChildrenByTag(element, 'ul');
+				ulElem.style.display = "block";
+				/*ulElem.animate.animate({
+			      height: element.offsetHeight
+			    }, {
+			      duration: 1000,
+			      easing: "ease-in-out",
+			      iterations: 1,
+			      fill:"forwards"
+			    })*/
+				//element.children('ul').slideDown();
+				//element.siblings('li').children('ul').slideUp();
+				//element.siblings('li').removeClass('open');
+				//element.siblings('li').find('li').removeClass('open');
+				//element.siblings('li').find('ul').slideUp();
+			}
+		});
+	}
 }); 
 
 

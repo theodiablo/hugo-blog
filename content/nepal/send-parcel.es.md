@@ -2,7 +2,7 @@
 date = "2017-09-28T14:41:59+05:30"
 description = "Si quieres deshacerte de un poco de peso de tu mochila después de tu trekk por los Himalayas o simplemente quieres enviar algún souvenir para no cargar con ello durante el resto de tu viaje, tienes la opción de enviar un paquete desde Katmandú, te contamos como se hace."
 draft = false
-tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
+tags = ["Nepal", "Kathmandu", "tips"]
 categories = ["tips", "Nepal"]
 title = "Enviar un paquete desde Nepal"
 thumbnail = "posts/countries/nepal/send-parcel/sealing-edit.jpg"

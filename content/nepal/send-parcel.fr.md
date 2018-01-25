@@ -2,7 +2,7 @@
 date = "2017-09-28T14:41:59+05:30"
 description = "Pour soulager un peu son sac a dos en se séparant de certains objets qui n’ont plus d’utilité après un trek, ou simplement pour ne pas avoir a porter un souvenir pendant la suite de son voyage, il est possible d’envoyer un coli depuis Katmandou, on vous explique comment faire."
 draft = false
-tags = ["Nepal", "Kathmandu", "backpackers", "tips"]
+tags = ["Nepal", "Kathmandu", "tips"]
 categories = ["tips", "Nepal"]
 title = "Comment envoyer un coli depuis le Népal"
 thumbnail = "posts/countries/nepal/send-parcel/sealing-edit.jpg"

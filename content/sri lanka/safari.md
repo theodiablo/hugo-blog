@@ -2,7 +2,7 @@
 date = "2017-10-28T14:41:59+05:30"
 description = "Yala, Udawalawe, Sinharaja, Bundala... ¿Cuál es el mejor safari en Sri Lanka? Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, en este articulo te vamos a contestar a esta pregunta."
 draft = false
-tags = ["Sri Lanka", "Kathmandu", "Safari"]
+tags = ["Sri Lanka", "Kathmandu", "Safari", "discover"]
 categories = ["tips", "Sri Lanka"]
 title = "Cual es el mejor safari en Sri Lanka?"
 thumbnail = "posts/countries/sri-lanka/safari/udawalawe-elephant-mum.jpg"
