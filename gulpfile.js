@@ -26,6 +26,16 @@ function responsiveImg() {
     .pipe($.responsive({
       // Convert all images to JPEG format
       '**/*': [{
+        // image-micro.jpg is 20 pixels wide
+        width: 20,
+        withoutEnlargement: false,
+        quality: 50,
+        rename: {
+          suffix: '-micro',
+          extname: '.jpg'
+        },
+      },
+      {
         // image-medium.jpg is 400 pixels wide
         width: 500,
         withoutEnlargement: false,
