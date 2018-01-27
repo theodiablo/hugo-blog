@@ -27,11 +27,19 @@ function responsiveImg() {
       // Convert all images to JPEG format
       '**/*': [{
         // image-micro.jpg is 20 pixels wide
-        width: 20,
+        width: 60,
         withoutEnlargement: false,
         quality: 50,
         rename: {
           suffix: '-micro',
+          extname: '.jpg'
+        },
+      },{
+        // image-smal.jpg is 300 pixels wide
+        width: 300,
+        withoutEnlargement: false,
+        rename: {
+          suffix: '-small',
           extname: '.jpg'
         },
       },
@@ -57,32 +65,6 @@ function responsiveImg() {
         withoutEnlargement: false,
         rename: {
           suffix: '-extralarge',
-          extname: '.jpg'
-        },
-      }, 
-      //2x for retina displays
-      {
-        // image-medium.jpg is 400 pixels wide
-        width: 500 * 2,
-        withoutEnlargement: false,
-        rename: {
-          suffix: '-medium@2x',
-          extname: '.jpg'
-        },
-      }, {
-        // image-large.jpg is 800 pixels wide
-        width: 800 * 2,
-        withoutEnlargement: false,
-        rename: {
-          suffix: '-large@2x',
-          extname: '.jpg'
-        },
-      }, {
-        // image-extralarge.jpg is 1400 pixels wide
-        width: 1400 * 2,
-        withoutEnlargement: false,
-        rename: {
-          suffix: '-extralarge@2x',
           extname: '.jpg'
         },
       }]
