@@ -65,7 +65,7 @@ Une fois habitués à la circulation, on arrive à identifier une certaine organ
 
 Pour traverser la route, il ne faut pas trop réfléchir avant de se lancer, sinon on pourrait attendre toute la journée que quelqu’un s’arrête pour laisser traverser. Il n’y a quasiment aucun feu de circulation, et les rares qui existent ne sont pas vraiment respectés. Tendre la main ouverte face aux véhicules qui approchent pour montrer que l’on traverse suffit normalement à les faire s’arrêter.
 
-{{% img src="posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="La regle pour traverser la route : lance-toi et avec un peu de chance les voitures s’arrêteront sans même te renverser&nbsp;! " %}}
+{{% img src="posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="La regle pour traverser la route : lance-toi et avec un peu de chance les voitures s’arrêteront sans même te renverser ! " %}}
 
 Une fois l’adaptation au bruit et à la circulation réussie, on peut y découvrir le charme de cette ancienne ville coloniale. Il y a des centaines de choses à voir dans cette ville pleine d’histoire&nbsp;! Ce que l’on préfère c’est se perdre en marchant dans les rues, découvrant ainsi des merveilles inconnues.
 

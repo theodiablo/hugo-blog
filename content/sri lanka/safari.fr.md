@@ -14,7 +14,7 @@ keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "bundala", "sinha
 Si vous voulez visiter les parcs naturels pour découvrir la faune et la flore du Sri Lanka, vous vous demanderez probablement comme nous quand nous étions la bas : Quel est le meilleur safari à faire ?</br>
 Le Sri Lanka possède 26 parcs nationaux, qui ensemble couvrent une surface de plus de 5700km², mais quel est celui qui vous plaira la plus ? Ici on vous parlera de Yala, Udawalawe, Bundala et Sinharaja.
 
-{{% img src="posts/countries/sri-lanka/safari/udawalawe-monkey.jpg" caption="Tu pourrais me dire quel est le meilleur safari s’il te plait&nbsp;?" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-monkey.jpg" caption="Tu pourrais me dire quel est le meilleur safari s’il te plait ?" %}}
 
 Et bien, après avoir demandé à plusieurs personnes et fait quelques recherches sur le web, il n’y a pas réellement de parc « meilleur » que les autres, tout dépend du type de safari que vous voulez faire.</br>
 Nous avons choisi de faire celui d’Udawalawe, mais nous vous donnons ici quelques infos sur quatre des principaux parcs du Sri Lanka, pour vous aider à trouver celui qui vous correspondra le plus:
@@ -112,7 +112,7 @@ Il faut savoir que pendant la saison des pluies, il est d’avantage compliqué 
 Au Sri Lanka, les périodes de mousson sont de mai a août (pour le sud et l’est) et d’octobre à janvier (pour le nord et l’ouest), mais cette seconde n’affecte pas les principaux safaris, ce qui fait que malgré la saison des pluies, il est possible de profiter sans aucun problème.</br>
 Et même pendant la mousson, il est possible d’avoir de la chance. Nous sommes allés à Udawalawe en début juin, nous n’avons pas eu une goutte d’eau et nous avons pu voir plein d’éléphants&nbsp;!
 
-{{% img src="posts/countries/sri-lanka/safari/udawalawe-single-elephant.jpg" caption="Cette éléphante à Udawalawe s’est approché si proche qu’on pouvait presque la toucher&nbsp;!" %}}
+{{% img src="posts/countries/sri-lanka/safari/udawalawe-single-elephant.jpg" caption="Cette éléphante à Udawalawe s’est approché si proche qu’on pouvait presque la toucher !" %}}
 
 ### Le monde appartient a ceux qui se lèvent tôt, très tôt !
 

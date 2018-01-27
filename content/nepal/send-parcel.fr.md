@@ -46,14 +46,14 @@ Apres ca, il faut écrire sur le tissu l'adresse du destinataire et de l'expédi
 Très patiemment, il scelle chacune des coutures avec son bâton de cire qu’il chauffe à l’aide d’une bougie.<br/>
 Evidemment, tout ce travail manuel a un cout, que l’on détaille plus bas.
 
-{{% img src="posts/countries/nepal/send-parcel/sealing-2.jpg" caption="Comme les lettres dans Game of Thrones, oui oui&nbsp;!"  class="center" width="400"%}}
+{{% img src="posts/countries/nepal/send-parcel/sealing-2.jpg" caption="Comme les lettres dans Game of Thrones, oui oui !"  class="center" width="400"%}}
 
 *4- La pesée et l'affranchissement:* Ca y est, le paquet est enfin prêt, il ne reste plus a le peser et a prier pour qu’il ne dépasse pas le poids prévu...<br/>
 Ah, par contre, il faut attendre que le responsable arrive, ce qui peut prendre un peu de temps selon son humeur, une petite demi-heure pour nous. Une fois qu'il est là, il faut remplir un autre papier avec encore une fois expéditeur, destinataire, description du contenu, blablabla (exactement pareil que le formulaire du début, mais cette fois en anglais).<br/>
 Enfin payer l'affranchissement qui correspond au poids et hop&nbsp;! C'est fait. On vous donne un justificatif et même un numéro de tracking, qui permet de suivre son paquet <a target="_blank" href="http://www.gpo.gov.np" > sur cette page web : www.gpo.gov.np. </a><br/>
 Avec un peu de chance ça devrait arriver d'ici 2-3 semaines.
 
-{{% img src="posts/countries/nepal/send-parcel/success.jpg" caption="Ca y est, on a enfin fini&nbsp;!" %}}
+{{% img src="posts/countries/nepal/send-parcel/success.jpg" caption="Ca y est, on a enfin fini !" %}}
 
 ## Horaires
 
