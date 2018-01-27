@@ -1,5 +1,7 @@
 set HUGO_ENV=PROD
 
+rmdir /s /q public\*
+
 call gulp images
 IF %ERRORLEVEL% NEQ 0 pause
 
