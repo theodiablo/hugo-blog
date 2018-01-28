@@ -1,22 +1,23 @@
 //Inspired by amazing tutorial on "sitepoint.com"
 
-var timer, pItem;
-
 
 
 if(window.addEventListener && window.requestAnimationFrame && document.getElementsByClassName){
 
+var timer, pItem;
+
 var inView = function(){
-	var wT = window.pageYOffset,
-		wB = wT + window.innerHeight,
+	pItem = pItem || document.getElementsByClassName('progressive replace');
+	var wT = window.pageYOffset - 100,
+		wB = wT + window.innerHeight + 200,
 		cRect, pT, pB, p = 0;
 
 		while(p < pItem.length){
-			cRect = pItem[p].getBoundingClientRect();
+			cRect = pItem[p].querySelector('img.preview').getBoundingClientRect();
 			pT = wT +  cRect.top;
 			pB = pT + cRect.height;
 
-			if(wT - 200 < pB && wB + 200 > pT){
+			if(wT < pB && wB > pT){
 				loadFullImage(pItem[p]);
 				pItem[p].classList.remove('replace');
 			}
@@ -27,7 +28,7 @@ var inView = function(){
 }
 
 var loadFullImage = function(item){
-	if(!item || !item.href) return;
+	if(!item || !item.hasAttribute("href")) return;
 
 	var addImg = function(){
 		//disable click
@@ -35,27 +36,26 @@ var loadFullImage = function(item){
 
 		var pImg = item.querySelector && item.querySelector('img.preview');
 		if(pImg){
-			item.alt = pImg.alt || '';
-			item.removeChild(pImg);
+			img.alt = pImg.alt || '';
 		}
-		//Add full image
-		item.appendChild(img).addEventListener('animationend', function(e){
+		item.removeChild[0]; //remove loading animation
+		item.replaceChild(img, item.children[0]); //replace small image by new one
+		img.addEventListener('animationend', function(e){
 			//remove preview image
 			e.target.classList.remove('reveal');
 		})
 	}
 
 	var img = new Image();
-	if(item.dataset){
-		//Todo load several sources!
-		img.srcset = item.dataset.srcset || '';
-		img.sizes = item.dataset.sizes || '';
-	}
-	img.src = item.href;
 	img.classList.add('reveal');
 	img.display = "none";
-	if(img.complete) addImg();
-	else img.onload = addImg;
+	if(item.getAttribute("srcset") || item.getAttribute("sizes")){
+		//Todo load several sources!
+		img.srcset = item.getAttribute("srcset") || '';
+		img.sizes = item.getAttribute("sizes") || '';
+	}
+	img.onload = addImg;
+	img.src = item.getAttribute("href");
 }
 
 var scroller = function(e){
@@ -63,14 +63,7 @@ var scroller = function(e){
 		timer = null;
 		requestAnimationFrame(inView);
 	}, 300);
-
 }
-
-
-	window.addEventListener('load', function() {
-		pItem = document.getElementsByClassName('progressive replace');
-		inView();
-	})
 
 	window.addEventListener('scroll', scroller, false);
 	window.addEventListener('resize', scroller, false);

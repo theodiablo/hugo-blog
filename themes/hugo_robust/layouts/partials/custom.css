@@ -19,10 +19,6 @@
   width: 100%;
 }
 
-.center{
-  text-align: center;
-}
-
 nav.crumb {
   margin-top: 1rem;
 }
@@ -395,4 +391,125 @@ div.fb-follow{
 #cssmenu ul ul > li.active::after,
 #cssmenu ul ul > li.open::after {
   border-top-color: #666666;
+}
+
+
+/* Loader for images */
+
+.cssload-loader {
+  width: 97px;
+  height: 49px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+.cssload-loader .cssload-ball {
+  width: 19px;
+  height: 19px;
+  background-color: white;
+  opacity: .5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 1000;
+  animation: cssload-motion 2.1s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+    -o-animation: cssload-motion 2.1s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+    -ms-animation: cssload-motion 2.1s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+    -webkit-animation: cssload-motion 2.1s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+    -moz-animation: cssload-motion 2.1s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+}
+
+
+
+@keyframes cssload-motion {
+  0% {
+    transform: translateX(0) scale(1);
+  }
+  25% {
+    transform: translateX(-49px) scale(0.3);
+  }
+  50% {
+    transform: translateX(0) scale(1);
+  }
+  75% {
+    transform: translateX(49px) scale(0.3);
+  }
+  100% {
+    transform: translateX(0) scale(1);
+  }
+}
+
+@-o-keyframes cssload-motion {
+  0% {
+    -o-transform: translateX(0) scale(1);
+  }
+  25% {
+    -o-transform: translateX(-49px) scale(0.3);
+  }
+  50% {
+    -o-transform: translateX(0) scale(1);
+  }
+  75% {
+    -o-transform: translateX(49px) scale(0.3);
+  }
+  100% {
+    -o-transform: translateX(0) scale(1);
+  }
+}
+
+@-ms-keyframes cssload-motion {
+  0% {
+    -ms-transform: translateX(0) scale(1);
+  }
+  25% {
+    -ms-transform: translateX(-49px) scale(0.3);
+  }
+  50% {
+    -ms-transform: translateX(0) scale(1);
+  }
+  75% {
+    -ms-transform: translateX(49px) scale(0.3);
+  }
+  100% {
+    -ms-transform: translateX(0) scale(1);
+  }
+}
+
+@-webkit-keyframes cssload-motion {
+  0% {
+    -webkit-transform: translateX(0) scale(1);
+  }
+  25% {
+    -webkit-transform: translateX(-49px) scale(0.3);
+  }
+  50% {
+    -webkit-transform: translateX(0) scale(1);
+  }
+  75% {
+    -webkit-transform: translateX(49px) scale(0.3);
+  }
+  100% {
+    -webkit-transform: translateX(0) scale(1);
+  }
+}
+
+@-moz-keyframes cssload-motion {
+  0% {
+    -moz-transform: translateX(0) scale(1);
+  }
+  25% {
+    -moz-transform: translateX(-49px) scale(0.3);
+  }
+  50% {
+    -moz-transform: translateX(0) scale(1);
+  }
+  75% {
+    -moz-transform: translateX(49px) scale(0.3);
+  }
+  100% {
+    -moz-transform: translateX(0) scale(1);
+  }
 }
