@@ -278,7 +278,7 @@ div.fb-follow{
   width: 0;
   height: 0;
   border-top: 13px solid #000000;
-  border-botom: 13px solid transparent;
+  /*border-bottom: 13px solid transparent;*/
   border-left: 75px solid transparent;
   border-right: 75px solid transparent;
   left: 0;
@@ -299,7 +299,7 @@ div.fb-follow{
   width: 0;
   height: 0;
   border-top: 13px solid #151515;
-  border-botom: 10px solid transparent;
+  /*border-bottom: 13px solid transparent;*/
   border-left: 75px solid transparent;
   border-right: 75px solid transparent;
   left: 0;

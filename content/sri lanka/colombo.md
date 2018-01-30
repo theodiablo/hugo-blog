@@ -34,9 +34,9 @@ Colombo es la capital de Sri Lanka y su población es al menos seis veces mayor 
 El aeropuerto principal de Sri Lanka (Bandaranaike International Airport), se encuentra muy cerca de Negombo y a un poco más de media hora de la capital, Colombo.
 
 Nada más cruzar la carretera al salir del aeropuerto te encontrarás con dos tipos de buses, los locales y los turísticos. Los segundos tienen aire acondicionado normalmente y pagas el triple del precio local.
-<br/>Desde el aeropuerto hasta Colombo hay buses locales express, que son directos y los “normales” que hacen la ruta del bacalao, parando por todos los pueblos que encuentran a su paso. 
+<br>Desde el aeropuerto hasta Colombo hay buses locales express, que son directos y los “normales” que hacen la ruta del bacalao, parando por todos los pueblos que encuentran a su paso. 
 
-Muchos paisanos te la intentaran colar con que ya no hay ningún bus a Colombo, o que solo son los buses turísticos los que van hasta allí. « Meeec », mentirosillos, normalmente siempre hay buses locales cada media hora o una hora máximo. <br/>Si llegas de madrugada y coges un tuc tuc, buena suerte con la negociación. Quizás os conviene dormir en Negombo y al día siguiente coger un bus a Colombo. 
+Muchos paisanos te la intentaran colar con que ya no hay ningún bus a Colombo, o que solo son los buses turísticos los que van hasta allí. « Meeec », mentirosillos, normalmente siempre hay buses locales cada media hora o una hora máximo. <br>Si llegas de madrugada y coges un tuc tuc, buena suerte con la negociación. Quizás os conviene dormir en Negombo y al día siguiente coger un bus a Colombo. 
 
 
 Nosotros concretamente cogimos el express para la ida y el no express para la vuelta y éste es el resumen:
@@ -66,7 +66,7 @@ En este caso mereció la pena coger el express, y desde luego si no eres muy tiq
 Al principio el ambiente nos resultó bastante agresivo para nuestros sentidos, poco acostumbrados a todo ese ruido, los olores intensos, el tráfico caótico, gente hablándote por todos lados…
 Sin embargo con un poco de perspectiva y habiendo estado un mes en la isla y varias semanas en India, aquello nos parece bastante tranquilito a día de hoy. 
 
-Además, una vez que te acostumbras al tráfico, llegas a darte cuenta que existe una cierta organización dentro del desorden. La clave es dejarse llevar por el movimiento, no buscarle explicación a las cosas que parecen incoherentes y seguir el ritmo de los demás. <br/>Literalmente, si quieres cruzar una calle, no te lo pienses demasiado, o estarás toda la vida esperando a que alguien se pare para que pases. Casi no hay semáforos, y los pocos que hay, normalmente no se respetan del todo. Si cruzas, y pones la mano en señal de que vas a cruzar, se paran.
+Además, una vez que te acostumbras al tráfico, llegas a darte cuenta que existe una cierta organización dentro del desorden. La clave es dejarse llevar por el movimiento, no buscarle explicación a las cosas que parecen incoherentes y seguir el ritmo de los demás. <br>Literalmente, si quieres cruzar una calle, no te lo pienses demasiado, o estarás toda la vida esperando a que alguien se pare para que pases. Casi no hay semáforos, y los pocos que hay, normalmente no se respetan del todo. Si cruzas, y pones la mano en señal de que vas a cruzar, se paran.
 
 {{% img src="posts/countries/sri-lanka/colombo/traffic-jam.jpg" caption="Regla para cruzar la calle: lanzate a la carretera y con un poco de suerte los vehículos se pararán antes de atropellarte. " %}}
 
@@ -75,7 +75,7 @@ Una vez que te armas de valor, empiezas a descubrir el encanto de esta antigua c
 Estas son algunas de las opciones que recomendamos:
 
 * Alejarse un rato de las carismáticas calles y mercados para visitar uno de los numerosos templos budistas que hay por toda la ciudad. Nosotros visitamos el templo de *Gangaramaya* (Entrada 300 LKR por persona), uno de los templos budistas más antiguos de Sri Lanka. 
-Es un sitio muy tranquilo y lleno de paz donde conviven decenas de monjes. La foto de portada de este artículo con los Budas en posición de meditación es del techo del mismo templo. <br/>La misma entrada da acceso al templo *Seema Malaka* situado en el centro del lago Beira. Para acceder a él, hay que pasar por el puente que se encuentra a unos metros. Si os piden pagar entrada, le enseñáis la otra entrada y os dejaran pasar sin problema. 
+Es un sitio muy tranquilo y lleno de paz donde conviven decenas de monjes. La foto de portada de este artículo con los Budas en posición de meditación es del techo del mismo templo. <br>La misma entrada da acceso al templo *Seema Malaka* situado en el centro del lago Beira. Para acceder a él, hay que pasar por el puente que se encuentra a unos metros. Si os piden pagar entrada, le enseñáis la otra entrada y os dejaran pasar sin problema. 
 
 {{% img src="posts/countries/sri-lanka/colombo/temple-buddha-statues.jpg" caption="Estatuas de Buda en el templo Seema Malaka" %}}
 

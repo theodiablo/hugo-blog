@@ -9,12 +9,12 @@
           <input type="email" class="email" placeholder="{{ i18n "email" }}" title="{{ i18n "emailHelp" }}" required>
           <input type="submit" class="submit" value="{{ i18n "register" }}">
         </form>
-        <div class="spinner" hidden="true">
+        <div class="spinner" hidden="">
           <div class="bounce1"></div>
           <div class="bounce2"></div>
           <div class="bounce3"></div>
         </div>
-        <div class="success" hidden="true">
+        <div class="success" hidden="">
           <p>{{ i18n "subscribeNewsletterSuccess" }}</p>
         </div>
       </div>
@@ -47,13 +47,6 @@
       <div class="socialMedias">
         <header>{{ i18n "followUsSocialMedias" }}</header>
         <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
 
         <div class="fb-follow" data-href="https://www.facebook.com/Traveling-Bubbles-263380677505386/" data-width="310" data-layout="standard" data-size="large" data-show-faces="true"></div>
         <div>
@@ -68,7 +61,7 @@
         <ul class="terms">
       {{ if ne .Title $.Site.Title }}
         {{ range .Translations }}
-            <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+            <li class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"></a><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></li>
         {{ end}}
       {{ else }}
         {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}

@@ -212,6 +212,10 @@ article.li .title {
 
 
 @media (max-width: 768px) {
+
+  article.li .inner {
+    height: 0px;
+  }
   article.li .title {
     position: absolute;
     top: 8rem;
@@ -462,39 +466,47 @@ article.sn > .article-body blockquote p {
   line-height: 1rem;
 }
 
-article.sn > .article-body figure {
-  margin: 1.5rem 0;
-}
-
 article.sn > .article-body figure img,
 article.sn > .article-body figure amp-img {
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   max-width: 100%;
 }
 
-article.sn > .article-body a img {
+article.sn > .article-body figure {
+  margin: 1.5rem 0;
+}
+
+article.sn > .article-body figure.progressive.center{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+figure.progressive {
+  overflow: hidden;
+  position: relative;
+  outline: none;
+  display: block;
+}
+
+article.sn > .article-body .progressive img {
   width: 100%;
   height: auto;
-  overflow: hidden;
 }
 
-article.sn > .article-body a img.preview {    
-  filter: blur(1vw);
-  transform: scale(0.95);
+article.sn > .article-body .progressive img.preview {    
+  filter: blur(.7vw);
+  transform: scale(1.05);
 }
 
-article.sn > .article-body a img.reveal {
-   will-change: transform, opacity;
+article.sn > .article-body .progressive img.reveal {
+   will-change: transform, filter;
    animation: reveal 1s ease-out;
 }
 
-a.progressive img:not(.reveal).not:(.preview){
-  display: none;
-}
-
 @keyframes reveal{
-  0%{ transform: scale(0.95); opacity: 0;}
-  100%{ transform: scale(1); opacity: 1;}
+  0%{ transform: scale(1.05); filter: blur(.7vw);}
+  100%{ transform: scale(1); filter: blur(0vw);}
 }
 
 
@@ -761,21 +773,27 @@ section.footer > header a {
 {{ with $p.Params.thumbnail }}
 
 
+
+.thumb-{{ $p.UniqueID }} {
+ background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-medium.jpg);
+}
+
 @media (min-width: 1600px) {
   .thumb-{{ $p.UniqueID }} {
-    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-large.jpg);
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-extralarge.jpg);
   }
 }
 @media (max-width: 1600px) {
   .thumb-{{ $p.UniqueID }} {
-    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-medium.jpg);
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-large.jpg);
   }
 }
 @media (max-width: 800px) {
   .thumb-{{ $p.UniqueID }} {
-    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-medium.jpg);
+    background-image: url({{ $.Site.BaseURL }}images/generated/{{ substr .  0 -4 }}-small.jpg);
   }
 }
+
 {{ end }}
 {{ end }}
 

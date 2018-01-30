@@ -15,14 +15,9 @@
     <link rel="shortcut icon" type="image/png" href="/images/favicon.jpg"/>
     
     <link rel="stylesheet" type="text/css" href="/css/flags16.css" media="screen"/>
-    <style type="text/css">
+    <style>
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
-    </style>
-
-    <style type="text/css">
-      
-
     </style>
   </head>
 
@@ -47,7 +42,7 @@
       </div>
     </header>
 
-    <a href="#menu" id="menuLink" class="menu-link">
+    <a href="javascript:void(0);" id="menuLink" class="menu-link">
         <!-- Hamburger icon -->
         <span>☰</span>
     </a>
@@ -56,7 +51,7 @@
       <div id="language-selector">
             {{ if and (ne .Title $.Site.Title) (.IsTranslated) }}
               {{ range .Translations }}
-                <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"/><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
+                <span class="f16"><a class="flag {{ .Lang }}" href="{{ .Permalink }}"></a><a href="{{ .Permalink }}">{{ i18n .Lang }}</a></span>
               {{ end}}
             {{ else }}
               {{ if not (eq $.Page.Lang "es") }}<span class="f16" href="/es"><a class="flag es" href="/es"></a><a href="/es">Español</a></span>{{ end }}
@@ -99,10 +94,24 @@
       </div>
     </footer>
     </div>
+    <script>
+      var global = { languageCode  : {{ $.Page.Lang }} };
+      //Facabook plugin
+      (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    {{ "<!-- build:js -->" | safeHTML }}
     <script src="/js/aws-sdk-2.108.0.min.js" async></script>
     <script src="/js/subscribe.js" async></script>
     <script src="/js/cssmenu.js" async></script>
     <script src="/js/progressive-img.js" async></script>
+    {{ "<!-- endbuild -->" | safeHTML }}
+    
   </body>
 </html>
 

@@ -12,12 +12,12 @@ keywords = ["safari", "safari sri lanka", "udawalawe", "yala", "udawalawe nation
 
 +++
 
-Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, probablemente te hagas la misma pregunta que nosotros nos hicimos cuando estábamos allí. ¿Cuál es el mejor safari en Sri Lanka?</br>
+Si te interesa conocer los parques naturales, la flora y la fauna de Sri Lanka, probablemente te hagas la misma pregunta que nosotros nos hicimos cuando estábamos allí. ¿Cuál es el mejor safari en Sri Lanka?<br>
 En Sri Lanka hay un total de 26 parques nacionales, cubriendo una superficie de más de 5700km². Pero, ¿Cuál es la mejor opción para hacer un safari? Aqui te hablaremos de Yala, Udawalawe, Sinharaja y Bundala.
 
 {{% img src="posts/countries/sri-lanka/safari/udawalawe-monkey.jpg" caption="Por favor, ¿Me podría decir cuál es el mejor safari?" %}}
 
-Pues bien, después de preguntar a varias personas y leer varios artículos, hemos llegado a la conclusión de que no hay una opción mejor que otra, y la elección simplemente va a depender del tipo de safari que quieras hacer.</br>
+Pues bien, después de preguntar a varias personas y leer varios artículos, hemos llegado a la conclusión de que no hay una opción mejor que otra, y la elección simplemente va a depender del tipo de safari que quieras hacer.<br>
 Nosotros elegimos el de Udawalawe, pero aquí te dejamos algo de información sobre cuatro de los parques principales para decantarte por uno u otro:
 
 
@@ -25,7 +25,7 @@ Nosotros elegimos el de Udawalawe, pero aquí te dejamos algo de información so
 
 {{% img src="posts/countries/sri-lanka/safari/yala-leopard.jpg" caption="El leopardo de Yala – Instagram photo by @charstravels"%}}
 
-Situado  en el extremo sudeste de la isla, con un total de 130.000 hectáreas, posee la mayor variedad de leopardos del mundo. </br>
+Situado  en el extremo sudeste de la isla, con un total de 130.000 hectáreas, posee la mayor variedad de leopardos del mundo. <br>
 Si lo que quieres es ver una amplia variedad de animales, incluyendo el famoso leopardo, además de elefantes, cocodrilos, monos, búfalos, osos y distintas aves…el parque nacional de Yala es tu parque. 
 El parque esta dividido en 6 áreas diferenciadas, y una de las mas conocidas y populares con una alta oferta para Jeeps, guiás, packs con comidas, es la de Tissa (Tissamaharama).
  
@@ -45,13 +45,13 @@ Sin duda Yala, es la opción más popular de todas, tanto para los turistas, los
 {{% img src="posts/countries/sri-lanka/safari/udawalawe-elephant-group.jpg" caption="Familia de elefantes en Udawalawe" %}}
 
 Si por el contrario no te gustan las aglomeraciones y buscas algo más tranquilo y solitario (al menos sin veinte jeeps haciendo cola para sacar la foto dichosa), te recomendamos el parque de Udawalawe. 
-En este caso, no tengas muchas esperanzas de encontrarte un leopardo (si consigues ver uno, considérate muy afortunado).</br>
-Ahora bien, si eres un amante de los elefantes, vas a disfrutar hasta la saciedad a lo largo y ancho de las 31.000 hectáreas de parque. </br>
+En este caso, no tengas muchas esperanzas de encontrarte un leopardo (si consigues ver uno, considérate muy afortunado).<br>
+Ahora bien, si eres un amante de los elefantes, vas a disfrutar hasta la saciedad a lo largo y ancho de las 31.000 hectáreas de parque. <br>
 A parte de paquidermos, nosotros también vimos cocodrilos, búfalos, ciervos, chacales, monos y distintas aves.
 
 {{% img src="posts/countries/sri-lanka/safari/udawalawe-buffalos.jpg" caption="Manada de búfalos al amanecer en Udawalawe" %}}
 
-Nosotros elegimos esta opción ya que normalmente si podemos evitar cualquier tipo de aglomeración, la evitamos y además porque nos encantan los elefantes, siempre que estén en libertad. </br>
+Nosotros elegimos esta opción ya que normalmente si podemos evitar cualquier tipo de aglomeración, la evitamos y además porque nos encantan los elefantes, siempre que estén en libertad. <br>
 Lo hicimos por la mañana y fue precioso ver el amanecer de camino al parque, pasando por el gran puente que conecta el pueblo con la entrada, donde pudimos ver alguno de los primeros amigos elefantes. 
 
 {{% img src="posts/countries/sri-lanka/safari/udawalawe-fence-elephant.jpg" caption="Primer elefante de camino a Udawalawe" %}}
@@ -85,12 +85,12 @@ Este parque es también muy famoso por su diversa flora y fauna. En él conviven
 
 {{% img src="posts/countries/sri-lanka/safari/sinharaja-bird.jpg" caption="Un ave de las numerosas especies en Sinharaja – Foto de srilankaholidayarchitects.com" %}}
 
-Sinharaja, fue nombrada Reserva de la Biosfera en 1978 y Patrimonio de la Humanidad por la UNESCO en 1988. Debido a su localización geográfica, esta reserva o “rainforest” es literalmente, un bosque de lluvia. </br>
+Sinharaja, fue nombrada Reserva de la Biosfera en 1978 y Patrimonio de la Humanidad por la UNESCO en 1988. Debido a su localización geográfica, esta reserva o “rainforest” es literalmente, un bosque de lluvia. <br>
 Las 8.800 hectáreas de territorio se benefician de los dos monzones que se registran en Sri Lanka anualmente (más detalles en la [sección de informaciones generales]({{< relref "#global-info">}})), mientras que los otros parques solo viven una época de lluvias.
 
 La alta diversidad de vegetación lo convierten en un santuario para numerosas especies de aves, reptiles, insectos, peces, anfibios y mamíferos (incluyendo el elefante).  
 
-Ademas al ser más pequeño, y quizás menos conocido que el resto (menos turístico), este parque es bastante más barato que los otros, pero tienes la obligación de contratar un guía, lo que hace incrementar un poco el precio de la entrada. </br>
+Ademas al ser más pequeño, y quizás menos conocido que el resto (menos turístico), este parque es bastante más barato que los otros, pero tienes la obligación de contratar un guía, lo que hace incrementar un poco el precio de la entrada. <br>
 Aun así, sigue siendo una opción mas económica que los otros parques.
 
 ### Precio de Sinharaja Forest Reserve
@@ -100,19 +100,19 @@ Aun así, sigue siendo una opción mas económica que los otros parques.
 * Cámara video: 560 LKR (si no tenéis equipamiento profesional no hay que pagar este adicional)
 * Duración aproximada: 2 horas 
 
-## <a name="global-info" class="anchor"></a> Información a tener en cuenta antes de realizar un safari
+## <a id="global-info" class="anchor"></a> Información a tener en cuenta antes de realizar un safari
 
 ### ¿Cuál es la mejor época para ir de safari?
 
-Hay que tener en cuenta que en época de monzón, siempre va a ser más complicado avistar animales, puesto que no se concentran tanto en los lagos o ríos para abastecerse de agua. </br>
-En Sri Lanka, las épocas de monzón son de mayo a agosto (en el Sur y Este) y de octubre a enero (en el Norte y el Oeste), pero la segunda no afecta las zonas de safari, con lo que aún en época de lluvia, se puede disfrutar sin ningún tipo de problema. </br>
+Hay que tener en cuenta que en época de monzón, siempre va a ser más complicado avistar animales, puesto que no se concentran tanto en los lagos o ríos para abastecerse de agua. <br>
+En Sri Lanka, las épocas de monzón son de mayo a agosto (en el Sur y Este) y de octubre a enero (en el Norte y el Oeste), pero la segunda no afecta las zonas de safari, con lo que aún en época de lluvia, se puede disfrutar sin ningún tipo de problema. <br>
 Nosotros fuimos a principio de Julio, no tuvimos ni una gota de agua y vimos muchos elefantes.
 
 {{% img src="posts/countries/sri-lanka/safari/udawalawe-single-elephant.jpg" caption="Esta elefanta en Udawalawe se acerco tanto que casi podíamos tocarla" %}}
 
 Como en cualquier atracción muy turística, llegar temprano puede permitir evitar tener demasiada gente pero la mayoría suele empezar muy temprano también porque cuando sale el sol, los animales se despiertan y se mueven de zona, deleitando a los visitantes.
 
-### <a name="jeep-info" class="anchor"></a>Alquilar un jeep
+### <a id="jeep-info" class="anchor"></a>Alquilar un jeep
 
 Para alquilar un Jeep, los precios son muy similares en todos los parques. Los vehículos suelen tener hasta 6 plazas así que cuantos más seáis, mejor. Para conseguir un buen precio debéis usar vuestras armas de negociación.
 
