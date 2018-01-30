@@ -3,13 +3,12 @@ function is_touch_device() {
 }
 //document.addEventListener("DOMContentLoaded", function(){ alert('Dom') }, false);
 
-document.addEventListener("DOMContentLoaded", function() {
+var attachEvents = function(e){
 	var menusWithSubs = document.querySelectorAll('#cssmenu li.has-sub>a');
 	var mainPannel = document.querySelector('#all-items');
 
 	if(is_touch_device()){
 		document.querySelector('#menuLink').addEventListener("touchend", function(e){
-			alert("clicked OMG lolilol!!")
 			e.preventDefault();
 			if(mainPannel.className != "show-menu"){
 				mainPannel.className = "show-menu"
@@ -34,9 +33,15 @@ document.addEventListener("DOMContentLoaded", function() {
 			menusWithSubs[i].addEventListener("click", openCloseMenuItem);
 		}
 	}
+}; 
 
-
-}); 
+window.onload = attachEvents
+if (document.readyState != "complete") {
+	document.addEventListener("DOMContentLoaded", attachEvents);
+}
+else{
+	attachEvents();
+}
 
 var openCloseMenuItem = function(){
 			this.removeAttribute('href');
