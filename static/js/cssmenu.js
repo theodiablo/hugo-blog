@@ -1,13 +1,44 @@
+function is_touch_device() {
+     return (('ontouchstart' in window) || (navigator.MaxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0));
+}
+//document.addEventListener("DOMContentLoaded", function(){ alert('Dom') }, false);
+
 document.addEventListener("DOMContentLoaded", function() {
-	document.querySelector('#menuLink').addEventListener("click", function(){
-		var element = document.querySelector('#all-items');
-		element.classList.toggle("show-menu");
-	});
-
 	var menusWithSubs = document.querySelectorAll('#cssmenu li.has-sub>a');
+	var mainPannel = document.querySelector('#all-items');
 
-	for (var i = menusWithSubs.length - 1; i >= 0; i--) {
-		menusWithSubs[i].addEventListener("click", function(){
+	if(is_touch_device()){
+		document.querySelector('#menuLink').addEventListener("touchend", function(e){
+			alert("clicked OMG lolilol!!")
+			e.preventDefault();
+			if(mainPannel.className != "show-menu"){
+				mainPannel.className = "show-menu"
+			}
+			else{
+				mainPannel.className = ""
+			}
+		});
+		for (var i = menusWithSubs.length - 1; i >= 0; i--) {
+			menusWithSubs[i].addEventListener("touchend", openCloseMenuItem);
+		}
+	}else{
+		document.querySelector('#menuLink').addEventListener("click", function(e){
+			if(mainPannel.className != "show-menu"){
+				mainPannel.className = "show-menu"
+			}
+			else{
+				mainPannel.className = ""
+			}
+		});
+		for (var i = menusWithSubs.length - 1; i >= 0; i--) {
+			menusWithSubs[i].addEventListener("click", openCloseMenuItem);
+		}
+	}
+
+
+}); 
+
+var openCloseMenuItem = function(){
 			this.removeAttribute('href');
 			var element = getParentByTag(this, "li");
 			if (element.classList.contains('open')) {
@@ -43,10 +74,7 @@ document.addEventListener("DOMContentLoaded", function() {
 				//element.siblings('li').find('li').removeClass('open');
 				//element.siblings('li').find('ul').slideUp();
 			}
-		});
-	}
-}); 
-
+}
 
 var getParentByTag = function(element, tag, index){
 	if(index >= 5){
