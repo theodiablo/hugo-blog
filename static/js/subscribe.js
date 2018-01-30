@@ -1,7 +1,7 @@
-const SUBSCRIBED_COOKIE_NAME = "nl";
-const SUBSCRIBED_COOKIE_VALUE = "1"
+var SUBSCRIBED_COOKIE_NAME = "nl";
+var SUBSCRIBED_COOKIE_VALUE = "1"
 
-window.onload = function () {
+document.addEventListener("DOMContentLoaded", function() {
 	AWS.config.region = 'us-east-1'; // Region
 	AWS.config.credentials = new AWS.CognitoIdentityCredentials({IdentityPoolId: 'us-east-1:0a0d2bec-2e8f-4281-8abe-adfd65bb773a',});
 	var lambda = new AWS.Lambda({region: 'us-east-1', apiVersion: '2015-03-31'});
@@ -41,41 +41,42 @@ window.onload = function () {
 			subscribeEmail(email, name, global.languageCode, event);
 		}
 	});
-}
 
-function changeSubmitButtonEnableState(eventTarget, isEnabled){
-	eventTarget.getElementsByClassName("submit")[0].disabled = !isEnabled;
-}
+	
+	function changeSubmitButtonEnableState(eventTarget, isEnabled){
+		eventTarget.getElementsByClassName("submit")[0].disabled = !isEnabled;
+	}
 
-function changeLoadingVisibility(eventTarget, isVisible){
-	eventTarget.parentElement.getElementsByClassName("spinner")[0].hidden = !isVisible;
-}
+	function changeLoadingVisibility(eventTarget, isVisible){
+		eventTarget.parentElement.getElementsByClassName("spinner")[0].hidden = !isVisible;
+	}
 
-function changeSuccessVisibility(eventTarget, isVisible){
-	eventTarget.parentElement.getElementsByClassName("success")[0].hidden = !isVisible;
-}
+	function changeSuccessVisibility(eventTarget, isVisible){
+		eventTarget.parentElement.getElementsByClassName("success")[0].hidden = !isVisible;
+	}
 
-function createCookie(name,value,days) {
-  if (days) {
-    var date = new Date();
-    date.setTime(date.getTime()+(days*24*60*60*1000));
-    var expires = "; expires="+date.toGMTString();
-  }
-  else var expires = "";
-  document.cookie = name+"="+value+expires+"; path=/";
-}
+	function createCookie(name,value,days) {
+	  if (days) {
+	    var date = new Date();
+	    date.setTime(date.getTime()+(days*24*60*60*1000));
+	    var expires = "; expires="+date.toGMTString();
+	  }
+	  else var expires = "";
+	  document.cookie = name+"="+value+expires+"; path=/";
+	}
 
-function readCookie(name) {
-  var nameEQ = name + "=";
-  var ca = document.cookie.split(';');
-  for(var i=0;i < ca.length;i++) {
-    var c = ca[i];
-    while (c.charAt(0)==' ') c = c.substring(1,c.length);
-    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-  }
-  return null;
-}
+	function readCookie(name) {
+	  var nameEQ = name + "=";
+	  var ca = document.cookie.split(';');
+	  for(var i=0;i < ca.length;i++) {
+	    var c = ca[i];
+	    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	  }
+	  return null;
+	}
 
-function eraseCookie(name) {
-    createCookie(name,"",-1);
-}
+	function eraseCookie(name) {
+	    createCookie(name,"",-1);
+	}
+})
