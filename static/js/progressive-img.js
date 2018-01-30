@@ -1,14 +1,13 @@
 //Inspired by amazing tutorial on "sitepoint.com"
 
 
-
 if(window.addEventListener && window.requestAnimationFrame && document.getElementsByClassName){
 
 var timer, pItem;
 
 var inView = function(){
 	pItem = pItem || document.getElementsByClassName('progressive replace');
-	var wT = window.pageYOffset - 100,
+	var wT = window.pageYOffset - 200,
 		wB = wT + window.innerHeight + 200,
 		cRect, pT, pB, p = 0;
 
@@ -38,7 +37,9 @@ var loadFullImage = function(item){
 		if(pImg){
 			img.alt = pImg.alt || '';
 		}
-		item.removeChild[0]; //remove loading animation
+		if (item.children[0].classList.contains("cssload-loader")) {
+			item.removeChild(item.children[0]); //remove loading animation only if present
+		}
 		item.replaceChild(img, item.children[0]); //replace small image by new one
 		img.addEventListener('animationend', function(e){
 			//remove preview image
@@ -62,7 +63,7 @@ var scroller = function(e){
 	timer = timer || setTimeout(function(argument) {
 		timer = null;
 		requestAnimationFrame(inView);
-	}, 300);
+	}, 300); //Launch the function only once every 300ms, instead of 1000 times per seconds.
 }
 
 	window.addEventListener('scroll', scroller, false);
