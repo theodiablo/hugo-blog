@@ -2,21 +2,19 @@
 <html lang="{{ .Lang }}">
   <head>
     {{ partial "meta.html" . }}
-    {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet" media="screen">
-    {{ else }}
-    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" media="screen">
-    {{ end }}
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" media="screen">
-
     <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
     {{ block "meta" . }}{{ end }}
 
     <link rel="shortcut icon" type="image/png" href="/images/favicon.jpg"/>
     
-    <link rel="stylesheet" type="text/css" href="/css/flags16.css" media="screen"/>
+
+    <noscript id="deferred-styles">
+      <link rel="stylesheet" type="text/css" href="/css/flags16.css" media="screen"/>
+    </noscript>
+
     <style>
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
+      {{ replaceRE " +" " " (replaceRE "\n" "" (partial "external-fonts.css" .)) | safeCSS }}
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
     </style>
   </head>
@@ -93,23 +91,49 @@
         </aside>
       </div>
     </footer>
+    <div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-banner hidden" style="">
+      <!--googleoff: all-->
+      <span id="cookieconsent:desc" class="cc-message">{{ i18n "cookieConsentMessage" }}</span>
+      <div class="cc-compliance">
+        <a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn">{{ i18n "cookieConsentAccept" }}</a>
+      </div>
+    <!--googleon: all-->
     </div>
     <script>
       var global = { languageCode  : {{ $.Page.Lang }} };
-      //Facabook plugin
-      (function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
+      window.addEventListener("load", function(){
+      //Facabook plugin only once page is loaded
+      setTimeout(function(argument) {
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+      }, 500)
+    });
     </script>
+    <script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+          window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
+
     {{ "<!-- build:js -->" | safeHTML }}
-    <script src="/js/aws-sdk-2.108.0.min.js" async></script>
+    <script src="/js/utils.js" async></script>
     <script src="/js/subscribe.js" async></script>
     <script src="/js/cssmenu.js" async></script>
     <script src="/js/progressive-img.js" async></script>
+    <script src="/js/cookies-consent.js" async></script>
     {{ "<!-- endbuild -->" | safeHTML }}
     
   </body>

@@ -10,6 +10,12 @@ other = "Derniers articles"
 [categories]
 other = "Catégories"
 
+[cookieConsentMessage]
+other = "Pour que votre experience sur notre site soit encore meilleure, nous enregistrons de petits fichiers de données dans votre navigateur, aussi connus sous le nom de cookies. La plupart des autres sites web font de même."
+
+[cookieConsentAccept]
+other = "D'accord !"
+
 [tips]
 other = "Conseils"
 
