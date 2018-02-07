@@ -1,7 +1,11 @@
 //Inspired by amazing tutorial on "sitepoint.com"
 
 
-if(window.addEventListener && window.requestAnimationFrame && document.getElementsByClassName){
+(function(){
+
+var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+          window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+if(window.addEventListener && raf && document.getElementsByClassName){
 
 var timer, pItem;
 
@@ -62,10 +66,11 @@ var loadFullImage = function(item){
 var scroller = function(e){
 	timer = timer || setTimeout(function(argument) {
 		timer = null;
-		requestAnimationFrame(inView);
+		raf(inView);
 	}, 300); //Launch the function only once every 300ms, instead of 1000 times per seconds.
 }
 
 	window.addEventListener('scroll', scroller, false);
 	window.addEventListener('resize', scroller, false);
 }
+}())

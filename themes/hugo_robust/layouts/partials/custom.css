@@ -513,3 +513,76 @@ div.fb-follow{
     -moz-transform: translateX(0) scale(1);
   }
 }
+
+/* Cookies consent message */
+
+.cc-banner {
+    z-index: 98;
+    position: fixed;
+    display: flex;
+    color: rgb(131, 131, 145);
+    background-color: rgb(237, 239, 245);
+    padding: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    -ms-flex-align: center;
+    -ms-grid-row-align: center;
+    align-items: center;
+    width: 100%;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    font-size: .8em;
+}
+
+.cc-banner.hidden {
+    display: none;
+}
+
+.cc-banner .cc-message{
+  margin-left: 1em;
+  -ms-flex: 1;
+    flex: 1;
+}
+
+.cc-banner .cc-compliance {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-line-pack: justify;
+    align-content: space-between;
+}
+.cc-banner .cc-btn:last-child {
+    min-width: 140px;
+}
+.cc-banner .cc-btn{
+  margin: 0;
+    padding: .8em 1.8em;
+    height: 100%;
+    color: rgb(255, 255, 255);
+    border-color: transparent;
+    background-color: rgb(75, 129, 232);
+    -ms-flex: 1;
+    flex: 1;
+    cursor: pointer;
+    display: block;
+    font-weight: 700;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .cc-banner {
+    padding: .1em;
+    flex-direction: column;
+  }
+
+  .cc-banner .cc-btn{
+    margin: auto;
+    padding: .5em;
+    height: 1rem;
+  }
+}
