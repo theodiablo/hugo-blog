@@ -9,9 +9,9 @@ var htmlreplace = require('gulp-html-replace');
 var concat = require('gulp-concat');
 
  
-gulp.task('pre-build', gulp.series(responsiveImg, minifyJs));
+gulp.task('pre-build', gulp.series(responsiveImg));
 
-gulp.task('build', gulp.series(minifyHtml));
+gulp.task('build', gulp.series(minifyJs, minifyHtml));
 
 gulp.task('html', minifyHtml);
 gulp.task('images', responsiveImg);
@@ -21,8 +21,8 @@ var websiteUrl="//traveling-bubbles.com/";
 var imageSrc = 'static/images/posts/**/*.jpg';
 var imageDest = 'static/images/generated/posts';
 
-var jsSrc = "static/js/*.js";
-var jsDest = "static/js/generated";
+var jsSrc = "public/js/*.js";
+var jsDest = "public/js/";
 var jsDestFile = 'all.min.js';
 
 var htmlSrc = 'public/**/*.html';
@@ -40,8 +40,6 @@ function minifyHtml() {
 
 function minifyJs () {
   return  gulp.src(jsSrc)
-    .pipe(newer({dest: jsDest + "/" + jsDestFile }))
-    .pipe(concat(jsDestFile))
     .pipe(uglify())
     .pipe(gulp.dest(jsDest));
 }
