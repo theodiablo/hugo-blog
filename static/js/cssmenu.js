@@ -1,35 +1,4 @@
 (function(){
-var attachEvents = function(){
-	var menusWithSubs = document.querySelectorAll('#cssmenu li.has-sub>a');
-	var mainPannel = document.querySelector('#all-items');
-
-	if(is_touch_device()){
-		document.querySelector('#menuLink').addEventListener("touchend", function(e){
-			e.preventDefault();
-			if(mainPannel.className != "show-menu"){
-				mainPannel.className = "show-menu"
-			}
-			else{
-				mainPannel.className = ""
-			}
-		});
-		for (var i = menusWithSubs.length - 1; i >= 0; i--) {
-			menusWithSubs[i].addEventListener("touchend", openCloseMenuItem);
-		}
-	}else{
-		document.querySelector('#menuLink').addEventListener("click", function(e){
-			if(mainPannel.className != "show-menu"){
-				mainPannel.className = "show-menu"
-			}
-			else{
-				mainPannel.className = ""
-			}
-		});
-		for (var i = menusWithSubs.length - 1; i >= 0; i--) {
-			menusWithSubs[i].addEventListener("click", openCloseMenuItem);
-		}
-	}
-}();
 
 var openCloseMenuItem = function(){
 			this.removeAttribute('href');
@@ -88,4 +57,37 @@ var getChildrenByTag = function(element, tag){
 	      return element.childNodes[i];
 	    }        
 	}	
-}}())
+}
+	
+var attachEvents = function(){
+	var menusWithSubs = document.querySelectorAll('#cssmenu li.has-sub>a');
+	var mainPannel = document.querySelector('#all-items');
+
+	if(is_touch_device()){
+		document.querySelector('#menuLink').addEventListener("touchend", function(e){
+			e.preventDefault();
+			if(mainPannel.className != "show-menu"){
+				mainPannel.className = "show-menu"
+			}
+			else{
+				mainPannel.className = ""
+			}
+		});
+		for (var i = menusWithSubs.length - 1; i >= 0; i--) {
+			menusWithSubs[i].addEventListener("touchend", openCloseMenuItem);
+		}
+	}else{
+		document.querySelector('#menuLink').addEventListener("click", function(e){
+			if(mainPannel.className != "show-menu"){
+				mainPannel.className = "show-menu"
+			}
+			else{
+				mainPannel.className = ""
+			}
+		});
+		for (var i = menusWithSubs.length - 1; i >= 0; i--) {
+			menusWithSubs[i].addEventListener("click", openCloseMenuItem);
+		}
+	}
+}();
+}())
