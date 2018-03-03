@@ -58,6 +58,7 @@ var getChildrenByTag = function(element, tag){
 	    }        
 	}	
 }
+
 	
 var attachEvents = function(){
 	var menusWithSubs = document.querySelectorAll('#cssmenu li.has-sub>a');

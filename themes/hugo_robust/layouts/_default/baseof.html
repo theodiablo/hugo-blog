@@ -12,10 +12,13 @@
       <link rel="stylesheet" type="text/css" href="/css/flags16.css" media="screen"/>
     </noscript>
 
+
+
+            <!-- Insert css files, but removes: Newlines, Comments and convert several whitespaces into one -->
     <style>
-      {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
-      {{ replaceRE " +" " " (replaceRE "\n" "" (partial "external-fonts.css" .)) | safeCSS }}
-      {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
+      {{ replaceRE "/[*].*?[*]/" " " (replaceRE "[\t\v\f\r ]+" " " (replaceRE "\n" "" (partial "styles.css" .))) | safeCSS }}
+      {{ replaceRE "/[*].*?[*]/" " " (replaceRE "[\t\v\f\r ]+" " " (replaceRE "\n" "" (partial "external-fonts.css" .))) | safeCSS }}
+      {{ replaceRE "/[*].*?[*]/" " " (replaceRE "[\t\v\f\r ]+" " " (replaceRE "\n" "" (partial "custom.css" .))) | safeCSS }}
     </style>
   </head>
 
@@ -91,6 +94,7 @@
         </aside>
       </div>
     </footer>
+    <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
     <div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-banner hidden" style="">
       <!--googleoff: all-->
       <span id="cookieconsent:desc" class="cc-message">{{ i18n "cookieConsentMessage" }}</span>
@@ -101,18 +105,6 @@
     </div>
     <script>
       var global = { languageCode  : {{ $.Page.Lang }} };
-      window.addEventListener("load", function(){
-      //Facabook plugin only once page is loaded
-      setTimeout(function(argument) {
-        (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
-            fjs.parentNode.insertBefore(js, fjs);
-          }(document, 'script', 'facebook-jssdk'));
-      }, 500)
-    });
     </script>
     <script>
       var loadDeferredStyles = function() {
@@ -128,14 +120,31 @@
       else window.addEventListener('load', loadDeferredStyles);
     </script>
 
+    <!-- Tags for gulp jsmin task -->
     {{ "<!-- build:js -->" | safeHTML }}
-    <script src="/js/utils.js" async></script>
+    <script src="/js/utils.js"></script>
     <script src="/js/subscribe.js" async></script>
     <script src="/js/cssmenu.js" async></script>
     <script src="/js/progressive-img.js" async></script>
     <script src="/js/cookies-consent.js" async></script>
     {{ "<!-- endbuild -->" | safeHTML }}
+    <!-- End of tags for gulp jsmin task -->
     
+    <script>
+      var global = { languageCode  : {{ $.Page.Lang }} };
+      window.addEventListener("load", function(){
+      //Facabook plugin only once page is loaded, and wait 500ms before doing it
+      setTimeout(function(argument) {
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/{{ i18n "facebookLocaleCode" }}/sdk.js#xfbml=1&version=v2.10&appId=541227622879810";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+      }, 500)
+    });
+    </script>
   </body>
 </html>
 

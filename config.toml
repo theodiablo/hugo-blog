@@ -8,6 +8,7 @@ paginate = 6
 googleAnalytics = "UA-100203771-1"
 disqusShortname = "travel-bubbles"
 enableRobotsTXT = true
+pluralizeListTitles = false
 
 
 [author]

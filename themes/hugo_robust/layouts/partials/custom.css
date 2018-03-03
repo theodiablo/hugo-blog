@@ -406,6 +406,7 @@ div.fb-follow{
   left: 0;
   margin: auto;
   text-align: center;
+  z-index: 999;
 }
 .cssload-loader .cssload-ball {
   width: 19px;
